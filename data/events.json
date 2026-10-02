@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-10-02T18:30:00+00:00",
+  "events": [
+    {
+      "id": "figueres-les-mares",
+      "title": "LES MARES",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/lesmares.jpg?aoe=1&h=580&q=80&w=870&zc=1",
+      "municipality": "Figueres",
+      "venue": "Teatre Municipal el Jardí",
+      "category": "Humor · Teatre",
+      "description": "De Fel Faixedas i Carles Xuriguera",
+      "url": "https://www.figueresaescena.cat/ca/programacio/c/779-les-mares.html",
+      "source": "Figueres a Escena",
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "bisbal-tango",
+      "title": "ADRIÁN IAIES - HORACIO FUMERO - MILAGROS CALIVA",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/tangoreflectionsimg_4702.webp?aoe=1&f=webp&h=580&q=80&sh=535.71&sw=803.57&sx=159.15&sy=91.31&w=870",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Teatre Mundial",
+      "category": "Música",
+      "description": "TANGO REFLECTIONS",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14407-adrian-iaies-horacio-fumero-milagros-oliva.html",
+      "source": "Agenda de la Bisbal",
+      "sessions": [
+        {
+          "date": "2026-10-02",
+          "time": "21:00"
+        }
+      ]
+    },
+    {
+      "id": "museu-curs-poesia",
+      "title": "UNA HISTÒRIA ENTRE L’ART I LA POESIA: ESTIMAT LECTOR, NO LLEGEIXIS",
+      "image": null,
+      "municipality": "Figueres",
+      "venue": "Museu de l'Empordà",
+      "category": "Museus · Art",
+      "description": "Curs a càrrec de Gabriel Ventura.",
+      "url": "https://www.museuemporda.org/",
+      "source": "Museu de l'Empordà",
+      "sessions": [
+        {
+          "date": "2026-10-07",
+          "time": null
+        },
+        {
+          "date": "2026-10-14",
+          "time": null
+        },
+        {
+          "date": "2026-10-21",
+          "time": null
+        },
+        {
+          "date": "2026-10-28",
+          "time": null
+        }
+      ]
+    }
+  ],
+  "validation": [
+    {
+      "connector": "seed/figueres",
+      "ok": true,
+      "events": 1,
+      "with_image": 1,
+      "with_sessions": 1,
+      "with_venue": 1,
+      "with_municipality": 1
+    },
+    {
+      "connector": "seed/bisbal",
+      "ok": true,
+      "events": 1,
+      "with_image": 1,
+      "with_sessions": 1,
+      "with_venue": 1,
+      "with_municipality": 1
+    },
+    {
+      "connector": "seed/museu_emporda",
+      "ok": true,
+      "events": 1,
+      "with_image": 0,
+      "with_sessions": 1,
+      "with_venue": 1,
+      "with_municipality": 1
+    }
+  ]
+}
