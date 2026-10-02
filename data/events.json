@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:06:59.701207+00:00",
+  "generated_at": "2026-10-02T19:13:19.848390+00:00",
   "events": [
     {
       "id": "Museu de l'Empordà-248813ceb77a",
@@ -11,6 +11,8 @@
       "description": "Artistes convidades és un projecte que convida artistes a intervenir en l’exposició de col·lecció del Museu de l’Empordà amb una obra de nova producció. Així, s’integra de forma temporal en el recorregut expositiu per tal de reforçar l’exposició de la col·lecció com un espai viu i dinàmic.",
       "url": "https://www.museuemporda.org/?exposicions=artistes-convidades-desenterrar-es-tornar",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-02-05",
@@ -28,6 +30,8 @@
       "description": "Hora del conte",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14379-contes-darreu-del-mon.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-03",
@@ -45,6 +49,8 @@
       "description": "Inauguració de l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria”, comissariada per M. Mercè Cuartiella i Joan Manuel Soldevilla.",
       "url": "https://www.museuemporda.org/?activitat=inauguracio-de-lexposicio",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-03",
@@ -57,11 +63,13 @@
       "title": "NIT DE REIS",
       "image": "https://www.figueresaescena.cat/img/image/fotos/nitdereis-foto1.png?w=600&h=600&zc=1&aoe=1&q=80&f=png",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "Teatre Municipal el Jardí (escenari)",
       "category": "Teatre",
       "description": "De William Shakespeare | Tequatre",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/783-nit-de-reis.html",
       "source": "Figueres a Escena",
+      "date_start": "2026-10-02",
+      "date_end": "2026-10-04",
       "sessions": [
         {
           "date": "2026-10-03",
@@ -83,6 +91,8 @@
       "description": "GENT GRAN L'ESPLAI",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14408-orquestra-metderband.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-03",
@@ -100,6 +110,8 @@
       "description": "Cinc Cèntims Teatre",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/778-mular-o-la-gran-captura.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-04",
@@ -117,6 +129,8 @@
       "description": "JOVENTUTS MUSICALS",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14409-port-bo-quina-cantada.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-04",
@@ -134,6 +148,8 @@
       "description": null,
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14461-commemoracio-del-foc-de-la-bisbal.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-06",
@@ -151,6 +167,8 @@
       "description": "De Maria Camila Sanjinés i Guillem Mont de Palol",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/811-fang-amb-cura-amb-cura.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-07",
@@ -168,6 +186,8 @@
       "description": "Curs a càrrec de Gabriel Ventura (Granollers, 1988), escriptor i artista. Una de les seves últimes col·laboracions ha consistit en la investigació històrica i literària de LUX (2025), àlbum de Rosalía. Aquesta investigació s’ha publicat en el LUX ZINE, juntament amb les lletres de la cantant.",
       "url": "https://www.museuemporda.org/?activitat=una-historia-entre-lart-i-la-poesia-estimat-lector-no-llegeixis",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-07",
@@ -197,6 +217,8 @@
       "description": null,
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14463-parlem-de-salut-mental-en-el-nostre-entorn.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-08",
@@ -214,6 +236,8 @@
       "description": null,
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14462-ficac-al-teatre-mundial-the-legend-of-the-vag.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-09",
@@ -231,6 +255,8 @@
       "description": null,
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14451-inauguracio-ecos.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-09",
@@ -248,6 +274,8 @@
       "description": "De Fel Faixedas i Carles Xuriguera",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/779-les-mares.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-09",
@@ -265,6 +293,8 @@
       "description": "Any Gaudí 2026 a la Bisbal d'Empordà",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14454-taller-de-tricomia.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-09",
@@ -282,6 +312,8 @@
       "description": "Any Gaudí 2026 a la Bisbal d'Empordà",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14453-jornada-tecnica-gaudi-modernisme-i-patrimoni.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-10",
@@ -299,6 +331,8 @@
       "description": "DAFNIS BALDUZ",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14410-qui-va-matar-el-meu-pare.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-10",
@@ -316,6 +350,8 @@
       "description": "Visita comentada amb els comissarisde l’exposició, M. Mercè Cuartiella i Joan Manuel Soldevilla, amb motiu de les Jornades Europees de Patrimoni.",
       "url": "https://www.museuemporda.org/?activitat=visita-comentada-a-lexposicio-19",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-10",
@@ -333,6 +369,8 @@
       "description": "Missa, sardanes i concurs d'arrossos",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14450-aplec-del-remei.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-11",
@@ -350,6 +388,8 @@
       "description": "De Marc Rosich i Jordi Cornudella",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/765-el-retrat-de-dorian-gray.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-11",
@@ -367,6 +407,8 @@
       "description": "DOCS DEL MES",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14424-les-culpables.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-11",
@@ -384,6 +426,8 @@
       "description": "VIATGES",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14425-les-feroe-unes-illes-maravelloses.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-11",
@@ -401,6 +445,8 @@
       "description": "Jornades Europees de Patrimoni",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14455-portes-obertes-al-terracotta-museu.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-11",
@@ -418,6 +464,8 @@
       "description": null,
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14458-jornada-per-la-llengua-en-catala-sempre.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-12",
@@ -435,6 +483,8 @@
       "description": "Societat cultural Sant Jaume Premià de Dalt",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/770-passejant-amb-santiago-rusinol.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-12",
@@ -447,11 +497,13 @@
       "title": "ROJO CLAVEL",
       "image": "https://www.figueresaescena.cat/img/image/fotos/rojoclavel.jpg?w=600&h=600&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "La Cate",
       "category": "Projeccions",
       "description": "Documental de Roser Corella sobre Manuel Liñán",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/781-rojo-clavel.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-14",
@@ -469,6 +521,8 @@
       "description": "Amb motiu del centenari del naixement del cineasta i activista polític Pere Portabella, nascut a Figueres l’any 1927, el Museu de l’Empordà participa a “Acció Portabella’, un programa d’activitats internacional que es desplega al llarg de 2026 i 2027.",
       "url": "https://www.museuemporda.org/?activitat=accio-portabella-centenari-pere-portabella-figueres-11-2-1927",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-15",
@@ -486,6 +540,8 @@
       "description": "Llegir l'Òpera",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14380-lelisir-damore-de-donizetti.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-15",
@@ -503,6 +559,8 @@
       "description": null,
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14438-el-foment-a-debat-un-espai-cultural-per-a-la-.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-16",
@@ -520,6 +578,8 @@
       "description": "De Manuel Liñán",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/761-muerta-de-amor.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-16",
@@ -537,6 +597,8 @@
       "description": "Museus = Espais de Benestar",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14456-terra-foc-i-emocions-visita-guiada-sensorial-.html",
       "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-16",
@@ -554,6 +616,8 @@
       "description": "Dirigida per Pau Roca | Basada en el llibre d’Édouard Louis",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/782-qui-va-matar-el-meu-pare.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-18",
@@ -571,6 +635,8 @@
       "description": "Taula rodona en el marc del projecte “Un museu fora del museu. La col·lecció MACBA en llocs insospitats” , amb motiu de la celebració dels seus 30 anys.",
       "url": "https://www.museuemporda.org/?activitat=nous-escenaris-per-a-una-colleccio",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-20",
@@ -588,6 +654,8 @@
       "description": "“Passada la Jonquera, caminant per carretera, el Trueba i jo anàvem fent camí encaboriats en la inseguretat de l’esdevenidor. […] El meu amic s’aturà de sobte en una fita, en llegí amb atenció el quilometratge i l’anotà amb cura en una llibreteta que duia al sarró. Reeixida l’operació després d’haver llepat un parell de cops un tros de llapis pel cantó de la mina, amb un aire una mica misteriós, ara penso que forçadament misteriós, em va dir que el seguís. Ho vaig fer, seguint-li el joc, en silenci. Mentre ens endinsàvem en un terreny plantat d’oliveres, el Trueba comptava els arbres i s’assegurava que no hi hagués testimonis. Aleshores, escollí l’olivera més vella i retorta, i em demanà que l’ajudés a fer un sot vora de l’arrel. […] Embolcallada en una tovallola, enterràvem en aquell sot la seva estimada corneta de llautó que havia tocat a l’aviació de Sabadell, lluenta, acabada de polir. […] –Perquè tornarem, oi, Marín? –deia el Trueba. El Trueba, però, no esperava resposta. Va fer broma: –Si hagués tingut un sextant, hauria pres la posició amb els graus de longitud i latitud corresponents. Tots dos érem lectors apassionats de Jules Verne.”",
       "url": "https://www.museuemporda.org/?activitat=fugir-era-el-mes-bell-que-teniem",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-22",
@@ -605,6 +673,8 @@
       "description": "La Camerata | Versió dramatitzada amb Elisabet Casanovas",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/784-somni-duna-nit-destiu.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-24",
@@ -622,6 +692,8 @@
       "description": "Eunoia Kolektiva",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/766-tenet.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-25",
@@ -634,11 +706,13 @@
       "title": "L’HURACÀ",
       "image": "https://www.figueresaescena.cat/img/image/fotos/1915definitiu.jpeg?w=600&h=600&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "Cercle Sport Figuerenc",
       "category": "Teatre",
       "description": "De Carme Montoriol | La Funcional Teatre",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/785-lhuraca.html",
       "source": "Figueres a Escena",
+      "date_start": "2026-10-30",
+      "date_end": "2026-11-14",
       "sessions": [
         {
           "date": "2026-10-30",
@@ -672,6 +746,8 @@
       "description": "Ismael Arroyo i Eduardo Moreno | Cicle Figueres Clàssica",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/812-ressonancies-del-romanticisme.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-30",
@@ -689,6 +765,8 @@
       "description": "De Gaetano Donizetti",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/827-lelisir-damore.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-01",
@@ -701,11 +779,13 @@
       "title": "XERRADA SOBRE L'ELISIR D'AMORE",
       "image": "https://www.figueresaescena.cat/img/image/fotos/i26foc3elixir008211.jpg?w=600&h=600&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "Saló de descans (Teatre Municipal el Jardí)",
       "category": null,
       "description": "Prèvia a l’òpera 'L’elisir d’amore' de la Fundació Òpera a Catalunya",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/786-xerrada-sobre-lelisir-damore.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-01",
@@ -723,6 +803,8 @@
       "description": "Sessió de curtmetratges",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/813-masculinitats-a-la-pantalla.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-04",
@@ -740,6 +822,8 @@
       "description": "Conversa amb Rosa Maria Malet i Elena Escolar en el marc del Cicle “Joan Miró. Art i territori”, impulsat per la Xarxa de Museus d’Art de Catalunya .",
       "url": "https://www.museuemporda.org/?activitat=multiplicar-el-gest-miro-i-la-produccio-seriada",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-05",
@@ -757,6 +841,8 @@
       "description": "Dirigida per Jordi Oriol",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/787-lultim-atom.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-06",
@@ -769,11 +855,13 @@
       "title": "TALLER DE CANT I ESCOLTA COL·LECTIVA",
       "image": "https://www.figueresaescena.cat/img/image/fotos/tallerdecant.jpg?w=600&h=600&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "Teatre Municipal el Jardí",
       "category": null,
       "description": "Amb Elena Tarrats",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/788-taller-de-cant-i-escolta-collectiva.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-07",
@@ -791,6 +879,8 @@
       "description": "Zero en Conducta",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/789-la-tempesta.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-08",
@@ -808,6 +898,8 @@
       "description": "A Marta Marín-Dòmine i Odette Martínez-Maler les uneix allò que generalment separa: la frontera. Ambdues han acceptat l’herència familiar de l’exili i han construït un corpus intel·lectual i artístic que les ha convertit, segons el seu vocabulari particular, en «filles de frontera». Mai prou a prop de l’arrelament ni massa lluny d’un punt de fuga.",
       "url": "https://www.museuemporda.org/?activitat=exilis-del-passat-i-exilis-contemporanis",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-10",
@@ -825,6 +917,8 @@
       "description": "Participants de la formació ENTÀNDEM | Cia. Kamchàtka",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/814-capsules-de-creacio-en-lespai-public.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-12",
@@ -842,6 +936,8 @@
       "description": "En el context de l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria” , la Càtedra d’art i cultura contemporanis organitza aquesta jornada d’estudis que tindrà lloc a Figueres i a Girona. Volem reflexionar sobre l’entrada del còmic als museus, a l’acadèmia i als espais culturals com a objecte d’estudi, conservació i exposició; i sobre quin efecte pot tenir aquest fet tant en el futur del còmic en si, com sobre les mateixes institucions culturals que s’hi interessen i l’acullen. La jornada s’adreça especialment als professionals de la museologia, la gestió cultural, la recerca i l’ensenyament, que tindran ocasió d’escoltar i debatre amb alguns dels màxims especialistes i responsables pel que fa a aquest tema que tenim a casa nostra. El públic general també hi és benvingut.",
       "url": "https://www.museuemporda.org/?activitat=jornada-destudis-el-comic-noves-mirades-des-de-lacademia-els-museus-i-la-recerca",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-13",
@@ -859,6 +955,8 @@
       "description": "De Judit Colomer i Pau Vinyals",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/790-tendrament.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-13",
@@ -876,6 +974,8 @@
       "description": "Visita guiada a l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria, a càrrec dels comissaris, M. Mercè Cuartiella i Joan Manuel Soldevilla , en el marc de la Jornada d’estudis “El còmic: noves mirades des de l’acadèmia, els museus i la recerca”.",
       "url": "https://www.museuemporda.org/?activitat=visita-comentada-a-lexposicio-20",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-13",
@@ -893,6 +993,8 @@
       "description": null,
       "url": "https://www.museuemporda.org/?activitat=presentacio-del-comic-laltre-emporda",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-14",
@@ -905,11 +1007,13 @@
       "title": "TEATRALITZAR LA TROBADA",
       "image": "https://www.figueresaescena.cat/img/image/fotos/tallerpauvinyalsjuditcolomer.jpg?w=600&h=600&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "Sala La Cate",
       "category": null,
       "description": "Amb Judit Colomer i Pau Vinyals",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/791-teatralitzar-la-trobada.html",
       "source": "Figueres a Escena",
+      "date_start": "2026-11-14",
+      "date_end": "2026-11-15",
       "sessions": [
         {
           "date": "2026-11-14",
@@ -926,11 +1030,13 @@
       "title": "PRÈVIA DE 'WE. NOSALTRES I ELS TEMPS'",
       "image": "https://www.figueresaescena.cat/img/image/fotos/mp-we_2010webtristanperez-martin.jpg?w=600&h=600&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
-      "venue": null,
+      "venue": "Teatre Municipal el Jardí (saló de descans)",
       "category": null,
       "description": "Activitat Mercat de les Flors en Gira",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/792-previa-de-we-nosaltres-i-els-temps.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-15",
@@ -948,6 +1054,8 @@
       "description": "Mal Pelo",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/793-we-nosaltres-i-els-temps.html",
       "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-15",
@@ -965,6 +1073,8 @@
       "description": "Conferència. “Místiques de la masculinitat. Identitats de gènere entre els herois del còmic”, a càrrec de Pere Parramon, doctor en Història de l’Art i Màster en Comunicació i Crítica d’Art per la Universitat de Girona.",
       "url": "https://www.museuemporda.org/?activitat=mistiques-de-la-masculinitat-identitats-de-genere-entre-els-herois-del-comic",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-19",
@@ -982,6 +1092,8 @@
       "description": "Visita guiada a l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria, a càrrec dels comissaris, M. Mercè Cuartiella i Joan Manuel Soldevilla",
       "url": "https://www.museuemporda.org/?activitat=visita-guiada-a-lexposicio-5",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-21",
@@ -999,6 +1111,8 @@
       "description": "Ha treballat als diaris AVU I i La Vanguardi a a les seccions de Societat, Religió i Cultura. Ha col·laborat en publicacions comarcals com Hora Nova , Empordà Federal o Alberes. Va ser comissari de l’Any Dalí a Figueres el 2004. Ha estat curador de diverses exposicions i ha publicat una quinzena de llibres, dels quals sis sobre Salvador Dalí.",
       "url": "https://www.museuemporda.org/?activitat=una-historia-de-lladres-i-serenos-de-museus",
       "source": "Museu de l'Empordà",
+      "date_start": null,
+      "date_end": null,
       "sessions": [
         {
           "date": "2026-11-25",
@@ -1016,6 +1130,8 @@
       "description": "Anne-Laure Cano",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14452-ecos.html",
       "source": "Agenda de la Bisbal",
+      "date_start": "2026-10-09",
+      "date_end": "2027-01-10",
       "sessions": []
     },
     {
@@ -1028,6 +1144,8 @@
       "description": "Fotografies de Pilar Aldana",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14465-el-temple-de-la-llum.html",
       "source": "Agenda de la Bisbal",
+      "date_start": "2026-10-02",
+      "date_end": "2026-10-30",
       "sessions": []
     },
     {
@@ -1040,6 +1158,8 @@
       "description": "Santi Moix",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14345-en-ombres-silents-i-entre-somnis.html",
       "source": "Agenda de la Bisbal",
+      "date_start": "2026-06-28",
+      "date_end": "2027-01-31",
       "sessions": []
     },
     {
@@ -1052,6 +1172,8 @@
       "description": "Una setmana per fer bategar el comerç local de la Bisbal",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14460-la-comerciada.html",
       "source": "Agenda de la Bisbal",
+      "date_start": "2026-10-05",
+      "date_end": "2026-10-12",
       "sessions": []
     },
     {
@@ -1064,6 +1186,8 @@
       "description": "Agustina Garrigou",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/14370-llengua-de-sal.html",
       "source": "Agenda de la Bisbal",
+      "date_start": "2026-07-17",
+      "date_end": "2026-10-04",
       "sessions": []
     },
     {
@@ -1076,6 +1200,8 @@
       "description": "Primer dissabte del mes.",
       "url": "https://agenda.labisbal.cat/ca/agenda/c/13312-visita-guiada.html",
       "source": "Agenda de la Bisbal",
+      "date_start": "2023-04-01",
+      "date_end": "2026-12-05",
       "sessions": []
     }
   ],
@@ -1086,7 +1212,7 @@
       "events": 24,
       "with_image": 24,
       "with_sessions": 24,
-      "with_venue": 16,
+      "with_venue": 23,
       "with_municipality": 24
     },
     {
