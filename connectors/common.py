@@ -67,3 +67,12 @@ def normalize_event(*, source, title, url, municipality, venue=None, category=No
       "source": source,
       "sessions": sessions or []
     }
+
+
+def dedupe_sessions(items):
+    seen=set(); out=[]
+    for x in items or []:
+        key=(x.get("date"),x.get("time"))
+        if key[0] and key not in seen:
+            seen.add(key); out.append({"date":key[0],"time":key[1]})
+    return sorted(out,key=lambda x:(x["date"],x.get("time") or ""))
