@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agenda cultural</title>
+<style>
+:root{--ultra:#3047D8;--cream:#F4F0E8;--ink:#171717;--lime:#C8FF45;--violet:#8D65FF;--pink:#FF7DAE}
+*{box-sizing:border-box} body{margin:0;background:var(--cream);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
+header{padding:34px 4vw 20px;border-bottom:2px solid var(--ink);display:flex;gap:20px;align-items:end;justify-content:space-between}
+h1{font-size:clamp(42px,8vw,108px);line-height:.82;margin:0;letter-spacing:-.07em;color:var(--ultra)}
+header p{max-width:420px;margin:0;font-size:15px}.filters{padding:18px 4vw;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid #999}
+button{border:1px solid var(--ink);background:transparent;padding:9px 14px;border-radius:999px;cursor:pointer}button.active{background:var(--ink);color:white}
+main{padding:28px 4vw 60px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.card{border:2px solid var(--ink);background:white;display:flex;flex-direction:column;min-height:480px}.media{aspect-ratio:4/3;background:var(--ultra);overflow:hidden}
+.media img{width:100%;height:100%;object-fit:cover}.body{padding:18px;display:flex;flex-direction:column;flex:1}
+.source{font-size:12px;text-transform:uppercase;letter-spacing:.08em}.title{font-size:27px;line-height:.95;letter-spacing:-.035em;margin:12px 0}
+.when{font-weight:700;margin:6px 0}.place{margin-top:auto;padding-top:20px}.tag{display:inline-block;background:var(--lime);padding:5px 8px;font-size:12px;margin-top:10px}
+a{color:inherit}.empty{grid-column:1/-1;padding:40px;border:2px dashed}
+@media(max-width:900px){main{grid-template-columns:1fr 1fr}}@media(max-width:620px){main{grid-template-columns:1fr}header{display:block}header p{margin-top:18px}}
+</style>
+</head>
+<body>
+<header><h1>Agenda<br>cultural</h1><p>Activitats recollides automàticament de Figueres a Escena, Museu de l’Empordà i Agenda de la Bisbal.</p></header>
+<div class="filters" id="filters"></div><main id="grid"><div class="empty">Carregant activitats…</div></main>
+<script>
+let DATA=[], current="Totes";
+const fmt=d=>new Intl.DateTimeFormat("ca-ES",{weekday:"short",day:"numeric",month:"short"}).format(new Date(d+"T12:00:00"));
+function render(){
+ const rows=DATA.filter(e=>current==="Totes"||e.municipality===current);
+ document.querySelector("#grid").innerHTML=rows.length?rows.map(e=>{
+  const s=e.sessions?.[0], when=s?`${fmt(s.date)}${s.time?" · "+s.time:""}`:"Data per confirmar";
+  return `<article class="card"><div class="media">${e.image?`<img loading="lazy" src="${e.image}" alt="">`:""}</div><div class="body">
+  <div class="source">${e.source}</div><div class="title">${e.title}</div><div class="when">${when}</div>
+  ${e.sessions?.length>1?`<small>+ ${e.sessions.length-1} sessions més</small>`:""}
+  <div class="place">${e.venue||"Espai per confirmar"} · ${e.municipality}</div>
+  ${e.category?`<span class="tag">${e.category}</span>`:""}<p><a href="${e.url}" target="_blank" rel="noopener">Veure activitat ↗</a></p>
+  </div></article>`}).join(""):`<div class="empty">No hi ha activitats per aquest filtre.</div>`;
+}
+fetch("data/events.json").then(r=>r.json()).then(j=>{
+ DATA=j.events||[];
+ const vals=["Totes",...new Set(DATA.map(e=>e.municipality))];
+ document.querySelector("#filters").innerHTML=vals.map(v=>`<button data-v="${v}" class="${v==="Totes"?"active":""}">${v}</button>`).join("");
+ document.querySelectorAll("button").forEach(b=>b.onclick=()=>{current=b.dataset.v;document.querySelectorAll("button").forEach(x=>x.classList.toggle("active",x===b));render()});
+ render();
+}).catch(()=>document.querySelector("#grid").innerHTML='<div class="empty">Executa <b>python update.py</b> i obre el web amb un servidor local.</div>');
+</script></body></html>
