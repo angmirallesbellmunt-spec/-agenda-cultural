@@ -54,7 +54,7 @@ def parse_long_date(text, year=2026):
     return {"date":iso_date(int(m.group(1)),mon,year),"time":tm.group(1) if tm else None}
 
 def normalize_event(*, source, title, url, municipality, venue=None, category=None,
-                    description=None, image=None, sessions=None):
+                    description=None, image=None, sessions=None, date_start=None, date_end=None):
     return {
       "id": stable_id(source,url,title),
       "title": clean(title),
@@ -65,6 +65,8 @@ def normalize_event(*, source, title, url, municipality, venue=None, category=No
       "description": clean(description) or None,
       "url": url,
       "source": source,
+      "date_start": date_start,
+      "date_end": date_end,
       "sessions": sessions or []
     }
 

@@ -35,6 +35,13 @@ def sessions_from(text):
             if mon: out.append({'date':iso_date(int(m.group(1)),mon,2026),'time':m.group(3)})
     return dedupe_sessions(out)
 
+def period_from(text):
+    m=re.search(r"Del\s+(?:dl|dt|dc|dj|dv|ds|dg)\.?\s*(\d{1,2})\.(\d{1,2})\.(\d{2,4})\s+al\s+(?:dl|dt|dc|dj|dv|ds|dg)\.?\s*(\d{1,2})\.(\d{1,2})\.(\d{2,4})",text,re.I)
+    if not m: return (None,None)
+    vals=[int(x) for x in m.groups()]
+    y1=2000+vals[2] if vals[2]<100 else vals[2]; y2=2000+vals[5] if vals[5]<100 else vals[5]
+    return (iso_date(vals[0],vals[1],y1), iso_date(vals[3],vals[4],y2))
+
 def run():
     s=requests.Session(); s.headers.update(HEADERS)
     d=soup(s.get(LIST,timeout=30).text)
@@ -48,12 +55,15 @@ def run():
         h1=p.select_one('h1')
         if not h1: continue
         title=clean(h1.get_text(' ',strip=True)); text=own_text(p)
-        sessions=sessions_from(text)
+        sessions=sessions_from(text); date_start,date_end=period_from(text)
         venue=None
         for a in p.select('a[href]'):
             z=clean(a.get_text(' ',strip=True))
-            if z in ('Teatre Municipal el Jardí','Auditori Caputxins','Sala La Cate','La Cate','Bar de la Cate'):
+            if z in ('Teatre Municipal el Jardí','Auditori Caputxins','Sala La Cate','La Cate','Bar de la Cate','Cercle Sport Figuerenc'):
                 venue=z; break
+        if not venue:
+            m=re.search(r'Espai:\s*([^\n]+)',text,re.I)
+            if m: venue=clean(m.group(1))
         cats=[]
         for a in p.select('a[href]'):
             z=clean(a.get_text(' ',strip=True))
@@ -61,5 +71,5 @@ def run():
         subtitle=p.select_one('h1 + h2')
         desc=clean(subtitle.get_text(' ',strip=True)) if subtitle else None
         out.append(normalize_event(source=SOURCE,title=title,url=u,municipality='Figueres',venue=venue,
-            category=' · '.join(cats) or None,description=desc,image=best_image(p,u),sessions=sessions))
+            category=' · '.join(cats) or None,description=desc,image=best_image(p,u),sessions=sessions,date_start=date_start,date_end=date_end))
     return out
