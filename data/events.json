@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:43:17.627823+00:00",
+  "generated_at": "2026-10-04T18:38:04.947081+00:00",
   "events": [
     {
       "id": "Museu de l'Empordà-248813ceb77a",
@@ -17,63 +17,6 @@
         {
           "date": "2026-02-05",
           "time": null
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-c2714534ded2",
-      "title": "MULAR (O LA GRAN CAPTURA)",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/mular.png?w=870&h=580&zc=1&aoe=1&q=80&f=png",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Familiar · Teatre",
-      "description": "Cinc Cèntims Teatre",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/778-mular-o-la-gran-captura.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-d7d5c8ba6d2b",
-      "title": "NIT DE REIS",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/tequatre.jpg?w=400&h=400&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí (escenari)",
-      "category": "Teatre",
-      "description": "De William Shakespeare | Tequatre",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/783-nit-de-reis.html",
-      "source": "Figueres a Escena",
-      "date_start": "2026-10-02",
-      "date_end": "2026-10-04",
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-d3f13c161406",
-      "title": "PORT BO",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/portbo-jjmm.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Música",
-      "description": "JOVENTUTS MUSICALS",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14409-port-bo-quina-cantada.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-04",
-          "time": "19:00"
         }
       ]
     },
@@ -1079,6 +1022,44 @@
       ]
     },
     {
+      "id": "Figueres a Escena-1a7e4641fe11",
+      "title": "PERMAGEL",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/cate3.jpg?w=2000&h=400&sx=33.71&sy=1226.97&sw=2932.58&sh=586.52&aoe=1&q=80",
+      "municipality": "Figueres",
+      "venue": "Teatre Municipal el Jardí",
+      "category": "Teatre",
+      "description": "Dirigida per Victoria Szpunberg",
+      "url": "https://www.figueresaescena.cat/ca/programacio/c/768-permagel.html",
+      "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Figueres a Escena-50ba840be947",
+      "title": "QUAN FLORIST LA VIOLETE",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/fotooriol.jpeg?w=400&h=400&zc=1&aoe=1&q=80",
+      "municipality": "Figueres",
+      "venue": "Cercle Sport Figuerenc",
+      "category": "Música",
+      "description": "De Locus Desperatus | Cicle Figueres Clàssica",
+      "url": "https://www.figueresaescena.cat/ca/programacio/c/815-quan-florist-la-violete.html",
+      "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
       "id": "Museu de l'Empordà-5a2763297110",
       "title": "Visita guiada a l’exposició",
       "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
@@ -1159,6 +1140,20 @@
       "sessions": []
     },
     {
+      "id": "Agenda de la Bisbal-b31400d57652",
+      "title": "Jornada: “Dones i Guerra Civil. Brigadistes i milicianes lluitant contra el feixisme”",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/milicianas_cnt-fai.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Teatre Mundial",
+      "category": "Xerrades i conferències",
+      "description": "Organitzada pel Grup de Dones de la Bisbal i l’Arxiu Comarcal del Baix Empordà",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14464-jornada-dones-i-guerra-civil-brigadistes-i-mi.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
+      "sessions": []
+    },
+    {
       "id": "Agenda de la Bisbal-8839b46b2663",
       "title": "La ComerÇiada 2026",
       "image": "https://agenda.labisbal.cat/img/image/fotos/_1099.jpg?w=220&aoe=1&q=80&h=146&zc=1",
@@ -1202,7 +1197,7 @@
       "ok": true,
       "events": 24,
       "with_image": 24,
-      "with_sessions": 19,
+      "with_sessions": 18,
       "with_venue": 22,
       "with_municipality": 24
     },
