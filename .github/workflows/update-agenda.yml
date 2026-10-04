@@ -23,6 +23,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Actualitza activitats
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
         run: python update.py
 
       - name: Desa els canvis
