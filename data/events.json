@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:33:32.522113+00:00",
+  "generated_at": "2026-10-04T06:09:17.170700+00:00",
   "events": [
     {
       "id": "Museu de l'Empordà-248813ceb77a",
@@ -21,40 +21,21 @@
       ]
     },
     {
-      "id": "Agenda de la Bisbal-d3ed54f74465",
-      "title": "Contes d’arreu del món",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/imatgeweb_contesmon.webp?w=600&h=600&zc=1&aoe=1&q=80&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Biblioteca Lluïsa Duran",
-      "category": "Familiar",
-      "description": "Hora del conte",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14379-contes-darreu-del-mon.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "12:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-f923b2b35a5c",
-      "title": "Inauguració de l’exposició",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2026/08/titol-expo.jpg",
+      "id": "Figueres a Escena-c2714534ded2",
+      "title": "MULAR (O LA GRAN CAPTURA)",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/mular.png?w=600&h=600&zc=1&aoe=1&q=80&f=png",
       "municipality": "Figueres",
-      "venue": "Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Inauguració de l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria”, comissariada per M. Mercè Cuartiella i Joan Manuel Soldevilla.",
-      "url": "https://www.museuemporda.org/?activitat=inauguracio-de-lexposicio",
-      "source": "Museu de l'Empordà",
+      "venue": "Sala La Cate",
+      "category": "Familiar · Teatre",
+      "description": "Cinc Cèntims Teatre",
+      "url": "https://www.figueresaescena.cat/ca/programacio/c/778-mular-o-la-gran-captura.html",
+      "source": "Figueres a Escena",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
-          "date": "2026-10-03",
-          "time": "11:00"
+          "date": "2026-10-04",
+          "time": "18:00"
         }
       ]
     },
@@ -70,48 +51,6 @@
       "source": "Figueres a Escena",
       "date_start": "2026-10-02",
       "date_end": "2026-10-04",
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "20:00"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-016c86c33227",
-      "title": "ORQUESTRA METDERBAND",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/orquestra_metderband-1024x576.webp?w=600&h=600&zc=1&aoe=1&q=80&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Música",
-      "description": "GENT GRAN L'ESPLAI",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14408-orquestra-metderband.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-03",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-c2714534ded2",
-      "title": "MULAR (O LA GRAN CAPTURA)",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/mular.png?w=600&h=600&zc=1&aoe=1&q=80&f=png",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Familiar · Teatre",
-      "description": "Cinc Cèntims Teatre",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/778-mular-o-la-gran-captura.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
       "sessions": [
         {
           "date": "2026-10-04",
@@ -603,6 +542,44 @@
         {
           "date": "2026-10-16",
           "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Agenda de la Bisbal-4bea024e9095",
+      "title": "YAUNEST",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/yaunest_1.webp?w=600&h=600&zc=1&aoe=1&q=80&f=webp",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Teatre Mundial",
+      "category": "Música",
+      "description": "fiTM Tardor",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14448-yaunest.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "id": "Agenda de la Bisbal-78d69a038725",
+      "title": "KOMUNUMO",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/komunumo.webp?w=600&h=600&zc=1&aoe=1&q=80&f=webp",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Teatre Mundial",
+      "category": "Familiar",
+      "description": "ELÉCTRICO 28",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14411-komunumo.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "18:00"
         }
       ]
     },
@@ -1191,17 +1168,17 @@
       "sessions": []
     },
     {
-      "id": "Agenda de la Bisbal-23bcdaa26e1d",
-      "title": "Visita Guiada",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/7-turismon-03540.jpg?w=600&h=600&zc=1&aoe=1&q=80",
+      "id": "Agenda de la Bisbal-bc449aea9814",
+      "title": "TERRACOTTA BIENNAL",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/adaptacior-post-instagram_2026.webp?w=600&h=600&zc=1&aoe=1&q=80&f=webp",
       "municipality": "La Bisbal d'Empordà",
-      "venue": "Castell Palau",
+      "venue": "Terracotta Museu",
       "category": null,
-      "description": "Primer dissabte del mes.",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/13312-visita-guiada.html",
+      "description": "Ceràmica contemporània com a motor de transformació",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14467-el-temple-de-la-llum.html",
       "source": "Agenda de la Bisbal",
-      "date_start": "2023-04-01",
-      "date_end": "2026-12-05",
+      "date_start": "2026-10-23",
+      "date_end": "2026-10-25",
       "sessions": []
     }
   ],
@@ -1227,11 +1204,11 @@
     {
       "connector": "connectors.museu_emporda",
       "ok": true,
-      "events": 15,
-      "with_image": 15,
-      "with_sessions": 15,
-      "with_venue": 15,
-      "with_municipality": 15
+      "events": 14,
+      "with_image": 14,
+      "with_sessions": 14,
+      "with_venue": 14,
+      "with_municipality": 14
     }
   ]
 }
