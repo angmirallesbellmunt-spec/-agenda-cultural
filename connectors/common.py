@@ -1,4 +1,3 @@
-
 from __future__ import annotations
 import re, hashlib
 from urllib.parse import urljoin
@@ -19,15 +18,40 @@ def soup(html):
     return BeautifulSoup(html, "html.parser")
 
 def best_image(doc, base):
-    # Prioritat: og:image -> twitter:image -> imatge principal de contingut.
-    for sel, attr in [('meta[property="og:image"]',"content"),('meta[name="twitter:image"]',"content")]:
-        n=doc.select_one(sel)
-        if n and n.get(attr): return abs_url(base,n.get(attr))
+    # Criteri editorial: fotografia de contingut abans que cartell o creativitat.
+    # Si totes les candidates semblen peces gràfiques, no publiquem imatge.
+    bad = (
+        "cartell","poster","flyer","banner","programa","agenda-","agenda_",
+        "xxss","xarxes","instagram","facebook","story","stories","newsletter",
+        "logo","icon","icona","icones_","sprite","avatar","capcalera","capçalera"
+    )
+    good = ("foto","photo","retrat","portrait","imatge","image","galeria","gallery")
+    candidates=[]; seen=set()
+
     for n in doc.select("main img, article img, .content img, .fitxa img, img"):
         u=n.get("data-src") or n.get("data-lazy-src") or n.get("src")
-        if u and not any(x in u.lower() for x in ("logo","icon","sprite","avatar")):
-            return abs_url(base,u)
-    return None
+        if not u: continue
+        u=abs_url(base,u)
+        if not u or u in seen: continue
+        seen.add(u)
+        alt=clean(n.get("alt")); title=clean(n.get("title"))
+        hay=(u+" "+alt+" "+title).lower()
+        if any(x in hay for x in bad): continue
+
+        score=0
+        if any(x in hay for x in good): score+=50000
+        try:
+            w=int(re.sub(r"\D","",str(n.get("width") or "0")) or 0)
+            h=int(re.sub(r"\D","",str(n.get("height") or "0")) or 0)
+            if w>=600 and h>=400: score+=w*h
+        except Exception:
+            pass
+        candidates.append((score,u))
+
+    if not candidates:
+        return None
+    candidates.sort(reverse=True)
+    return candidates[0][1]
 
 def stable_id(source, url, title):
     return source+"-"+hashlib.sha1((url+"|"+title).encode()).hexdigest()[:12]
@@ -36,7 +60,6 @@ def iso_date(day, month, year=2026):
     return f"{year:04d}-{month:02d}-{day:02d}"
 
 def parse_cat_short_date(text, default_year=2026):
-    # dg. 04.10.26 | 18:00 h
     m=re.search(r"(\d{1,2})\.(\d{1,2})\.(\d{2,4})(?:\s*\|\s*(\d{1,2}:\d{2}))?", text)
     if not m: return None
     d,mo,y=int(m.group(1)),int(m.group(2)),int(m.group(3))
@@ -44,7 +67,6 @@ def parse_cat_short_date(text, default_year=2026):
     return {"date":iso_date(d,mo,y),"time":m.group(4)}
 
 def parse_long_date(text, year=2026):
-    # divendres 2 d’octubre | 21:00 h
     low=text.lower().replace("’","'").replace("d'","")
     m=re.search(r"(\d{1,2})\s+(?:de\s+)?([a-zà-ü]+)",low)
     if not m: return None
@@ -69,7 +91,6 @@ def normalize_event(*, source, title, url, municipality, venue=None, category=No
       "date_end": date_end,
       "sessions": sessions or []
     }
-
 
 def dedupe_sessions(items):
     seen=set(); out=[]
