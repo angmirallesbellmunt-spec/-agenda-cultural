@@ -23,12 +23,18 @@ def best_image(doc, base):
     bad = (
         "cartell","poster","flyer","banner","programa","agenda-","agenda_",
         "xxss","xarxes","instagram","facebook","story","stories","newsletter",
-        "logo","icon","icona","icones_","sprite","avatar","capcalera","capçalera"
+        "logo","icon","icona","icones_","sprite","avatar","capcalera","capçalera","capturadepantalla","captura-de-pantalla"
     )
     good = ("foto","photo","retrat","portrait","imatge","image","galeria","gallery")
     candidates=[]; seen=set()
 
-    for n in doc.select("main img, article img, .content img, .fitxa img, img"):
+    # Recorrem la fitxa en ordre i parem abans de les activitats relacionades,
+    # per no acabar agafant la foto d'un altre esdeveniment.
+    for n in doc.find_all(["h2","h3","h4","img"]):
+        if n.name != "img":
+            if clean(n.get_text(" ",strip=True)).lower() == "activitats relacionades":
+                break
+            continue
         u=n.get("data-src") or n.get("data-lazy-src") or n.get("src")
         if not u: continue
         u=abs_url(base,u)
