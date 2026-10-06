@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-10-06T15:03:46.952195+00:00",
+  "generated_at": "2026-10-06T15:20:24.290371+00:00",
   "events": [
-    {
-      "id": "Agenda de la Bisbal-0280ce8a473a",
-      "title": "En ombres silents i entre somnis",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/l1001837.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": "Exposicions",
-      "description": "Santi Moix",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14345-en-ombres-silents-i-entre-somnis.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-06-28",
-      "date_end": "2027-01-31",
-      "sessions": []
-    },
-    {
-      "id": "Agenda de la Bisbal-b1856b08f340",
-      "title": "El temple de la llum",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/828834181_10162896516755826_5763779184429718882_n.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=0&sy=83.2&sw=1122&sh=748",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Brava Performing Arts",
-      "category": "Exposicions",
-      "description": "Fotografies de Pilar Aldana",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14465-el-temple-de-la-llum.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-10-02",
-      "date_end": "2026-10-30",
-      "sessions": []
-    },
-    {
-      "id": "Agenda de la Bisbal-8839b46b2663",
-      "title": "La ComerÇiada 2026",
-      "image": null,
-      "municipality": "La Bisbal d'Empordà",
-      "venue": null,
-      "category": null,
-      "description": "Una setmana per fer bategar el comerç local de la Bisbal",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14460-la-comerciada.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-10-05",
-      "date_end": "2026-10-12",
-      "sessions": []
-    },
     {
       "id": "Agenda de la Bisbal-7bda15bc1c3d",
       "title": "Commemoració del Foc de la Bisbal",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/fd4e5bb7-db3b-4019-b5b7-87a67ff47008.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/fd4e5bb7-db3b-4019-b5b7-87a67ff47008.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": null,
       "category": null,
@@ -63,165 +21,9 @@
       ]
     },
     {
-      "id": "Roses Cultura-690a26548838",
-      "title": "Biblioteca",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "\"El Dret de viure una nit\" de Marta Estrada",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/biblioteca-1003.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-fcbf8900f9ab",
-      "title": "FANG AMB CURA + AMB CURA",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/cartografies.png?w=870&h=580&zc=1&aoe=1&q=80&f=png",
-      "municipality": "Figueres",
-      "venue": "Auditori Caputxins",
-      "category": "Dansa",
-      "description": "De Maria Camila Sanjinés i Guillem Mont de Palol",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/811-fang-amb-cura-amb-cura.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-f7f01b0a4b48",
-      "title": "Presentacions llibres",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "\"El Dret de viure una nit\" de Marta Estrada",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/presentacions-llibres-1020.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-45889a2de328",
-      "title": "Conferències",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "La desigualtat en època tardoantiga i medieval - Empremta arqueològica d'un problema estructural",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/conferencies-1011.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-09",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-12750ce14630",
-      "title": "IX Seminari Internacional d'Arqueologia Medieval i Moderna",
-      "image": "https://www.rosescultura.cat/img/image/fotos/ixseminari1.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "La desigualtat en època tardoantiga i medieval - Empremta arqueològica d'un problema estructural",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4838-ix-seminari-internacional-darqueologia-mediev.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-09",
-      "sessions": []
-    },
-    {
-      "id": "Agenda de la Bisbal-6c654b58c01d",
-      "title": "Parlem de salut mental en el nostre entorn",
-      "image": null,
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Xerrades i conferències",
-      "description": null,
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14463-parlem-de-salut-mental-en-el-nostre-entorn.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-08",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-1be972d8a759",
-      "title": "Ecos",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/peixera38_anne_laurecano_1.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": "Exposicions",
-      "description": "Anne-Laure Cano",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14452-ecos.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-10-09",
-      "date_end": "2027-01-10",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-09b0acd4ab9b",
-      "title": "Exposicions",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "Ca l'Anita",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/exposicions-1002.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "19:30"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-ce3a214f12cc",
-      "title": "FICAC al Teatre Mundial: 'The Legend of the Vagabond Queen of Lagos'",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/62c939ea-cfae-40c3-ade2-cab77f8ff7eb.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Cinema",
-      "description": null,
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14462-ficac-al-teatre-mundial-the-legend-of-the-vag.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-0652efa41a73",
       "title": "Inauguració «Ecos»",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/peixera38_anne_laurecano_1.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/peixera38_anne_laurecano_1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Terracotta Museu",
       "category": "Exposicions",
@@ -238,28 +40,9 @@
       ]
     },
     {
-      "id": "Figueres a Escena-baaa9adf6b8a",
-      "title": "LES MARES",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/lesmares.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Humor · Teatre",
-      "description": "De Fel Faixedas i Carles Xuriguera",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/779-les-mares.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-1f71fd718f1c",
       "title": "Taller de tricomia",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/tricomiaimg_103938_.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/tricomiaimg_103938_.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Terracotta Museu",
       "category": null,
@@ -278,7 +61,7 @@
     {
       "id": "Agenda de la Bisbal-aa5ecc4816d8",
       "title": "Jornada tècnica: Gaudí, modernisme i patrimoni",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/fotopilaraldanasostresnau_2014021.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/fotopilaraldanasostresnau_2014021.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Terracotta Museu",
       "category": "Xerrades i conferències",
@@ -295,28 +78,9 @@
       ]
     },
     {
-      "id": "Agenda de la Bisbal-b289bef6ac73",
-      "title": "QUI VA MATAR EL MEU PARE",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/quivamatarelmeupare.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": null,
-      "description": "DAFNIS BALDUZ",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14410-qui-va-matar-el-meu-pare.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-bb5306a2670b",
       "title": "Aplec del Remei",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/_1099.jpg?w=870&aoe=1&q=80&h=580&zc=1",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/_1099.jpg?w=1740&aoe=1&q=80&h=1160&zc=1",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Ermita del Remei",
       "category": null,
@@ -333,28 +97,9 @@
       ]
     },
     {
-      "id": "Figueres a Escena-6d2739f4aa56",
-      "title": "EL RETRAT DE DORIAN GRAY",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/fotopromocional2111.jpg?w=870&h=580&sx=0&sy=418.41&sw=1293&sh=862&zc=&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Teatre",
-      "description": "De Marc Rosich i Jordi Cornudella",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/765-el-retrat-de-dorian-gray.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-83f0683f9959",
       "title": "LES CULPABLES",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/lesculpables_mainframe_00004.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/lesculpables_mainframe_00004.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Cinema",
@@ -371,28 +116,9 @@
       ]
     },
     {
-      "id": "Agenda de la Bisbal-1aa5a08bd177",
-      "title": "LES FÈROE, UNES ILLES MERAVELLOSES",
-      "image": null,
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Cinema",
-      "description": "VIATGES",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14425-les-feroe-unes-illes-maravelloses.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-c70e940b8b67",
       "title": "Portes obertes al Terracotta Museu",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/7689__6131g.jpg?w=870&aoe=1&q=80&h=580&zc=1",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/7689__6131g.jpg?w=1740&aoe=1&q=80&h=1160&zc=1",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Terracotta Museu",
       "category": null,
@@ -409,47 +135,9 @@
       ]
     },
     {
-      "id": "Agenda de la Bisbal-c1bce913677a",
-      "title": "Jornada per la llengua. En català, sempre!",
-      "image": null,
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Familiar · Xerrades i conferències · Música",
-      "description": null,
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14458-jornada-per-la-llengua-en-catala-sempre.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-12",
-          "time": "09:30"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-e2824b63dc90",
-      "title": "PASSEJANT AMB SANTIAGO RUSIÑOL",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/passejantambsrusinol.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "La Cate",
-      "category": "Teatre",
-      "description": "Societat cultural Sant Jaume Premià de Dalt",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/770-passejant-amb-santiago-rusinol.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-12",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
       "id": "Roses Cultura-fc43d568a275",
       "title": "Cinebib",
-      "image": "https://www.rosescultura.cat/img/image/fotos/la_gran_seducciaon-351154352-large.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/la_gran_seducciaon-351154352-large.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Biblioteca Jaume Vicens Vives",
       "category": "Carnaval",
@@ -466,47 +154,9 @@
       ]
     },
     {
-      "id": "Figueres a Escena-ff7cef7bbe9e",
-      "title": "ROJO CLAVEL",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/rojoclavel.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "La Cate",
-      "category": "Projeccions",
-      "description": "Documental de Roser Corella sobre Manuel Liñán",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/781-rojo-clavel.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-14",
-          "time": "20:30"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-8ae5ad257db2",
-      "title": "L’elisir d’amore, de Donizetti",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/elisirdamore1.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Biblioteca Lluïsa Duran",
-      "category": "Xerrades i conferències",
-      "description": "Llegir l'Òpera",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14380-lelisir-damore-de-donizetti.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-cf940be6d659",
       "title": "El Foment a debat. Un espai cultural per a la Bisbal",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/fomentmuntatgeedificidavantidarrere.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/fomentmuntatgeedificidavantidarrere.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Xerrades i conferències",
@@ -523,85 +173,9 @@
       ]
     },
     {
-      "id": "Figueres a Escena-00865bc580bc",
-      "title": "MUERTA DE AMOR",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/muerta-de-amor_destacada.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Dansa",
-      "description": "De Manuel Liñán",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/761-muerta-de-amor.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-16",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-6c71186312e0",
-      "title": "Terra, foc i emocions: Visita guiada sensorial amb taller de rakú",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/_mg_0372_1000x666.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": "Exposicions",
-      "description": "Museus = Espais de Benestar",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14456-terra-foc-i-emocions-visita-guiada-sensorial-.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-16",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-0274d687ecfd",
-      "title": "Teatre",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "Una producció de Focus",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/teatre-1000.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "20:30"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-4bea024e9095",
-      "title": "YAUNEST",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/yaunest_1.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Música",
-      "description": "fiTM Tardor",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14448-yaunest.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "20:30"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-78d69a038725",
       "title": "KOMUNUMO",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/komunumo.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/komunumo.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Familiar",
@@ -618,28 +192,9 @@
       ]
     },
     {
-      "id": "Figueres a Escena-aa8ca95f761e",
-      "title": "QUI VA MATAR EL MEU PARE",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/quivamatarelmeupare.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Teatre",
-      "description": "Dirigida per Pau Roca | Basada en el llibre d’Édouard Louis",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/782-qui-va-matar-el-meu-pare.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
       "id": "Roses Cultura-cf26d3f89530",
       "title": "Escenaris geopolítics 2030: una nova realitat en temps d'incerteses",
-      "image": "https://www.rosescultura.cat/img/image/fotos/que-es-geopolitica-800x450_width-640.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/que-es-geopolitica-800x450_width-640.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Biblioteca Jaume Vicens Vives",
       "category": "Carnaval",
@@ -658,7 +213,7 @@
     {
       "id": "Agenda de la Bisbal-4d1f2d788061",
       "title": "RAÚL RODRIGUEZ & RAJERY",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/sensenom2.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/sensenom2.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Música",
@@ -675,115 +230,9 @@
       ]
     },
     {
-      "id": "Agenda de la Bisbal-bc449aea9814",
-      "title": "TERRACOTTA BIENNAL",
-      "image": null,
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": null,
-      "description": "Ceràmica contemporània com a motor de transformació",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14467-el-temple-de-la-llum.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-10-23",
-      "date_end": "2026-10-25",
-      "sessions": []
-    },
-    {
-      "id": "Figueres a Escena-4efd7c7bc082",
-      "title": "SOMNI D'UNA NIT D'ESTIU",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/camerata.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Música",
-      "description": "La Camerata | Versió dramatitzada amb Elisabet Casanovas",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/784-somni-duna-nit-destiu.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-24",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-a08208a4fe3e",
-      "title": "TENET",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/tenet_.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Familiar · Circ",
-      "description": "Eunoia Kolektiva",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/766-tenet.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-25",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-99577d4e2ea4",
-      "title": "L’HURACÀ",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/1915definitiu.jpeg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Cercle Sport Figuerenc",
-      "category": "Teatre",
-      "description": "De Carme Montoriol | La Funcional Teatre",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/785-lhuraca.html",
-      "source": "Figueres a Escena",
-      "date_start": "2026-10-30",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "20:00"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "18:00"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "20:30"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "18:00"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-5cd899539f22",
-      "title": "RESSONÀNCIES DEL ROMANTICISME",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/ismaelpianista.jpeg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Auditori Caputxins",
-      "category": "Música",
-      "description": "Ismael Arroyo i Eduardo Moreno | Cicle Figueres Clàssica",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/812-ressonancies-del-romanticisme.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
       "id": "Roses Cultura-d800ad171f05",
       "title": "La Ciutadella de Roses",
-      "image": "https://www.rosescultura.cat/img/image/fotos/ciutadellarosesporta.jpg?w=870&aoe=1&q=80&h=580&zc=1",
+      "image": "https://www.rosescultura.cat/img/image/fotos/ciutadellarosesporta.jpg?w=1740&aoe=1&q=80&h=1160&zc=1",
       "municipality": "Roses",
       "venue": "Espai cultural La Ciutadella",
       "category": "Carnaval",
@@ -800,359 +249,9 @@
       ]
     },
     {
-      "id": "Roses Cultura-bc7d409db0c4",
-      "title": "Visites Guiades",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "Visites guiades",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/visites-guiades-1005.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "11:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-029282e1392e",
-      "title": "L'ELISIR D'AMORE",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/elisir-damore.jpeg?w=870&h=580&sx=0&sy=374.69&sw=1378&sh=918.67&zc=&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Òpera",
-      "description": "De Gaetano Donizetti",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/827-lelisir-damore.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-07a58f36d409",
-      "title": "Optimist",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "A càrrec de Tanaka Teatre",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/optimist-1007.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "12:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-25ea2085c13f",
-      "title": "XERRADA SOBRE L'ELISIR D'AMORE",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/i26foc3elixir008211.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Saló de descans (Teatre Municipal el Jardí)",
-      "category": null,
-      "description": "Prèvia a l’òpera 'L’elisir d’amore' de la Fundació Òpera a Catalunya",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/786-xerrada-sobre-lelisir-damore.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-5c4a8e21d9f5",
-      "title": "MASCULINITAT(S) A LA PANTALLA",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/preview.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Projeccions",
-      "description": "Sessió de curtmetratges",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/813-masculinitats-a-la-pantalla.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-04",
-          "time": "20:30"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-9855ef339e70",
-      "title": "L’ÚLTIM ÀTOM",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/lultimatom.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Teatre",
-      "description": "Dirigida per Jordi Oriol",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/787-lultim-atom.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-bde9f9d57211",
-      "title": "TALLER DE CANT I ESCOLTA COL·LECTIVA",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/tallerdecant.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": null,
-      "description": "Amb Elena Tarrats",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/788-taller-de-cant-i-escolta-collectiva.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-07",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-44568a817712",
-      "title": "LA TEMPESTA",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/latempesta.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Familiar · Teatre",
-      "description": "Zero en Conducta",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/789-la-tempesta.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-ff0421a36bb1",
-      "title": "CÀPSULES DE CREACIÓ EN L’ESPAI PÚBLIC",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/conventpontos1.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": null,
-      "category": null,
-      "description": "Participants de la formació ENTÀNDEM | Cia. Kamchàtka",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/814-capsules-de-creacio-en-lespai-public.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "15:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-b763aefd83f4",
-      "title": "TENDRAMENT",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/tendrament.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Teatre",
-      "description": "De Judit Colomer i Pau Vinyals",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/790-tendrament.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-07159dceadd0",
-      "title": "Biblionadons",
-      "image": null,
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Contes per a famílies i nadons d'1 a 3 anys.",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4814-biblionadons.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "11:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-3e92b02a0060",
-      "title": "TEATRALITZAR LA TROBADA",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/tallerpauvinyalsjuditcolomer.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": null,
-      "description": "Amb Judit Colomer i Pau Vinyals",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/791-teatralitzar-la-trobada.html",
-      "source": "Figueres a Escena",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-15",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "10:00"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-c2714534ded2",
-      "title": "MULAR (O LA GRAN CAPTURA)",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/mular.png?w=870&h=580&zc=1&aoe=1&q=80&f=png",
-      "municipality": "Figueres",
-      "venue": "Sala La Cate",
-      "category": "Familiar · Teatre",
-      "description": "Cinc Cèntims Teatre",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/778-mular-o-la-gran-captura.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-acb5658f2028",
-      "title": "PRÈVIA DE 'WE. NOSALTRES I ELS TEMPS'",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/mp-we_2010webtristanperez-martin.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí (saló de descans)",
-      "category": null,
-      "description": "Activitat Mercat de les Flors en Gira",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/792-previa-de-we-nosaltres-i-els-temps.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-6947d62ed018",
-      "title": "WE. NOSALTRES I ELS TEMPS",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/mp-we_1566webtristanperez-martin.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Dansa",
-      "description": "Mal Pelo",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/793-we-nosaltres-i-els-temps.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-8ece682710c2",
-      "title": "Altres",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "Festival de curts fantàstics i de terror de Roses",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/altres-1009.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-22",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-a6cb072930db",
-      "title": "Festival BaiDeFest",
-      "image": "https://www.rosescultura.cat/img/image/fotos/baidefest2026.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=10.79&sy=10.79&sw=1589.21&sh=1059.48",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Festival de curts fantàstics i de terror de Roses",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4828-festival-internacional-de-curtsmetratges-de-l.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-22",
-      "sessions": []
-    },
-    {
-      "id": "Figueres a Escena-1a7e4641fe11",
-      "title": "PERMAGEL",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/1_permagel_silviapoch1080x1080.jpg?w=870&h=580&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Teatre Municipal el Jardí",
-      "category": "Teatre",
-      "description": "Dirigida per Victoria Szpunberg",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/768-permagel.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Roses Cultura-5f256b7aeaca",
-      "title": "Festival Òmnium de Cinema (F.O.C.)",
-      "image": "https://www.rosescultura.cat/img/image/fotos/omnium.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "A càrrec d’Òmnium Cultural",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4841-festival-omnium-de-cinema-foc.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-11-28",
-      "date_end": "2026-12-03",
-      "sessions": []
-    },
-    {
       "id": "Roses Cultura-45c844779d36",
       "title": "Els Pastorets",
-      "image": "https://www.rosescultura.cat/img/image/fotos/pastorets001.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/pastorets001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Teatre Municipal",
       "category": "Carnaval",
@@ -1169,93 +268,23 @@
       ]
     },
     {
-      "id": "Roses Cultura-a882abe1d1ad",
-      "title": "Cap a Mirmanda (o l’últim nas de l’any)",
-      "image": "https://www.rosescultura.cat/img/image/fotos/capamirmandacinc001.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "A càrrec de Cinc Cèntims Teatre",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4827-cap-a-mirmanda-o-lultim-nas-de-lany.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-9d96b526ab04",
-      "title": "Cicle Entre Murallles",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": "Cinema i Música a la Ciutadella",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/cicle-entre-murallles-1057.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-af2058904a59",
-      "title": "Clementina em dic!",
-      "image": null,
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Recital musicat",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4820-clementina-em-dic.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-e631c93513fb",
-      "title": "Club de lectura \"La Negra\"",
-      "image": "https://www.rosescultura.cat/img/image/fotos/elsopar.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=38.16&sy=114.49&sw=561.86&sh=374.57",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "\"El Sopar\" de Herman Koch",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4816-club-de-lectura-la-negra.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-f800a2d52497",
-      "title": "Delíric: Una nova mirada sobre Cyrano de Bergerac",
-      "image": "https://www.rosescultura.cat/img/image/fotos/deliric002.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Una producció de Jordi Purtí amb l’Orquestra Simfònica del Vallès",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4824-deliric-una-nova-mirada-sobre-cyrano-de-berge.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-b9f391206a18",
-      "title": "El Muntaplats",
-      "image": "https://www.rosescultura.cat/img/image/fotos/elmuntaplats001.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Una producció de Teatrebrik",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4823-el-muntaplats.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
+      "id": "Agenda de la Bisbal-1be972d8a759",
+      "title": "Ecos",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/peixera38_anne_laurecano_1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Terracotta Museu",
+      "category": "Exposicions",
+      "description": "Anne-Laure Cano",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14452-ecos.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": "2026-10-09",
+      "date_end": "2027-01-10",
       "sessions": []
     },
     {
       "id": "Roses Cultura-83bd36642abd",
       "title": "El Trencanous",
-      "image": "https://www.rosescultura.cat/img/image/fotos/trencanous001.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/trencanous001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Teatre Municipal",
       "category": "Carnaval",
@@ -1267,9 +296,51 @@
       "sessions": []
     },
     {
+      "id": "Agenda de la Bisbal-b1856b08f340",
+      "title": "El temple de la llum",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/828834181_10162896516755826_5763779184429718882_n.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=0&sy=83.2&sw=1122&sh=748",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Brava Performing Arts",
+      "category": "Exposicions",
+      "description": "Fotografies de Pilar Aldana",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14465-el-temple-de-la-llum.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": "2026-10-02",
+      "date_end": "2026-10-30",
+      "sessions": []
+    },
+    {
+      "id": "Agenda de la Bisbal-0280ce8a473a",
+      "title": "En ombres silents i entre somnis",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/l1001837.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Terracotta Museu",
+      "category": "Exposicions",
+      "description": "Santi Moix",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14345-en-ombres-silents-i-entre-somnis.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": "2026-06-28",
+      "date_end": "2027-01-31",
+      "sessions": []
+    },
+    {
+      "id": "Roses Cultura-a6cb072930db",
+      "title": "Festival BaiDeFest",
+      "image": "https://www.rosescultura.cat/img/image/fotos/baidefest2026.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=10.79&sy=10.79&sw=1589.21&sh=1059.48",
+      "municipality": "Roses",
+      "venue": "Teatre Municipal",
+      "category": "Carnaval",
+      "description": "Festival de curts fantàstics i de terror de Roses",
+      "url": "https://www.rosescultura.cat/ca/programacio/c/4828-festival-internacional-de-curtsmetratges-de-l.html",
+      "source": "Roses Cultura",
+      "date_start": "2026-11-19",
+      "date_end": "2026-11-22",
+      "sessions": []
+    },
+    {
       "id": "Roses Cultura-05258bdc0bca",
       "title": "Heroïnes del cinema",
-      "image": "https://www.rosescultura.cat/img/image/fotos/heroisdelcinema_dcs239611.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/heroisdelcinema_dcs239611.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Teatre Municipal",
       "category": "Carnaval",
@@ -1281,23 +352,23 @@
       "sessions": []
     },
     {
-      "id": "Roses Cultura-7b5908152e51",
-      "title": "Inauguració 'Les Ombres del Blau'",
-      "image": "https://www.rosescultura.cat/img/image/fotos/img-20260906-wa0007.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=0&sy=514.52&sw=1077.57&sh=718.38",
+      "id": "Roses Cultura-12750ce14630",
+      "title": "IX Seminari Internacional d'Arqueologia Medieval i Moderna",
+      "image": "https://www.rosescultura.cat/img/image/fotos/ixseminari1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
-      "venue": "Espai cultural La Ciutadella",
+      "venue": "Teatre Municipal",
       "category": "Carnaval",
-      "description": "d’Assumpció Mateu",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4846-inauguracio-les-ombres-del-blau.html",
+      "description": "La desigualtat en època tardoantiga i medieval - Empremta arqueològica d'un problema estructural",
+      "url": "https://www.rosescultura.cat/ca/programacio/c/4838-ix-seminari-internacional-darqueologia-mediev.html",
       "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
+      "date_start": "2026-10-08",
+      "date_end": "2026-10-09",
       "sessions": []
     },
     {
       "id": "Roses Cultura-fe09ca9dd636",
       "title": "Inauguració 'Silencis des de dins'",
-      "image": "https://www.rosescultura.cat/img/image/fotos/propostaretrat2.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/propostaretrat2.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Sala d'exposicions Ca l'Anita",
       "category": "Carnaval",
@@ -1311,7 +382,7 @@
     {
       "id": "Agenda de la Bisbal-b31400d57652",
       "title": "Jornada: “Dones i Guerra Civil. Brigadistes i milicianes lluitant contra el feixisme”",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/milicianas_cnt-fai.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/milicianas_cnt-fai.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Xerrades i conferències",
@@ -1325,7 +396,7 @@
     {
       "id": "Roses Cultura-d2b8a7a32c4f",
       "title": "Joves lectors",
-      "image": "https://www.rosescultura.cat/img/image/fotos/botdr_bombard.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=0&sy=149.12&sw=1103.51&sh=735.68",
+      "image": "https://www.rosescultura.cat/img/image/fotos/botdr_bombard.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=0&sy=149.12&sw=1103.51&sh=735.68",
       "municipality": "Roses",
       "venue": "Biblioteca Jaume Vicens Vives",
       "category": "Carnaval",
@@ -1337,51 +408,9 @@
       "sessions": []
     },
     {
-      "id": "Roses Cultura-1b0f23822db4",
-      "title": "Llegir l'òpera",
-      "image": "https://www.rosescultura.cat/img/image/fotos/lelisir-damore-david-ruano-scaled-rnz2qp3f0rtkq1l5f9tgwi2kslczzefjoojdi22j40.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Xerrada sobre l'Elisir d'amore de Gaetano Donizetti",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4819-llegir-lopera.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-5ec2bfc8c9a6",
-      "title": "Mes de paraules",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": null,
-      "url": "https://www.rosescultura.cat/ca/programacio/c/mes-de-paraules-1041.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-358c7f069d94",
-      "title": "No tengo remedio de David Navarro",
-      "image": "https://www.rosescultura.cat/img/image/fotos/261025_david_navarro_roses_a31.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=10.04&sy=15.77&sw=627.96&sh=418.64",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Un somriure contra la leucèmia",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4829-un-somriure-contra-la-leucemia.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
       "id": "Roses Cultura-e7d24ba90d22",
       "title": "OPTIMIST: \"Pots\"",
-      "image": "https://www.rosescultura.cat/img/image/fotos/pots001.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/pots001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Teatre Municipal",
       "category": "Carnaval",
@@ -1393,79 +422,9 @@
       "sessions": []
     },
     {
-      "id": "Roses Cultura-2f34c3606097",
-      "title": "Petits contes",
-      "image": "https://www.rosescultura.cat/img/image/fotos/castanyera.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Temps de menjar castanyes",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4821-petits-contes.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-e2ef8993b84e",
-      "title": "Petits lectors",
-      "image": "https://www.rosescultura.cat/img/image/fotos/tresbandits.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=0&sy=42&sw=229&sh=152.67",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Els Tres bandits de Tomi Ungerer",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4817-petits-lectors.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-b3090d341745",
-      "title": "Presentació de llibre",
-      "image": "https://www.rosescultura.cat/img/image/fotos/portadadigital_eldretdeviureunanit_martaestrada.webp?w=870&aoe=1&q=80&h=580&f=webp&sx=0&sy=182.12&sw=1796.95&sh=1197.97",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "\"El Dret de viure una nit\" de Marta Estrada",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4813-presentacio-de-llibre.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-7a712f5273bd",
-      "title": "Sant Joan",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": null,
-      "url": "https://www.rosescultura.cat/ca/programacio/c/sant-joan-1016.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-45760e53adb7",
-      "title": "Sant Jordi",
-      "image": null,
-      "municipality": "Roses",
-      "venue": null,
-      "category": "Carnaval",
-      "description": null,
-      "url": "https://www.rosescultura.cat/ca/programacio/c/sant-jordi-1055.html",
-      "source": "Roses Cultura",
-      "date_start": null,
-      "date_end": null,
-      "sessions": []
-    },
-    {
       "id": "Roses Cultura-15e739925c06",
       "title": "Una idea genial",
-      "image": "https://www.rosescultura.cat/img/image/fotos/unaideagenial001.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
+      "image": "https://www.rosescultura.cat/img/image/fotos/unaideagenial001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
       "municipality": "Roses",
       "venue": "Teatre Municipal",
       "category": "Carnaval",
@@ -1481,25 +440,31 @@
     {
       "connector": "connectors.figueres",
       "ok": true,
-      "events": 24,
-      "with_image": 24,
-      "with_sessions": 24,
-      "with_venue": 23,
-      "with_municipality": 24
+      "events_found": 24,
+      "events_published": 0,
+      "rejected_no_valid_image": 24,
+      "with_image": 0,
+      "with_sessions": 0,
+      "with_venue": 0,
+      "with_municipality": 0
     },
     {
       "connector": "connectors.bisbal",
       "ok": true,
-      "events": 24,
-      "with_image": 19,
-      "with_sessions": 18,
-      "with_venue": 22,
-      "with_municipality": 24
+      "events_found": 24,
+      "events_published": 14,
+      "rejected_no_valid_image": 10,
+      "with_image": 14,
+      "with_sessions": 10,
+      "with_venue": 13,
+      "with_municipality": 14
     },
     {
       "connector": "connectors.girona",
       "ok": true,
-      "events": 0,
+      "events_found": 0,
+      "events_published": 0,
+      "rejected_no_valid_image": 0,
       "with_image": 0,
       "with_sessions": 0,
       "with_venue": 0,
@@ -1508,11 +473,13 @@
     {
       "connector": "connectors.roses",
       "ok": true,
-      "events": 37,
-      "with_image": 23,
-      "with_sessions": 11,
-      "with_venue": 25,
-      "with_municipality": 37
+      "events_found": 37,
+      "events_published": 12,
+      "rejected_no_valid_image": 25,
+      "with_image": 12,
+      "with_sessions": 4,
+      "with_venue": 12,
+      "with_municipality": 12
     }
   ]
 }
