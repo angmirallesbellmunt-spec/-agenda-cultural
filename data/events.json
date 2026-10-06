@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-06T14:12:58.872902+00:00",
+  "generated_at": "2026-10-06T14:24:30.988135+00:00",
   "events": [
-    {
-      "id": "Museu de l'Empordà-248813ceb77a",
-      "title": "Artistes convidades. Desenterrar és tornar",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Artistes convidades és un projecte que convida artistes a intervenir en l’exposició de col·lecció del Museu de l’Empordà amb una obra de nova producció. Així, s’integra de forma temporal en el recorregut expositiu per tal de reforçar l’exposició de la col·lecció com un espai viu i dinàmic.",
-      "url": "https://www.museuemporda.org/?exposicions=artistes-convidades-desenterrar-es-tornar",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-02-05",
-          "time": null
-        }
-      ]
-    },
     {
       "id": "Agenda de la Bisbal-7bda15bc1c3d",
       "title": "Commemoració del Foc de la Bisbal",
@@ -55,37 +36,6 @@
         {
           "date": "2026-10-07",
           "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-516435e65c6e",
-      "title": "UNA HISTÒRIA ENTRE L’ART I LA POESIA: ESTIMAT LECTOR, NO LLEGEIXIS",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Curs a càrrec de Gabriel Ventura (Granollers, 1988), escriptor i artista. Una de les seves últimes col·laboracions ha consistit en la investigació històrica i literària de LUX (2025), àlbum de Rosalía. Aquesta investigació s’ha publicat en el LUX ZINE, juntament amb les lletres de la cantant.",
-      "url": "https://www.museuemporda.org/?activitat=una-historia-entre-lart-i-la-poesia-estimat-lector-no-llegeixis",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-07",
-          "time": "19:00"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "19:00"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "19:00"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:00"
         }
       ]
     },
@@ -219,25 +169,6 @@
         {
           "date": "2026-10-10",
           "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-dd9911336d8e",
-      "title": "Visita comentada a l’exposició",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Visita comentada amb els comissarisde l’exposició, M. Mercè Cuartiella i Joan Manuel Soldevilla, amb motiu de les Jornades Europees de Patrimoni.",
-      "url": "https://www.museuemporda.org/?activitat=visita-comentada-a-lexposicio-19",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "12:00"
         }
       ]
     },
@@ -394,25 +325,6 @@
       ]
     },
     {
-      "id": "Museu de l'Empordà-4b73efe6af29",
-      "title": "Acció Portabella. Centenari Pere Portabella (Figueres, 11-2-1927)",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Amb motiu del centenari del naixement del cineasta i activista polític Pere Portabella, nascut a Figueres l’any 1927, el Museu de l’Empordà participa a “Acció Portabella’, un programa d’activitats internacional que es desplega al llarg de 2026 i 2027.",
-      "url": "https://www.museuemporda.org/?activitat=accio-portabella-centenari-pere-portabella-figueres-11-2-1927",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
       "id": "Agenda de la Bisbal-8ae5ad257db2",
       "title": "L’elisir d’amore, de Donizetti",
       "image": "https://agenda.labisbal.cat/img/image/fotos/elisirdamore1.webp?w=870&aoe=1&q=80&h=580&zc=1&f=webp",
@@ -541,44 +453,6 @@
       "sessions": [
         {
           "date": "2026-10-18",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-00544fa95410",
-      "title": "“Nous escenaris per a una col·lecció”",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Taula rodona en el marc del projecte “Un museu fora del museu. La col·lecció MACBA en llocs insospitats” , amb motiu de la celebració dels seus 30 anys.",
-      "url": "https://www.museuemporda.org/?activitat=nous-escenaris-per-a-una-colleccio",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-20",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-7d267e31abc8",
-      "title": "Fugir era el més bell que teníem",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "“Passada la Jonquera, caminant per carretera, el Trueba i jo anàvem fent camí encaboriats en la inseguretat de l’esdevenidor. […] El meu amic s’aturà de sobte en una fita, en llegí amb atenció el quilometratge i l’anotà amb cura en una llibreteta que duia al sarró. Reeixida l’operació després d’haver llepat un parell de cops un tros de llapis pel cantó de la mina, amb un aire una mica misteriós, ara penso que forçadament misteriós, em va dir que el seguís. Ho vaig fer, seguint-li el joc, en silenci. Mentre ens endinsàvem en un terreny plantat d’oliveres, el Trueba comptava els arbres i s’assegurava que no hi hagués testimonis. Aleshores, escollí l’olivera més vella i retorta, i em demanà que l’ajudés a fer un sot vora de l’arrel. […] Embolcallada en una tovallola, enterràvem en aquell sot la seva estimada corneta de llautó que havia tocat a l’aviació de Sabadell, lluenta, acabada de polir. […] –Perquè tornarem, oi, Marín? –deia el Trueba. El Trueba, però, no esperava resposta. Va fer broma: –Si hagués tingut un sextant, hauria pres la posició amb els graus de longitud i latitud corresponents. Tots dos érem lectors apassionats de Jules Verne.”",
-      "url": "https://www.museuemporda.org/?activitat=fugir-era-el-mes-bell-que-teniem",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-22",
           "time": "18:00"
         }
       ]
@@ -752,25 +626,6 @@
       ]
     },
     {
-      "id": "Museu de l'Empordà-1a929ef6ce24",
-      "title": "“Multiplicar el gest. Miró i la producció seriada”",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Conversa amb Rosa Maria Malet i Elena Escolar en el marc del Cicle “Joan Miró. Art i territori”, impulsat per la Xarxa de Museus d’Art de Catalunya .",
-      "url": "https://www.museuemporda.org/?activitat=multiplicar-el-gest-miro-i-la-produccio-seriada",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
       "id": "Figueres a Escena-9855ef339e70",
       "title": "L’ÚLTIM ÀTOM",
       "image": "https://www.figueresaescena.cat/img/image/fotos/lultimatom.jpg?w=870&h=580&zc=1&aoe=1&q=80",
@@ -828,25 +683,6 @@
       ]
     },
     {
-      "id": "Museu de l'Empordà-4ef3e9ad1313",
-      "title": "Exilis del passat i exilis contemporanis",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "A Marta Marín-Dòmine i Odette Martínez-Maler les uneix allò que generalment separa: la frontera. Ambdues han acceptat l’herència familiar de l’exili i han construït un corpus intel·lectual i artístic que les ha convertit, segons el seu vocabulari particular, en «filles de frontera». Mai prou a prop de l’arrelament ni massa lluny d’un punt de fuga.",
-      "url": "https://www.museuemporda.org/?activitat=exilis-del-passat-i-exilis-contemporanis",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-10",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
       "id": "Figueres a Escena-ff0421a36bb1",
       "title": "CÀPSULES DE CREACIÓ EN L’ESPAI PÚBLIC",
       "image": "https://www.figueresaescena.cat/img/image/fotos/priscaportret.jpg?w=400&h=400&zc=1&aoe=1&q=80",
@@ -866,25 +702,6 @@
       ]
     },
     {
-      "id": "Museu de l'Empordà-d55310258638",
-      "title": "Jornada d’estudis: “El còmic: noves mirades des de l’acadèmia, els museus i la recerca”",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Universitat de Girona i Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "En el context de l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria” , la Càtedra d’art i cultura contemporanis organitza aquesta jornada d’estudis que tindrà lloc a Figueres i a Girona. Volem reflexionar sobre l’entrada del còmic als museus, a l’acadèmia i als espais culturals com a objecte d’estudi, conservació i exposició; i sobre quin efecte pot tenir aquest fet tant en el futur del còmic en si, com sobre les mateixes institucions culturals que s’hi interessen i l’acullen. La jornada s’adreça especialment als professionals de la museologia, la gestió cultural, la recerca i l’ensenyament, que tindran ocasió d’escoltar i debatre amb alguns dels màxims especialistes i responsables pel que fa a aquest tema que tenim a casa nostra. El públic general també hi és benvingut.",
-      "url": "https://www.museuemporda.org/?activitat=jornada-destudis-el-comic-noves-mirades-des-de-lacademia-els-museus-i-la-recerca",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": null
-        }
-      ]
-    },
-    {
       "id": "Figueres a Escena-b763aefd83f4",
       "title": "TENDRAMENT",
       "image": "https://www.figueresaescena.cat/img/image/fotos/tendrament.jpg?w=870&h=580&zc=1&aoe=1&q=80",
@@ -900,44 +717,6 @@
         {
           "date": "2026-11-13",
           "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-3d1617a0dd4a",
-      "title": "Visita comentada a l’exposició",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Visita guiada a l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria, a càrrec dels comissaris, M. Mercè Cuartiella i Joan Manuel Soldevilla , en el marc de la Jornada d’estudis “El còmic: noves mirades des de l’acadèmia, els museus i la recerca”.",
-      "url": "https://www.museuemporda.org/?activitat=visita-comentada-a-lexposicio-20",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "16:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-98218be0bf3a",
-      "title": "Presentació del còmic “L’altre Empordà”",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": null,
-      "url": "https://www.museuemporda.org/?activitat=presentacio-del-comic-laltre-emporda",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "18:00"
         }
       ]
     },
@@ -1022,25 +801,6 @@
       ]
     },
     {
-      "id": "Museu de l'Empordà-ccd19cbb8083",
-      "title": "“Místiques de la masculinitat. Identitats de gènere entre els herois del còmic”",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Conferència. “Místiques de la masculinitat. Identitats de gènere entre els herois del còmic”, a càrrec de Pere Parramon, doctor en Història de l’Art i Màster en Comunicació i Crítica d’Art per la Universitat de Girona.",
-      "url": "https://www.museuemporda.org/?activitat=mistiques-de-la-masculinitat-identitats-de-genere-entre-els-herois-del-comic",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
       "id": "Figueres a Escena-1a7e4641fe11",
       "title": "PERMAGEL",
       "image": "https://www.figueresaescena.cat/img/image/fotos/cate3.jpg?w=2000&h=400&sx=33.71&sy=1226.97&sw=2932.58&sh=586.52&aoe=1&q=80",
@@ -1056,44 +816,6 @@
         {
           "date": "2026-11-20",
           "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-5a2763297110",
-      "title": "Visita guiada a l’exposició",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Visita guiada a l’exposició “D’Empúries a Spiderman. Narratives gràfiques a la perifèria, a càrrec dels comissaris, M. Mercè Cuartiella i Joan Manuel Soldevilla",
-      "url": "https://www.museuemporda.org/?activitat=visita-guiada-a-lexposicio-5",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "time": "12:00"
-        }
-      ]
-    },
-    {
-      "id": "Museu de l'Empordà-b2246c4799a2",
-      "title": "UNA HISTÒRIA DE LLADRES I SERENOS DE MUSEUS",
-      "image": "https://www.museuemporda.org/wp-content/uploads/2024/03/Filet-Negre.png",
-      "municipality": "Figueres",
-      "venue": "Auditori del Museu de l'Empordà",
-      "category": "Museus · Art",
-      "description": "Ha treballat als diaris AVU I i La Vanguardi a a les seccions de Societat, Religió i Cultura. Ha col·laborat en publicacions comarcals com Hora Nova , Empordà Federal o Alberes. Va ser comissari de l’Any Dalí a Figueres el 2004. Ha estat curador de diverses exposicions i ha publicat una quinzena de llibres, dels quals sis sobre Salvador Dalí.",
-      "url": "https://www.museuemporda.org/?activitat=una-historia-de-lladres-i-serenos-de-museus",
-      "source": "Museu de l'Empordà",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": "19:00"
         }
       ]
     },
@@ -1200,15 +922,6 @@
       "with_sessions": 18,
       "with_venue": 22,
       "with_municipality": 24
-    },
-    {
-      "connector": "connectors.museu_emporda",
-      "ok": true,
-      "events": 14,
-      "with_image": 14,
-      "with_sessions": 14,
-      "with_venue": 14,
-      "with_municipality": 14
     }
   ]
 }
