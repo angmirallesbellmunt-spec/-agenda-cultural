@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:36:54.197334+00:00",
+  "generated_at": "2026-10-06T04:34:06.843187+00:00",
   "events": [
     {
       "id": "Museu de l'Empordà-248813ceb77a",
@@ -484,7 +484,7 @@
       "sessions": [
         {
           "date": "2026-10-16",
-          "time": "17:00"
+          "time": "18:00"
         }
       ]
     },
@@ -965,6 +965,25 @@
       ]
     },
     {
+      "id": "Figueres a Escena-c2714534ded2",
+      "title": "MULAR (O LA GRAN CAPTURA)",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/mular.png?w=870&h=580&zc=1&aoe=1&q=80&f=png",
+      "municipality": "Figueres",
+      "venue": "Sala La Cate",
+      "category": "Familiar · Teatre",
+      "description": "Cinc Cèntims Teatre",
+      "url": "https://www.figueresaescena.cat/ca/programacio/c/778-mular-o-la-gran-captura.html",
+      "source": "Figueres a Escena",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
       "id": "Figueres a Escena-acb5658f2028",
       "title": "PRÈVIA DE 'WE. NOSALTRES I ELS TEMPS'",
       "image": "https://www.figueresaescena.cat/img/image/fotos/mp-we_2010webtristanperez-martin.jpg?w=870&h=580&zc=1&aoe=1&q=80",
@@ -1030,25 +1049,6 @@
       "category": "Teatre",
       "description": "Dirigida per Victoria Szpunberg",
       "url": "https://www.figueresaescena.cat/ca/programacio/c/768-permagel.html",
-      "source": "Figueres a Escena",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-11-20",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Figueres a Escena-50ba840be947",
-      "title": "QUAN FLORIST LA VIOLETE",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/fotooriol.jpeg?w=400&h=400&zc=1&aoe=1&q=80",
-      "municipality": "Figueres",
-      "venue": "Cercle Sport Figuerenc",
-      "category": "Música",
-      "description": "De Locus Desperatus | Cicle Figueres Clàssica",
-      "url": "https://www.figueresaescena.cat/ca/programacio/c/815-quan-florist-la-violete.html",
       "source": "Figueres a Escena",
       "date_start": null,
       "date_end": null,
