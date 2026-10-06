@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:40:31.098683+00:00",
+  "generated_at": "2026-10-06T14:53:55.742037+00:00",
   "events": [
     {
       "id": "Agenda de la Bisbal-0280ce8a473a",
@@ -32,7 +32,7 @@
     {
       "id": "Agenda de la Bisbal-8839b46b2663",
       "title": "La ComerÇiada 2026",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/_1099.jpg?w=220&aoe=1&q=80&h=146&zc=1",
+      "image": null,
       "municipality": "La Bisbal d'Empordà",
       "venue": null,
       "category": null,
@@ -65,7 +65,7 @@
     {
       "id": "Roses Cultura-690a26548838",
       "title": "Biblioteca",
-      "image": "https://www.rosescultura.cat/img/image/fotos/tresbandits.webp?w=360&aoe=1&q=80&h=240&f=webp&sx=0&sy=42&sw=229&sh=152.67",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -84,7 +84,7 @@
     {
       "id": "Figueres a Escena-fcbf8900f9ab",
       "title": "FANG AMB CURA + AMB CURA",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/guillemmontdepalol_talentkm0.jpeg?w=400&h=400&zc=1&aoe=1&q=80",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/cartografies.png?w=870&h=580&zc=1&aoe=1&q=80&f=png",
       "municipality": "Figueres",
       "venue": "Auditori Caputxins",
       "category": "Dansa",
@@ -103,7 +103,7 @@
     {
       "id": "Roses Cultura-f7f01b0a4b48",
       "title": "Presentacions llibres",
-      "image": "https://www.rosescultura.cat/img/image/fotos/portadadigital_eldretdeviureunanit_martaestrada.webp?w=360&aoe=1&q=80&h=240&f=webp&sx=0&sy=182.12&sw=1796.95&sh=1197.97",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -122,7 +122,7 @@
     {
       "id": "Roses Cultura-45889a2de328",
       "title": "Conferències",
-      "image": "https://www.rosescultura.cat/img/image/fotos/ixseminari1.webp?w=360&aoe=1&q=80&h=240&zc=1&f=webp",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -150,7 +150,7 @@
     {
       "id": "Agenda de la Bisbal-6c654b58c01d",
       "title": "Parlem de salut mental en el nostre entorn",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/milicianas_cnt-fai.webp?w=220&aoe=1&q=80&h=146&zc=1&f=webp",
+      "image": null,
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Xerrades i conferències",
@@ -183,7 +183,7 @@
     {
       "id": "Roses Cultura-09b0acd4ab9b",
       "title": "Exposicions",
-      "image": "https://www.rosescultura.cat/img/image/fotos/propostaretrat2.webp?w=360&aoe=1&q=80&h=240&zc=1&f=webp",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -373,7 +373,7 @@
     {
       "id": "Agenda de la Bisbal-1aa5a08bd177",
       "title": "LES FÈROE, UNES ILLES MERAVELLOSES",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/whatsappimage2026-08-07at11_13_31.webp?w=220&aoe=1&q=80&h=146&zc=1&f=webp",
+      "image": null,
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Cinema",
@@ -411,7 +411,7 @@
     {
       "id": "Agenda de la Bisbal-c1bce913677a",
       "title": "Jornada per la llengua. En català, sempre!",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/yaunest_1.webp?w=220&aoe=1&q=80&h=146&zc=1&f=webp",
+      "image": null,
       "municipality": "La Bisbal d'Empordà",
       "venue": "Teatre Mundial",
       "category": "Familiar · Xerrades i conferències · Música",
@@ -563,7 +563,7 @@
     {
       "id": "Roses Cultura-0274d687ecfd",
       "title": "Teatre",
-      "image": "https://www.rosescultura.cat/img/image/fotos/unaideagenial001.webp?w=360&aoe=1&q=80&h=240&zc=1&f=webp",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -677,7 +677,7 @@
     {
       "id": "Agenda de la Bisbal-bc449aea9814",
       "title": "TERRACOTTA BIENNAL",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/_1099.jpg?w=220&aoe=1&q=80&h=146&zc=1",
+      "image": null,
       "municipality": "La Bisbal d'Empordà",
       "venue": "Terracotta Museu",
       "category": null,
@@ -691,7 +691,7 @@
     {
       "id": "Figueres a Escena-4efd7c7bc082",
       "title": "SOMNI D'UNA NIT D'ESTIU",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/cate3.jpg?w=2000&h=400&sx=33.71&sy=1226.97&sw=2932.58&sh=586.52&aoe=1&q=80",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/camerata.jpg?w=870&h=580&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
       "venue": "Teatre Municipal el Jardí",
       "category": "Música",
@@ -729,7 +729,7 @@
     {
       "id": "Figueres a Escena-99577d4e2ea4",
       "title": "L’HURACÀ",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/funcional_casinomenstral132.jpg?w=400&h=400&zc=1&aoe=1&q=80",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/1915definitiu.jpeg?w=870&h=580&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
       "venue": "Cercle Sport Figuerenc",
       "category": "Teatre",
@@ -802,7 +802,7 @@
     {
       "id": "Roses Cultura-bc7d409db0c4",
       "title": "Visites Guiades",
-      "image": "https://www.rosescultura.cat/img/image/fotos/ciutadelladeroses.png?w=360&aoe=1&q=80&h=240&zc=1&f=png",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -840,7 +840,7 @@
     {
       "id": "Roses Cultura-07a58f36d409",
       "title": "Optimist",
-      "image": "https://www.rosescultura.cat/img/image/fotos/pots001.webp?w=360&aoe=1&q=80&h=240&zc=1&f=webp",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -954,7 +954,7 @@
     {
       "id": "Figueres a Escena-ff0421a36bb1",
       "title": "CÀPSULES DE CREACIÓ EN L’ESPAI PÚBLIC",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/priscaportret.jpg?w=400&h=400&zc=1&aoe=1&q=80",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/conventpontos1.jpg?w=870&h=580&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
       "venue": null,
       "category": null,
@@ -1091,7 +1091,7 @@
     {
       "id": "Roses Cultura-8ece682710c2",
       "title": "Altres",
-      "image": "https://www.rosescultura.cat/img/image/fotos/omnium.webp?w=360&aoe=1&q=80&h=240&zc=1&f=webp",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -1119,7 +1119,7 @@
     {
       "id": "Figueres a Escena-1a7e4641fe11",
       "title": "PERMAGEL",
-      "image": "https://www.figueresaescena.cat/img/image/fotos/cate3.jpg?w=2000&h=400&sx=33.71&sy=1226.97&sw=2932.58&sh=586.52&aoe=1&q=80",
+      "image": "https://www.figueresaescena.cat/img/image/fotos/1_permagel_silviapoch1080x1080.jpg?w=870&h=580&zc=1&aoe=1&q=80",
       "municipality": "Figueres",
       "venue": "Teatre Municipal el Jardí",
       "category": "Teatre",
@@ -1437,7 +1437,7 @@
     {
       "id": "Roses Cultura-7a712f5273bd",
       "title": "Sant Joan",
-      "image": "https://www.rosescultura.cat/img/image/fotos/revetlla-de-sant-joan_23-juny-2026.webp?w=1142&h=259&sx=7.88&sy=461.16&sw=1568.75&sh=355.72&aoe=1&q=80&f=webp",
+      "image": null,
       "municipality": "Roses",
       "venue": null,
       "category": "Carnaval",
@@ -1491,7 +1491,7 @@
       "connector": "connectors.bisbal",
       "ok": true,
       "events": 24,
-      "with_image": 24,
+      "with_image": 19,
       "with_sessions": 18,
       "with_venue": 22,
       "with_municipality": 24
@@ -1509,7 +1509,7 @@
       "connector": "connectors.roses",
       "ok": true,
       "events": 37,
-      "with_image": 32,
+      "with_image": 23,
       "with_sessions": 11,
       "with_venue": 25,
       "with_municipality": 37
