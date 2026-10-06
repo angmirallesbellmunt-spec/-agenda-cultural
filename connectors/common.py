@@ -1,5 +1,5 @@
 from __future__ import annotations
-import re, hashlib
+import re, hashlib, io
 from urllib.parse import urljoin
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -17,45 +17,134 @@ def abs_url(base, u):
 def soup(html):
     return BeautifulSoup(html, "html.parser")
 
+def _real_image_size(url):
+    """Retorna (amplada, alçada) llegint la imatge real. Si no es pot, retorna (0, 0)."""
+    try:
+        import requests
+        from PIL import Image
+
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        r.raise_for_status()
+
+        ctype = (r.headers.get("content-type") or "").lower()
+        if ctype and not ctype.startswith("image/"):
+            return (0, 0)
+
+        with Image.open(io.BytesIO(r.content)) as im:
+            return im.size
+    except Exception:
+        return (0, 0)
+
 def best_image(doc, base):
-    # Criteri editorial: fotografia de contingut abans que cartell o creativitat.
-    # Si totes les candidates semblen peces gràfiques, no publiquem imatge.
+    """
+    Criteri editorial:
+    - fotografia de contingut abans que cartell o creativitat;
+    - comprova la mida REAL de l'arxiu quan és possible;
+    - descarta imatges petites o amb proporcions típiques de cartell/banner;
+    - prova diverses candidates;
+    - si cap imatge és prou bona, retorna None.
+    """
     bad = (
         "cartell","poster","flyer","banner","programa","agenda-","agenda_",
         "xxss","xarxes","instagram","facebook","story","stories","newsletter",
-        "logo","icon","icona","icones_","sprite","avatar","capcalera","capçalera","capturadepantalla","captura-de-pantalla"
+        "logo","icon","icona","icones_","sprite","avatar","capcalera","capçalera",
+        "capturadepantalla","captura-de-pantalla","miniatura","thumbnail","thumb"
     )
-    good = ("foto","photo","retrat","portrait","imatge","image","galeria","gallery")
-    candidates=[]; seen=set()
+    good = (
+        "foto","photo","fotografia","retrat","portrait","imatge","image",
+        "galeria","gallery","espectacle","artista","companyia"
+    )
 
-    # Recorrem la fitxa en ordre i parem abans de les activitats relacionades,
-    # per no acabar agafant la foto d'un altre esdeveniment.
+    candidates=[]
+    seen=set()
+
+    # Només recorrem la zona principal de la fitxa i parem abans de relacionades.
     for n in doc.find_all(["h2","h3","h4","img"]):
         if n.name != "img":
-            if clean(n.get_text(" ",strip=True)).lower() == "activitats relacionades":
+            heading = clean(n.get_text(" ",strip=True)).lower()
+            if heading in ("activitats relacionades","actividades relacionadas","related events"):
                 break
             continue
-        u=n.get("data-src") or n.get("data-lazy-src") or n.get("src")
-        if not u: continue
+
+        u = (
+            n.get("data-src")
+            or n.get("data-lazy-src")
+            or n.get("data-original")
+            or n.get("src")
+        )
+        if not u:
+            srcset = n.get("data-srcset") or n.get("srcset")
+            if srcset:
+                # Triem l'última variant del srcset, habitualment la més gran.
+                u = srcset.split(",")[-1].strip().split(" ")[0]
+
+        if not u:
+            continue
+
         u=abs_url(base,u)
-        if not u or u in seen: continue
+        if not u or u in seen:
+            continue
         seen.add(u)
-        alt=clean(n.get("alt")); title=clean(n.get("title"))
-        hay=(u+" "+alt+" "+title).lower()
-        if any(x in hay for x in bad): continue
+
+        alt=clean(n.get("alt"))
+        title=clean(n.get("title"))
+        classes=" ".join(n.get("class") or [])
+        hay=(u+" "+alt+" "+title+" "+classes).lower()
+
+        if any(x in hay for x in bad):
+            continue
 
         score=0
-        if any(x in hay for x in good): score+=50000
+        if any(x in hay for x in good):
+            score += 500000
+
+        # Primer intentem dimensions declarades a l'HTML.
         try:
             w=int(re.sub(r"\D","",str(n.get("width") or "0")) or 0)
             h=int(re.sub(r"\D","",str(n.get("height") or "0")) or 0)
-            if w>=600 and h>=400: score+=w*h
         except Exception:
-            pass
+            w=h=0
+
+        # Si no són fiables, llegim la imatge real.
+        if w < 300 or h < 200:
+            rw,rh=_real_image_size(u)
+            if rw and rh:
+                w,h=rw,rh
+
+        # Sense mida verificable no la descartem automàticament,
+        # però queda per sota de les fotografies verificades.
+        if w and h:
+            # Massa petita: risc clar de pixelació.
+            if w < 700 or h < 400:
+                continue
+
+            ratio=w/h
+
+            # Molt vertical: sovint cartell/flyer.
+            if ratio < 0.72:
+                continue
+
+            # Molt panoràmica: sovint banner/capçalera.
+            if ratio > 2.4:
+                continue
+
+            # Afavorim formats fotogràfics horitzontals o gairebé quadrats.
+            if 1.15 <= ratio <= 1.9:
+                score += 300000
+            elif 0.85 <= ratio < 1.15:
+                score += 180000
+            else:
+                score += 80000
+
+            score += min(w*h, 4000000)
+        else:
+            score += 1000
+
         candidates.append((score,u))
 
     if not candidates:
         return None
+
     candidates.sort(reverse=True)
     return candidates[0][1]
 
