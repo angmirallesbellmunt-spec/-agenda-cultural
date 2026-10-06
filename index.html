@@ -531,8 +531,62 @@ main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
 </style>
 </head>
 
-<body>
+  <body>
+    <!-- PROPOSA UNA AGENDA -->
+<div id="proposeSourceModal" class="modal">
+ <div class="modalbox">
+   <button type="button" id="closeProposeSource" class="close" aria-label="Tancar">×</button>
 
+    <h2>Proposa una agenda cultural</h2>
+    <p>
+      Coneixes una agenda, equipament o web cultural que encara no apareix
+      a Agenda Cultural? Proposa'ns-la i la revisarem.
+    </p>
+
+    <form id="sourceProposalForm">
+
+      <label for="proposalName">Nom de l'agenda o equipament *</label>
+      <input
+        type="text"
+        id="proposalName"
+        name="name"
+        required
+      >
+
+      <label for="proposalUrl">Web / URL *</label>
+      <input
+        type="url"
+        id="proposalUrl"
+        name="url"
+        placeholder="https://"
+        required
+      >
+
+      <label for="proposalMunicipality">Municipi</label>
+      <input
+        type="text"
+        id="proposalMunicipality"
+        name="municipality"
+      >
+
+      <label for="proposalNotes">Observacions</label>
+      <textarea
+        id="proposalNotes"
+        name="notes"
+        rows="4"
+        placeholder="Pots afegir qualsevol informació que ens pugui ser útil."
+      ></textarea>
+
+      <button type="submit" id="submitProposalBtn">
+        Envia la proposta
+      </button>
+
+      <p id="proposalMessage" aria-live="polite"></p>
+
+    </form>
+  </div>
+</div>
+  
 <header class="hero">
 
   <div class="topline">
@@ -550,6 +604,7 @@ main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
       <div class="account" id="accountLoggedIn" style="display:none">
         <button class="user-name" id="profileBtn" title="El meu perfil"></button>
         <button id="myAgendaBtn">La meva agenda</button>
+        <button id="proposeSourceBtn">Proposa una agenda</button>
         <button id="logoutBtn">Tanca sessió</button>
       </div>
     </div>
@@ -804,6 +859,12 @@ const profileBtn = document.getElementById("profileBtn");
 const profileModal = document.getElementById("profileModal");
 const myAgendaBtn = document.getElementById("myAgendaBtn");
 const myAgendaModal = document.getElementById("myAgendaModal");
+  const proposeSourceBtn = document.getElementById("proposeSourceBtn");
+const proposeSourceModal = document.getElementById("proposeSourceModal");
+const closeProposeSource = document.getElementById("closeProposeSource");
+const sourceProposalForm = document.getElementById("sourceProposalForm");
+const proposalMessage = document.getElementById("proposalMessage");
+const submitProposalBtn = document.getElementById("submitProposalBtn");
 let currentUser = null;
 let favoriteIds = new Set();
 let calendarCursor = new Date();
@@ -988,6 +1049,52 @@ function renderAgendaCalendar(){
 
 function renderMyAgenda(){ renderAgendaList(); renderAgendaCalendar(); }
 myAgendaBtn.onclick=()=>{ if(!currentUser){openModal(loginModal);return;} openModal(myAgendaModal); renderMyAgenda(); };
+proposeSourceBtn.onclick=()=>{ if(!currentUser){openModal(loginModal);return;} openModal(proposeSourceModal); };
+closeProposeSource.onclick=()=>closeModal(proposeSourceModal);
+sourceProposalForm.onsubmit = async (event) => {
+  event.preventDefault();
+
+  proposalMessage.textContent = "";
+  submitProposalBtn.disabled = true;
+  submitProposalBtn.textContent = "Enviant...";
+
+  try {
+    if (!currentUser) {
+      openModal(loginModal);
+      return;
+    }
+
+    const name = document.getElementById("proposalName").value.trim();
+    const url = document.getElementById("proposalUrl").value.trim();
+    const municipality = document.getElementById("proposalMunicipality").value.trim();
+    const notes = document.getElementById("proposalNotes").value.trim();
+
+    const { error } = await supabaseClient
+      .from("source_proposals")
+      .insert({
+        user_id: currentUser.id,
+        name: name,
+        url: url,
+        municipality: municipality || null,
+        notes: notes || null,
+        status: "pending"
+      });
+
+    if (error) throw error;
+
+    sourceProposalForm.reset();
+    proposalMessage.textContent =
+      "Gràcies! Hem rebut la teva proposta i la revisarem.";
+
+  } catch (error) {
+    console.error("Error enviant proposta:", error);
+    proposalMessage.textContent =
+      "No s’ha pogut enviar la proposta. Torna-ho a provar.";
+  } finally {
+    submitProposalBtn.disabled = false;
+    submitProposalBtn.textContent = "Envia la proposta";
+  }
+};
 document.getElementById("agendaListTab").onclick=()=>{document.getElementById("agendaListTab").classList.add("active");document.getElementById("agendaCalendarTab").classList.remove("active");document.getElementById("agendaListView").style.display="block";document.getElementById("agendaCalendarView").style.display="none"};
 document.getElementById("agendaCalendarTab").onclick=()=>{document.getElementById("agendaCalendarTab").classList.add("active");document.getElementById("agendaListTab").classList.remove("active");document.getElementById("agendaListView").style.display="none";document.getElementById("agendaCalendarView").style.display="block";renderAgendaCalendar()};
 
