@@ -4,11 +4,11 @@ import os
 from pathlib import Path
 
 from supabase import create_client
-from connectors import figueres, bisbal, museu_emporda
+from connectors import figueres, bisbal
 
 
 ROOT = Path(__file__).parent
-connectors = [figueres, bisbal, museu_emporda]
+connectors = [figueres, bisbal]
 
 events = []
 report = []
