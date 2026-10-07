@@ -147,7 +147,7 @@ body{
 
 .toolbar{
   padding:18px 4vw;
-  border-bottom:1px solid var(--line);
+  border-bottom:0;
   display:grid;
   gap:14px
 }
@@ -509,7 +509,7 @@ main{
 .search-icon{font-size:22px;line-height:1;font-weight:400;transform:rotate(-12deg)}
 .header-search input{width:180px;border:0;outline:0;background:transparent;font:inherit;font-size:12px;color:var(--ink);padding:6px 0}
 .header-search input::placeholder{color:var(--ink);opacity:.72}
-.toolbar{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);align-items:center;gap:18px 30px}
+.toolbar{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);align-items:center;gap:18px 30px;padding-top:48px}
 .filter-left{justify-content:flex-start}
 .filter-right{justify-content:flex-end}
 main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
@@ -528,65 +528,39 @@ main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
 .site-footer a:hover{text-decoration:underline;text-underline-offset:3px}
 @media(max-width:700px){.site-footer{margin-top:32px;padding-bottom:22px}}
 
+
+/* --- Perfil i proposta d'agenda · octubre 2026 --- */
+.proposal-box{width:min(100%,620px)}
+.proposal-intro{font-size:15px;line-height:1.35;margin:-8px 0 22px}
+.form textarea{width:100%;border:1px solid var(--line);background:white;padding:12px 13px;font:inherit;font-size:15px;resize:vertical;min-height:110px}
+.proposal-note{margin:3px 0 0;padding-top:14px;border-top:1px solid var(--line);font-size:13px;line-height:1.4}
+
 </style>
 </head>
 
   <body>
     <!-- PROPOSA UNA AGENDA -->
 <div id="proposeSourceModal" class="modal">
- <div class="modalbox">
-   <button type="button" id="closeProposeSource" class="close" aria-label="Tancar">×</button>
-
-    <h2>Proposa una agenda cultural</h2>
-    <p>
-      Coneixes una agenda, equipament o web cultural que encara no apareix
-      a Agenda Cultural? Proposa'ns-la i la revisarem.
-    </p>
-
-    <form id="sourceProposalForm">
-
+  <div class="modalbox proposal-box">
+    <button type="button" id="closeProposeSource" class="close" aria-label="Tancar">×</button>
+    <h2 class="modal-title">Proposa una agenda cultural</h2>
+    <p class="proposal-intro">Coneixes una agenda, equipament o web cultural que encara no apareix a Agenda Cultural? Proposa'ns-la i la revisarem.</p>
+    <form id="sourceProposalForm" class="form">
       <label for="proposalName">Nom de l'agenda o equipament *</label>
-      <input
-        type="text"
-        id="proposalName"
-        name="name"
-        required
-      >
-
+      <input type="text" id="proposalName" name="name" required>
       <label for="proposalUrl">Web / URL *</label>
-      <input
-        type="url"
-        id="proposalUrl"
-        name="url"
-        placeholder="https://"
-        required
-      >
-
+      <input type="url" id="proposalUrl" name="url" placeholder="https://" required>
       <label for="proposalMunicipality">Municipi</label>
-      <input
-        type="text"
-        id="proposalMunicipality"
-        name="municipality"
-      >
-
+      <input type="text" id="proposalMunicipality" name="municipality">
       <label for="proposalNotes">Observacions</label>
-      <textarea
-        id="proposalNotes"
-        name="notes"
-        rows="4"
-        placeholder="Pots afegir qualsevol informació que ens pugui ser útil."
-      ></textarea>
-
-      <button type="submit" id="submitProposalBtn">
-        Envia la proposta
-      </button>
-
-      <p id="proposalMessage" aria-live="polite"></p>
-
+      <textarea id="proposalNotes" name="notes" rows="4" placeholder="Pots afegir qualsevol informació que ens pugui ser útil."></textarea>
+      <button type="submit" id="submitProposalBtn">Envia la proposta</button>
+      <p class="proposal-note">Rebràs un correu quan hàgim validat el web que ens proposes.</p>
+      <div id="proposalMessage" class="form-message" aria-live="polite"></div>
     </form>
   </div>
 </div>
-  
+
 <header class="hero">
 
   <div class="topline">
@@ -936,19 +910,29 @@ async function loadProfile(){
   const message = document.getElementById("profileMessage");
   message.className = "form-message";
   message.textContent = "";
-
   if(error || !user){
     message.classList.add("error");
     message.textContent = "No s'ha pogut carregar el perfil.";
     return;
   }
-
   const meta = user.user_metadata || {};
-  document.getElementById("profileFirstName").value = meta.first_name || meta.firstName || meta.name || "";
-  document.getElementById("profileLastName").value = meta.last_name || meta.lastName || meta.surname || meta.surnames || "";
-  document.getElementById("profileBirthYear").value = meta.birth_year || meta.birthYear || (meta.age ? new Date().getFullYear() - Number(meta.age) : "");
-  document.getElementById("profileMunicipality").value = meta.municipality || meta.city || meta.postal_code || "";
+  let profile = {};
+  try{
+    const {data} = await supabaseClient.from("profiles").select("*").eq("id", user.id).maybeSingle();
+    profile = data || {};
+  }catch(_){}
+
+  const firstName = profile.first_name || profile.firstName || profile.name || meta.first_name || meta.firstName || meta.name || "";
+  const lastName = profile.last_name || profile.lastName || profile.surname || profile.surnames || meta.last_name || meta.lastName || meta.surname || meta.surnames || "";
+  const birthYear = profile.birth_year || profile.birthYear || meta.birth_year || meta.birthYear || (meta.age ? new Date().getFullYear() - Number(meta.age) : "");
+  const municipality = profile.municipality || profile.city || meta.municipality || meta.city || meta.postal_code || "";
+
+  document.getElementById("profileFirstName").value = firstName;
+  document.getElementById("profileLastName").value = lastName;
+  document.getElementById("profileBirthYear").value = birthYear || "";
+  document.getElementById("profileMunicipality").value = municipality;
   document.getElementById("profileEmail").value = user.email || "";
+  profileBtn.textContent = firstName ? "Hola, " + firstName : "El meu perfil";
 }
 
 profileBtn.onclick = async () => {
@@ -988,11 +972,23 @@ document.getElementById("profileForm").addEventListener("submit", async event =>
     return;
   }
 
+  if(existingUser){
+    try{
+      await supabaseClient.from("profiles").upsert({
+        id: existingUser.id,
+        first_name: firstName,
+        last_name: lastName,
+        birth_year: birthYearValue ? Number(birthYearValue) : null,
+        municipality: municipalityValue || null
+      }, {onConflict:"id"});
+    }catch(_){}
+  }
+
   message.classList.add("success");
   message.textContent = (existingUser && emailValue !== existingUser.email)
     ? "Perfil actualitzat. Revisa el correu per confirmar la nova adreça."
     : "Perfil actualitzat correctament.";
-  profileBtn.textContent = firstName || "El meu perfil";
+  profileBtn.textContent = firstName ? "Hola, " + firstName : "El meu perfil";
 });
 
 
@@ -1084,7 +1080,7 @@ sourceProposalForm.onsubmit = async (event) => {
 
     sourceProposalForm.reset();
     proposalMessage.textContent =
-      "Gràcies! Hem rebut la teva proposta i la revisarem.";
+      "Gràcies! Hem rebut la teva proposta. Rebràs un correu quan l’hàgim validat.";
 
   } catch (error) {
     console.error("Error enviant proposta:", error);
@@ -1111,8 +1107,9 @@ async function showUser(user){
     accountLoggedIn.style.display = "flex";
 
     const meta = user.user_metadata || {};
-    const displayName = String(meta.first_name || meta.firstName || meta.name || "").trim() || "El meu perfil";
-    profileBtn.textContent = displayName;
+    const displayName = String(meta.first_name || meta.firstName || meta.name || "").trim();
+    profileBtn.textContent = displayName ? "Hola, " + displayName : "El meu perfil";
+    await loadProfile();
     await loadFavorites();
 
   }else{
