@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-06T15:20:24.290371+00:00",
+  "generated_at": "2026-10-07T04:39:39.769929+00:00",
   "events": [
-    {
-      "id": "Agenda de la Bisbal-7bda15bc1c3d",
-      "title": "Commemoració del Foc de la Bisbal",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/fd4e5bb7-db3b-4019-b5b7-87a67ff47008.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": null,
-      "category": null,
-      "description": null,
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14461-commemoracio-del-foc-de-la-bisbal.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-06",
-          "time": "18:00"
-        }
-      ]
-    },
     {
       "id": "Agenda de la Bisbal-0652efa41a73",
       "title": "Inauguració «Ecos»",
@@ -226,6 +207,25 @@
         {
           "date": "2026-10-23",
           "time": "21:00"
+        }
+      ]
+    },
+    {
+      "id": "Agenda de la Bisbal-76648e79a75c",
+      "title": "El temple de la llum",
+      "image": "https://agenda.labisbal.cat/img/image/fotos/828834181_10162896516755826_5763779184429718882_n.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=0&sy=83.2&sw=1122&sh=748",
+      "municipality": "La Bisbal d'Empordà",
+      "venue": "Brava Performing Arts",
+      "category": null,
+      "description": "Poemes visuals i música",
+      "url": "https://agenda.labisbal.cat/ca/agenda/c/14466-el-temple-de-la-llum.html",
+      "source": "Agenda de la Bisbal",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "20:00"
         }
       ]
     },
@@ -456,7 +456,7 @@
       "rejected_no_valid_image": 10,
       "with_image": 14,
       "with_sessions": 10,
-      "with_venue": 13,
+      "with_venue": 14,
       "with_municipality": 14
     },
     {
