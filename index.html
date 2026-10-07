@@ -336,11 +336,19 @@ main{
 
 
 
-.favorite-btn{position:absolute;right:10px;top:10px;width:38px;height:38px;border:1px solid var(--ink);border-radius:50%;background:var(--paper);font-size:24px;line-height:1;cursor:pointer;z-index:4;display:grid;place-items:center}
-.favorite-btn.active{background:var(--lime)}
+.favorite-btn{position:absolute;right:12px;top:10px;width:auto;height:auto;border:0;background:transparent;font-size:32px;line-height:1;cursor:pointer;z-index:4;padding:3px;color:white;text-shadow:0 1px 5px rgba(0,0,0,.55)}
+.favorite-btn.active{background:transparent;color:var(--lime);text-shadow:0 1px 5px rgba(0,0,0,.35)}
+.favorite-btn:hover{transform:scale(1.08)}
 .card{position:relative}
 .agenda-tabs{display:flex;gap:8px;margin:0 0 18px}.agenda-tabs button{border:1px solid var(--ink);background:transparent;border-radius:999px;padding:8px 13px;font-weight:700;cursor:pointer}.agenda-tabs button.active{background:var(--lime)}
-.saved-list{display:grid;gap:10px}.saved-item{display:grid;grid-template-columns:1fr auto;gap:10px;border-top:1px solid var(--line);padding:12px 0}.saved-item strong{display:block;text-transform:uppercase}.saved-item small{display:block;margin-top:4px}.saved-remove{border:0;background:transparent;font-size:22px;cursor:pointer}
+.saved-list{display:grid;gap:10px}
+.saved-item{display:grid;grid-template-columns:72px 1fr auto;gap:14px;align-items:center;border-top:1px solid var(--line);padding:12px 0}
+.saved-thumb{width:72px;height:58px;object-fit:cover;display:block;background:#e9e5dc}
+.saved-thumb-empty{width:72px;height:58px;background:#e9e5dc}
+.saved-item strong{display:block;text-transform:uppercase}
+.saved-item small{display:block;margin-top:4px}
+.saved-remove{border:0;background:transparent;font-size:25px;cursor:pointer;color:var(--ultra);padding:4px}
+@media(max-width:520px){.saved-item{grid-template-columns:58px 1fr auto;gap:10px}.saved-thumb,.saved-thumb-empty{width:58px;height:50px}}
 .calendar-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}.calendar-head button{border:1px solid var(--ink);background:transparent;border-radius:50%;width:34px;height:34px;cursor:pointer}.calendar-title{font-weight:800;text-transform:uppercase}.calendar-grid{display:grid;grid-template-columns:repeat(7,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}.cal-dow,.cal-day{min-height:42px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);padding:5px;font-size:11px}.cal-dow{min-height:auto;font-weight:800;text-align:center}.cal-day.has-event{background:var(--lime);cursor:pointer}.cal-num{font-weight:800}.cal-count{font-size:9px;margin-top:4px}
 @media(max-width:700px){.intro{position:static;width:100%;margin-top:22px;text-align:left}.hero{min-height:auto;padding-bottom:22px}}
 
@@ -509,7 +517,7 @@ main{
 .search-icon{font-size:22px;line-height:1;font-weight:400;transform:rotate(-12deg)}
 .header-search input{width:180px;border:0;outline:0;background:transparent;font:inherit;font-size:12px;color:var(--ink);padding:6px 0}
 .header-search input::placeholder{color:var(--ink);opacity:.72}
-.toolbar{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);align-items:center;gap:18px 30px;padding-top:48px}
+.toolbar{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);align-items:center;gap:18px 30px;padding-top:78px}
 .filter-left{justify-content:flex-start}
 .filter-right{justify-content:flex-end}
 main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
@@ -1025,7 +1033,7 @@ function eventDate(e){ return e.sessions?.[0]?.date || e.date_start || ""; }
 function renderAgendaList(){
   const rows=savedEvents();
   const box=document.getElementById("agendaListView");
-  box.innerHTML=rows.length?`<div class="saved-list">${rows.map(e=>`<div class="saved-item"><div><strong>${e.title}</strong><small>${eventDate(e)} · ${e.municipality||""}${e.venue?" · "+e.venue:""}</small></div><button class="saved-remove" data-remove-fav="${eventKey(e)}" title="Elimina de la meva agenda">★</button></div>`).join("")}</div>`:'<div class="empty">Encara no has desat cap activitat. Marca una ☆ a l’agenda per afegir-la aquí.</div>';
+  box.innerHTML=rows.length?`<div class="saved-list">${rows.map(e=>`<div class="saved-item">${e.image?`<img class="saved-thumb" src="${e.image}" alt="" loading="lazy">`:`<div class="saved-thumb-empty"></div>`}<div><strong>${e.title}</strong><small>${eventDate(e)} · ${e.municipality||""}${e.venue?" · "+e.venue:""}</small></div><button class="saved-remove" data-remove-fav="${eventKey(e)}" title="Elimina de la meva agenda">★</button></div>`).join("")}</div>`:'<div class="empty">Encara no has desat cap activitat. Marca una ☆ a l’agenda per afegir-la aquí.</div>';
   box.querySelectorAll("[data-remove-fav]").forEach(btn=>btn.onclick=()=>{const e=DATA.find(x=>eventKey(x)===btn.dataset.removeFav);if(e)toggleFavorite(e)});
 }
 
