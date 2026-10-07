@@ -2,10 +2,10 @@ from datetime import datetime, timezone
 import json, os
 from pathlib import Path
 from supabase import create_client
-from connectors import figueres, bisbal, girona, roses
+from connectors import banyoles, olot, celra
 
 ROOT=Path(__file__).parent
-connectors=[figueres,bisbal,girona,roses]
+connectors=[banyoles,olot,celra]
 
 events=[]
 report=[]
