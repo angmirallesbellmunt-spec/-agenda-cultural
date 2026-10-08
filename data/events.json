@@ -1,111 +1,320 @@
 {
-  "generated_at": "2026-10-07T16:35:43.766289+00:00",
+  "generated_at": "2026-10-08T05:13:30.511227+00:00",
   "events": [
     {
-      "id": "Agenda de la Bisbal-0652efa41a73",
-      "title": "Inauguració «Ecos»",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/peixera38_anne_laurecano_1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": "Exposicions",
-      "description": null,
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14451-inauguracio-ecos.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-43d02b13de80",
+      "title": "Correllengua a Olot: “Josep M. Espinàs. Un home al servei d’un país “",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Una xerrada per apropar-se a la figura i l’obra de Josep M. Espinàs , escriptor i home polifacètic compromès amb el país, la cultura i la llengua. La sessió, a càrrec de M. Mercè Padrosa , repassarà la seva trajectòria i els diversos projectes que va impulsar al llarg de la seva vida. L’activitat forma part dels actes del Correllengua a Olot . Organitza: Òmnium Cultural",
+      "url": "https://www.olotcultura.cat/agenda/acte/correllengua-a-olot-apropament-a-la-persona-i-lobra-de-josep-m-espinas/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
-          "date": "2026-10-09",
+          "date": "2026-10-08",
           "time": "19:30"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-1f71fd718f1c",
-      "title": "Taller de tricomia",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/tricomiaimg_103938_.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": null,
-      "description": "Any Gaudí 2026 a la Bisbal d'Empordà",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14454-taller-de-tricomia.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-c31671fe261c",
+      "title": "Kike Bela I Lorena Ruiz",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Una experiència sensorial que investiga la resiliència i l’esperança, tot traçant un diàleg íntim entre cos, so i espai Narració experimental construïda a través de paisatges sonors i visuals poètics, música i imatges de la quotidianitat expandida que exploren els sentiments d’una persona emmirallada en el paisatge urbà. Tant les imatges com l’art sonor parteixen d’un concepte creatiu arrelat en l’arquitectura i l’espai físic, entenent-los com a estructures vives que modelen la percepció, la memòria i l’emoció. Una recerca d’un jardí exuberant secret i, alhora, d’altres espais en els quals trobar consol mitjançant una narració visual i musical inusual. Es pot localitzar un camí que reformuli l’esgotament i la pròpia memòria perquè el cor es torni a omplir de vida i desig? Música: Kike Bela Visuals: Lorena Ruiz Pellicer",
+      "url": "https://www.olotcultura.cat/agenda/acte/kike-bela-i-lorena-ruiz/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
-          "date": "2026-10-09",
+          "date": "2026-10-08",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b4f997f535c4",
+      "title": "Presentació del conte “El bosc dels Tres Roures”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Presentació del conte solidari El bosc dels Tres Roures , escrit per Carme Clapera i il·lustrat per Nina Bach, editat per la Fundació Hospital d’Olot i Comarcal de la Garrotxa, conjuntament amb Bassegoda Grup, que posa en valor el bosquet de l’Hospital com a espai de trobada i comunitat. L’acte inclourà una lectura del conte a càrrec d’Eva Ruiz i la participació de la Coral Taliqual . Els beneficis de la venda del conte es destinaran a l’Associació IRIS, per a la investigació del càncer infantil i les malalties pediàtriques. Activitat oberta a tothom. Organitza: Fundació Hospital d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-del-conte-el-bosc-dels-tres-roures/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-08",
           "time": "17:30"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-aa5ecc4816d8",
-      "title": "Jornada tècnica: Gaudí, modernisme i patrimoni",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/fotopilaraldanasostresnau_2014021.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": "Xerrades i conferències",
-      "description": "Any Gaudí 2026 a la Bisbal d'Empordà",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14453-jornada-tecnica-gaudi-modernisme-i-patrimoni.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-ebc409688a3a",
+      "title": "Cau de poesia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Trobada oberta a tothom per compartir i gaudir de la poesia en un espai de trobada entre persones interessades en la paraula i la creació literària. Organitza: Amics de les Lletres Garrotxines",
+      "url": "https://www.olotcultura.cat/agenda/acte/cau-de-poesia-19/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
-          "date": "2026-10-10",
-          "time": "09:00"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-bb5306a2670b",
-      "title": "Aplec del Remei",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/_1099.jpg?w=1740&aoe=1&q=80&h=1160&zc=1",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Ermita del Remei",
-      "category": null,
-      "description": "Missa, sardanes i concurs d'arrossos",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14450-aplec-del-remei.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "10:30"
-        }
-      ]
-    },
-    {
-      "id": "Agenda de la Bisbal-83f0683f9959",
-      "title": "LES CULPABLES",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/lesculpables_mainframe_00004.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Cinema",
-      "description": "DOCS DEL MES",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14424-les-culpables.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": null,
-      "date_end": null,
-      "sessions": [
-        {
-          "date": "2026-10-11",
+          "date": "2026-10-09",
           "time": "18:00"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-c70e940b8b67",
-      "title": "Portes obertes al Terracotta Museu",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/7689__6131g.jpg?w=1740&aoe=1&q=80&h=1160&zc=1",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": null,
-      "description": "Jornades Europees de Patrimoni",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14455-portes-obertes-al-terracotta-museu.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-e5c3851dcaf2",
+      "title": "Lliurament dels Premis Eva Toldrà d’Il·lustració",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Organitza: Escola d’Art i Superior d’Olot i Associació Premi Eva Toldrà d’Il·lustració",
+      "url": "https://www.olotcultura.cat/agenda/acte/lliurament-dels-premis-eva-toldra-dillustracio/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8754c4ab279c",
+      "title": "L’arannà",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Amb l’espectacle Turmarí , es capbussen en la tradició de la música popular de les illes Pitiüses per oferir, a través de l’experimentació sonora que les caracteritza, una mirada particular sobre Eivissa i Formentera. Sintetitzadors i teclats comparteixen escenari amb les castanyoles, el tambor, l’espasí i la flauta, així com amb estètiques que s’inspiren en les del ball pagès.",
+      "url": "https://www.olotcultura.cat/agenda/acte/laranna/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c08d9666b358",
+      "title": "Portes obertes als Museus d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Amb motiu de les Jornades Europees de Patrimoni , els Museus d’Olot se sumen a la celebració amb entrada gratuïta durant tot el cap de setmana. Divendres, dissabte i diumenge es podran visitar gratuïtament el Museu de la Garrotxa i el Museu dels Sants, una oportunitat per descobrir les seves col·leccions i exposicions.",
+      "url": "https://www.olotcultura.cat/agenda/acte/portes-obertes-als-museus-dolot-divendres/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c4b3d2414fbb",
+      "title": "“El patrimoni artístic català en guerra (1936-1939): Olot, escut d’un llegat en perill”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Santos M. Mateos, doctor en Història de l’Art per la Universitat de Barcelona i professor de la Universitat de Vic, ens parlarà de l’epopeia que va ser la salvaguarda de l’art català durant els anys de guerra i com Olot va esdevenir el focus de lluita i de salvaguarda del país. Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-patrimoni-artistic-catala-en-guerra-1936-1939-olot-escut-dun-llegat-en-perill/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-6b7cbd9dad08",
+      "title": "“Porco Rosso”, de Hayao Miyazaki",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Cinema",
+      "description": "Pel·lícula d’animació dirigida per Hayao Miyazaki que segueix en Porco Rosso, un antic pilot de guerra convertit misteriosament en porc que es guanya la vida com a caçador de recompenses perseguint pirates aeris sobre el mar Adrià. La seva rutina canvia amb l’arribada de Curtis, un ambiciós pilot nord-americà disposat a desafiar-lo. Ambientada a l’Europa d’entreguerres, Porco Rosso combina aventura, humor i romanticisme en una història sobre la llibertat, el passat, la guerra i la dificultat de trobar un lloc al món. Organitza: Cine Club Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/porco-rosso/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-09",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-aedae51a465e",
+      "title": "Boja",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Recomanat a partir de 14 anys Espectacle en català i castellà amb cançons cantades en anglès",
+      "url": "https://www.olotcultura.cat/agenda/acte/boja/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-daaeb453b63b",
+      "title": "Correllengua a Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "La jornada començarà a les 16 h amb una plantada de faràndula al Firal Petit i, a les 16.30 h, una cercavila recorrerà els carrers fins a la Font de l’Àngel , on tindrà lloc l’acte central.",
+      "url": "https://www.olotcultura.cat/agenda/acte/correllengua-a-olot-apropament-a-la-persona-i-lobra-de-josep-m-espinas-duplicate-1/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "16:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b25a21f8b683",
+      "title": "Portes obertes als Museus d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Amb motiu de les Jornades Europees de Patrimoni , els Museus d’Olot se sumen a la celebració amb entrada gratuïta durant tot el cap de setmana. Divendres, dissabte i diumenge es podran visitar gratuïtament el Museu de la Garrotxa i el Museu dels Sants, una oportunitat per descobrir les seves col·leccions i exposicions.",
+      "url": "https://www.olotcultura.cat/agenda/acte/portes-obertes-als-museus-dolot-dissabte/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c94ae74b4b49",
+      "title": "Taller d’espelmes naturals i aromateràpia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Elaborarem una espelma natural de dues metxes, lliure de tòxics amb diferents decoracions de plantes, presentacions, olis essencials per donar aroma o colorants naturals, amb ingredients de qualitat i no perjudicials. Un cop feta l’espelma, dedicarem uns minuts a una pràctica de relaxació amb olis essencials. Organitza: Museu dels Sants i la Iera Amb el suport de la Diputació de Girona i del Departament de Cultura de la Generalitat.",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-despelmes-naturals-i-aromaterapia-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-25d694e39946",
+      "title": "Taller familiar: Laboratori de mons volcànics",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Què fa tan especials els volcans de la Garrotxa? En aquest taller explorarem les formes, els colors i els elements que caracteritzen el nostre paisatge volcànic. A partir d’aquesta descoberta, crearem els nostres minimons volcànics, un espai on imaginar, experimentar i crear les nostres històries volcàniques. Edat recomanada: Famílies amb infants amb edats entre 4 i 8 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/laboratori-de-mons-volcanics/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c4752ad2eb10",
+      "title": "Vermut musical: Strip",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Vermut musical a La Volianna del Parc Nou amb Strip, un duet nascut el 2022 format per Tutu Danés (veu) i Marc Sànchez (guitarra i veus) que ofereix un ampli repertori de versions acústiques de clàssics del rock dels anys seixanta, setanta i vuitanta. Strip redescobreix temes d’artistes tant diversos com The Beatles, Rod Stewart o Joe Cocker entre molts d’altres, oferint una visió personal i divertida. Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/strip-3/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-10",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-93ffccb50ab8",
+      "title": "Contacontes: “Pedra pedreta”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Què pot arribar a ser una pedra? Quin tacte té la sorra? Fa olor la terra? A través de cançons, sons, objectes i titelles creats amb materials vinculats a la terra, aquesta proposta de petit format convida els més menuts a descobrir el món amb tots els sentits. Inspirada en el conte Pedra , de Marianna Coppo, la sessió neix del joc i la imaginació, transformant les pedres en personatges. Un contacontes ple de creativitat, música i proximitat per gaudir en família. Edat recomanada: infants d’entre 18 mesos i 6 anys. Aquesta activitat forma part de Cràter Obert , la programació especial de l’Espai Cràter que durant el mes d’octubre apropa la vulcanologia i el territori a tots els públics a través d’activitats divulgatives i participatives. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/contacontes-pedra-pedreta/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-11",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ea74220f05f8",
+      "title": "Portes obertes als Museus d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Amb motiu de les Jornades Europees de Patrimoni , els Museus d’Olot se sumen a la celebració amb entrada gratuïta durant tot el cap de setmana. Divendres, dissabte i diumenge es podran visitar gratuïtament el Museu de la Garrotxa i el Museu dels Sants, una oportunitat per descobrir les seves col·leccions i exposicions.",
+      "url": "https://www.olotcultura.cat/agenda/acte/portes-obertes-als-museus-dolot-diumenge/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
@@ -116,34 +325,91 @@
       ]
     },
     {
-      "id": "Roses Cultura-fc43d568a275",
-      "title": "Cinebib",
-      "image": "https://www.rosescultura.cat/img/image/fotos/imatgecineclub_1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Projecció de cinema per a adults",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4804-cinebib.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-54b9a7d35f40",
+      "title": "Introducció a la intel.ligència artificial sense por",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "L’objectiu és perdre la por i entrar amb curiositat i ganes d’aventura en el món de la IA, obtenir coneixements bàsics i criteris per fer-ne un ús conscient, i descobrir les eines que ens calen per aplicar-la avui mateix. A càrrec de la Laia Dulcet , presidenta de la fundació LaIA Consulting, el lema de la qual és: “el talent no se substitueix, es potencia”. Porta més de 30 anys d’experiència en el món empresarial i la docència, amb un màster en IA i certificació per a la docència d’adults. Organitza: Aules de Difusió Cultural de la Garrotxa. ACUGA",
+      "url": "https://www.olotcultura.cat/agenda/acte/introduccio-a-la-intel-ligencia-artificial-sense-por/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
           "date": "2026-10-14",
-          "time": "17:30"
+          "time": "17:00"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-cf940be6d659",
-      "title": "El Foment a debat. Un espai cultural per a la Bisbal",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/fomentmuntatgeedificidavantidarrere.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Xerrades i conferències",
-      "description": null,
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14438-el-foment-a-debat-un-espai-cultural-per-a-la-.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-510e77d71323",
+      "title": "“De la idea a la imatge”, lliçó inaugural del curs 2026-2027 de l’Escola d’Art d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "L’ Escola d’Art d’Olot inaugura el curs 2026-2027 amb una lliçó a càrrec de Javier Jaén , creador especialitzat en il·lustració editorial i publicitària i en projectes audiovisuals . Al llarg de la seva trajectòria ha treballat per a mitjans, institucions i marques com The New York Times, The New Yorker, The Washington Post, Harvard University, National Geographic, Greenpeace, Penguin Random House, UNESCO, Camper o Netflix . Organitza: Escola d’Art d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/llico-inaugural-del-curs-2026-2027-de-lescola-dart-dolot/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-14",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1f087200b214",
+      "title": "Presentació del llibre: “El cor de les meves tetes”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "El cor de les meves tetes és un relat personal i valent que parteix de l’experiència vital de l’autora, Neus Martí, amb el càncer. El llibre explica el moment en què Neus Martí es descobreix un bony al pit i com aquest fet reactiva tot el pes del seu passat familiar. Seguidament, s’inaugurarà una exposició que trasllada al llenguatge artístic alguns dels continguts del llibre. Organitza: Fundació Hospital d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-llibre-el-cor-de-les-meves-tetes/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-15",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-42f2dcbc6289",
+      "title": "L’últim àtom",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Una tragicomèdia apocalíptica al més pur estil Jordi Oriol El present ha imposat un ultimàtum a la humanitat si de veritat vol tenir futur. Mentre un gabinet científic convocat d’urgència dissenya un pla per respondre a la desintegració de la matèria que permet la vida humana, dos germans s’enfronten a la pèrdua del llenguatge que pateix el seu pare, amb la convicció que tot allò que deixa d’anomenar-se deixa d’existir. Una història de números explicada amb lletres. Terrenal, però amb el cap als núvols. Autoria i direcció: Jordi Oriol Amb: Joan Carreras, Mia Esteve, Paula Malia, Carles Pedragosa Torres i Lara Segur Espai escènic i vestuari: Sílvia Delagneau González i Max Glaenzel Ribas Ajudant d’espai escènic i vestuari: Camille Latron i Llorens Música: Carles Pedragosa Torres Il·luminació: David Bofarull Ajudant d’il·luminació: Oriol Mestre Espai sonor: Rai Segura Raspall Projeccions: Marc Permanyer Conde",
+      "url": "https://www.olotcultura.cat/agenda/acte/lultim-atom/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-16",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-0400ac90b6e3",
+      "title": "Presentació del llibre: “Joaquima Colomer, el vuelo imposible de la libertad”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Presentació de Joaquima Colomer, el vuelo imposible de la libertad , biografia de Joaquima Colomer Pineda (Olot, 1910 – Molins de Rei, 2008), mestra, pedagoga racionalista, dona llibertària i feminista i jove novel·lista de la col·lecció La Novela Ideal (1925-1939). El llibre és obra dels professors Antonio Orihuela i Gentil Puig Moreno . La presentació anirà a càrrec de Joan Barnadas i d’Antonio Orihuela, poeta de la consciència i activista cultural de la Fundació Juan Ramón Jiménez. Tot seguit, tindrà lloc un recital poètic amb micro obert , coorganitzat per Calaix de Poeta, Bateria Antietèria i els Amics de les Lletres Garrotxines.",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-del-llibre-joaquima-colomer-el-vuelo-imposible-de-la-libertad/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
@@ -154,15 +420,167 @@
       ]
     },
     {
-      "id": "Agenda de la Bisbal-78d69a038725",
-      "title": "KOMUNUMO",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/komunumo.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Familiar",
-      "description": "ELÉCTRICO 28",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14411-komunumo.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-16d5229d25f3",
+      "title": "Què hi ha de cert en el que sabem sobre els volcans? De llegendes urbanes a notícies falses",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "En aquesta xerrada desmuntarem alguns dels mites més estesos sobre els volcans, des de les imatges espectaculars de Hollywood fins a la desinformació que circula per les xarxes socials. Analitzarem l’origen d’algunes de les creences populars i de les concepcions errònies més freqüents, i aprendrem a distingir la ficció de la realitat geològica. Una xerrada clara i accessible, adreçada a tots els públics, que convida a qüestionar l’alarmisme i a descobrir com funcionen realment les erupcions volcàniques. Aquesta activitat forma part de Cràter Obert , la programació especial de l’Espai Cràter que durant el mes d’octubre apropa la vulcanologia i el territori a tots els públics a través d’activitats divulgatives i participatives. Organitza: SIGMA, Espai Cràter i PEHOC. Amb la col·laboració de: PN Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/que-hi-ha-de-cert-en-el-que-sabem-sobre-els-volcans-de-llegendes-urbanes-a-noticies-falses/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-16",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-a01249900a7e",
+      "title": "Basalt",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "17 h. Orfeó Popular Olotí Taula rodona: Això no és un iogurt Amb Esperança Camps (La Draga, Llibres del Delicte), Silvestre Vilaplana (Àngels de la Mort, Crims.cat), Cristina Malagelada (Les pedres escrites, Llibres del delicte). Modera: Núria Martínez.",
+      "url": "https://www.olotcultura.cat/agenda/acte/basalt-2026/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-fecff7848f17",
+      "title": "Book Music Festival d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Book Music Festival , una fira especialitzada en literatura musical que reunirà llibres, autors, músics i professionals del sector a través de presentacions, converses i concerts. 10 h – 10.30 h Benvinguda al BOOK MUSIC OLOT – Ramon Moreno, Cris de Fortuny, Josep Quintana (Regidor de Cultura d’Olot), Jaume Massaguer 10.30 h – 11 h Presentació de: Associació “El Rantell” – Xerrada al voltant de l’Associació i Cultural “El Rantell” 11 h – 11.45 h Presentació del llibre: “La còsmica del caos” – Presentat per l’autor: Eduard Canimas 12 h – 13.30 h Sessió-Vermut d’Òscar Nin: “els seus millors 10 discos i 10 llibres musicals” – Òscar Nin és periodista, locutor i col·leccionista de llibres i discos. 16 h – 17 h Presentació del llibre: “Per sempre, mai més”. – Presentat per l’autor: Francesc Borrell Ros 17 h – 17.45 h Presentació del llibre: “Rock i altres ritmes” – Presentat per l’autor: Xavier Castillón 18 h – 18.45 h Presentació del llibre: Còmic “Vida y Obra de un Titiritero” – Presentat per l’autor: Enric Montefusco. Cantant de Stanstill 19 h – 20 h Concert en “acústic” d’Enric Montefusco Organitza: Book Music Festival",
+      "url": "https://www.olotcultura.cat/agenda/acte/book-music-festival-dolot/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e430577b5e20",
+      "title": "EL CERCLE: cultura de club i música electrònica",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Torna El Cercle amb una nova temporada dedicada a la cultura de club i la música electrònica a Olot. Una programació que connecta artistes locals i convidats i reivindica la pista com un espai per descobrir, compartir i viure cada sessió com un viatge complet, des del warm-up fins al final. La primera sessió comptarà amb Claudi Komm , DJ garrotxí actiu des de finals dels noranta, amb sessions que es mouen entre el tech house i el techno , i Aitor Baena , amb més de 25 anys de trajectòria i una proposta que combina techno , tech house i house . Organitza: EL CERCLE",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-cercle-cultura-de-club-i-musica-electronica-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-5ff55ab27bab",
+      "title": "Frutal",
+      "image": "https://www.celracultura.cat/img/image/fotos/1939.jpeg?w=2400&aoe=1&q=80&h=1600&sx=33.71&sy=29.97&sw=1535.89&sh=1023.93",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Sovint un procés oncològic t'estronca el moviment de la vida. Frutal és la visió còmica i molt personal d'una pacient de càncer de mama. Frutal és un experiment. Frutal és una reivindicació. És un moviment fruit del deliri. Fruit d'un món paral·lel. Frutal també vol ser un granet de sorra. Part dels beneficis de l'espectacle van destinats a ajudar pacients amb càncer.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/687-frutal.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ea37613c3fef",
+      "title": "Pedra seca i paisatge al Parc Natural de la Zona Volcànica de la Garrotxa. Coneix el patrimoni del Bosc de Tosca amb la Wikipedra",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "En una primera part, Emili Bassols, del Parc Natural de la Zona Volcànica de la Garrotxa, explicarà el patrimoni natural i cultural del Bosc de Tosca. Seguidament, Jordi Grau Oliveras, de l’Observatori del Paisatge de Catalunya, parlarà del projecte Wikipedra en el marc dels 15 anys del projecte. A continuació, es farà una sortida de descoberta del patrimoni de pedra seca amagat del Bosc de Tosca, dirigit per Joan Montserrat, també tècnic del PNZVG. En el recorregut s’aniran inventarianl es construccions que es vagin trobant, amb l’app Wikipedra. Més informació i inscripcions en aquest enllaç.",
+      "url": "https://www.olotcultura.cat/agenda/acte/pedra-seca-i-paisatge-al-parc-natural-de-la-zona-volcanica-de-la-garrotxa-coneix-el-patrimoni-del-bosc-de-tosca-amb-la-wikipedra/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-fc6cefac74f5",
+      "title": "Xou Impro",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un espectacle d’improvisació que s’endinsa en l’univers de les petites històries creades al moment. El públic hi té un paper essencial: a partir de les frases que escriuen els espectadors, els artistes s’inspiren per donar vida a esquetxos improvisats, plens d’humor i agilitat . Cada funció neix i desapareix en el mateix instant, fent de cada xou una experiència única i irrepetible en connexió directa amb el públic. Organitza: Festival Improvist",
+      "url": "https://www.olotcultura.cat/agenda/acte/xou-impro-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-17",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-a0542c8f0247",
+      "title": "Book Music Festival d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Book Music Festival , una fira especialitzada en literatura musical que reunirà llibres, autors, músics i professionals del sector a través de presentacions, converses i concerts. 11 h – 11.45 h Presentació de llibre: “Dylan i el Cinema” – Presentat per l’autor: Àngel Quintana 12 h – 12.45 h Presentació del llibre: “Pau Riba en 20 Cançons” – Presentat per l’autor i editor Ramon Moreno 13 h – 14 h Concert-Vermut: Ivette & Lluís “reinterpreten els Galàctics” – Versions de: Sisa, Pau Riba, Quimi Portet, Antònia Font 17 h – 18.30 h Concert de Grabu i amics, sota el títol: “La Garrotxa Sona”, amb Grabu, Agnès Algueró, Santa Mandra, entre d’altres … Organitza: Book Music Festival",
+      "url": "https://www.olotcultura.cat/agenda/acte/book-music-festival-dolot-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e981d8a5a060",
+      "title": "Capella Polifònica de Girona",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Amb textos de Marià Vayreda, quaranta cantaires i la música tradicional catalana com a protagonista",
+      "url": "https://www.olotcultura.cat/agenda/acte/capella-polifonica-de-girona/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
@@ -173,53 +591,262 @@
       ]
     },
     {
-      "id": "Roses Cultura-cf26d3f89530",
-      "title": "Escenaris geopolítics 2030: una nova realitat en temps d'incerteses",
-      "image": "https://www.rosescultura.cat/img/image/fotos/que-es-geopolitica-800x450_width-640.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Cicle de xerrades",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4810-escenaris-geopolitics--una-nova-realitat-.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-7b3683c66268",
+      "title": "Diada sardanista",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Marato-2026-esbart.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Tradicions",
+      "description": "Programa: 11 h – Missa cantada a la Basílica de Sant Esteve 12 h – Ballada amb la cobla La Principal d’Olot, al Firal 18 h – Sardanes amb la cobla Principal de Banyoles, als Jardins de Can Xel Organitza: Agrupació Sardanista d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/diada-sardanista/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-0daae9c42327",
+      "title": "Doppiozero",
+      "image": "https://www.celracultura.cat/img/image/fotos/1938.jpeg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Ell és ingenu, distret i somiador, ella és pura energia, velocitat i moviment. Junts són com l'aigua i la farina, junts preparen pa en un dia que sembla simple i normal, com el pa de cada dia. Però en realitat és màgic i sorprenent, com ells dos.Tuli llegeix de cap per avall, suspès en un pal, Vroni munta amb bicicleta, pedalejant amb les mans i conduint amb els peus. Són divertits, tendres i surrealistes, pasten a quatre mans i mentre esperen que el pa s'aixequi i es cuini, ens regalen un viatge en el temps i en els sentiments... Acompanyats de cançons dels anys 50, notícies de ràdio i les ganes de viure que es respirava en els anys de la reconstrucció a Itàlia. de la mà i el convida a abandonar-se a la mirada de la infància que troba les seves paraules silencioses al circ contemporani.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/688-doppiozero.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1ccf43602422",
+      "title": "MOUTHFEEL Coffee Shop",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "L’Helena i l’Agustí són un matrimoni en crisi, fruit de la generació “boomer”. L’Helena és una dona activa, compromesa, adaptada al temps i proposa al seu marit fer teràpia de parella, la seva relació està enquistada en un carreró sense sortida. L’Agustí, es un tipus jubilat i convençut de que ho té tot fet a la vida, la proposta l’ha agafat a peu canviat. Abans d’entrar a la consulta, es troben al «coffeshop MOUTHFEEL» regentat per Jay, que es convertirà en el contrapunt objectiu i analític dels diàlegs de la parella mentre es prenen un cafè tot esperant que sigui l’hora de la sessió. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/mouthfeel-coffee-shop/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e2d873b49dbf",
+      "title": "Mitxigan",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Venda d’entrades a l'Orfeó Popular Olotíla i a la Llibreria M. Antònia de Sant Esteve d’en Bas.",
+      "url": "https://www.olotcultura.cat/agenda/acte/mitxigan/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-78354a7f047e",
+      "title": "“L’Espera”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Jordi-Brunet-Foraste-2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Exposicions",
+      "description": "L’artista Urgell Funollet presentarà el resultat del treball que ha dut a terme aquest agost a Olot, en el marc de la primera residència artística de l’Espai Rusca. El seu projecte, “ L’espera” , s’emmarca en l’època de la Guerra Civil i la repressió franquista i reflexiona sobre l’espera de qui no va tornar, de les paraules que no es van dir i dels dols que van quedar oberts després de la guerra. Aquesta primera residència neix de la voluntat de mantenir encesa la flama de creativitat i dinamització cultural que significava Xavier Ruscalleda a la ciutat d’Olot, i d’activar l’Espai Rusca com un lloc de creació, trobada i convivència. La iniciativa compta amb la col·laboració de l ’Ajuntament d’Olot, que fa possible l’estada de l’artista i aposta per una residència arrelada al barri, en contacte amb la seva comunitat i el seu entorn. El dissabte 17 d’octubre a les 12 h tindrà lloc la presentació i inauguració de l’exposició. Organitza: Espai Rusca. Laboractori Cultural",
+      "url": "https://www.olotcultura.cat/agenda/acte/lespera/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-7644a04e57e1",
+      "title": "Hora del conte: Deu princesetes",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Deu princesetes, totes a cavall, van al palau dels prínceps perquè avui hi ha ball. Però pel camí troben una filadora, un llop, un drac, un gegant, un trol i un munt de sorpreses més! Passaran por, viuran l’amor, i moltes aventures, i caminaran amb soledat. Aconseguiran arribar al ball?",
+      "url": "https://www.olotcultura.cat/agenda/acte/hora-del-conte-deu-princesetes/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-19",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-3ab29607f2df",
+      "title": "Maria Mercè Marçal – Autors comentats",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Recital poètic d’obres d’aquesta autora de referència l’obra de la qual és, encara i potser més que mai, vigent Maria Mercè Marçal va ser una poeta tres voltes rebel: compromesa amb el feminisme, amb la cultura catalana i amb l’activisme polític. La seva poesia, d’una gran intensitat lírica, aborda temes com la maternitat, l’amor lèsbic, la identitat i la pèrdua. Autora de referència, la seva obra és encara, i potser més que mai, vigent. La tria de textos és a càrrec de l’escriptor Miquel Martín i Serra i la lectura dramatitzada, de l’actiu Olga Cercós.",
+      "url": "https://www.olotcultura.cat/agenda/acte/maria-merce-marcal-autors-comentats/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
           "date": "2026-10-22",
-          "time": "18:30"
+          "time": "19:00"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-4d1f2d788061",
-      "title": "RAÚL RODRIGUEZ & RAJERY",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/sensenom2.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Música",
-      "description": "AFRINDRAFINDRAO - VIPSBALSOUND",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14412-raul-rodriguez-rajery.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-f23fabf2803e",
+      "title": "Festival Entranyes",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri.",
+      "url": "https://www.olotcultura.cat/agenda/acte/entranyes-2026/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
           "date": "2026-10-23",
-          "time": "21:00"
+          "time": "19:00"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-76648e79a75c",
-      "title": "El temple de la llum",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/828834181_10162896516755826_5763779184429718882_n.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=0&sy=83.2&sw=1122&sh=748",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Brava Performing Arts",
-      "category": null,
-      "description": "Poemes visuals i música",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14466-el-temple-de-la-llum.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-583243b34a42",
+      "title": "Taller: Colors del Montsacopa",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "En aquest taller descobrirem com obtenir color a partir de la natura, combinant plantes i pigments minerals del volcà Montsacopa. Experimentarem amb la tècnica d’estampació botànica, utilitzant fulles i plantes riques en pigments i tanins, i amb pigments d’origen volcànic per crear diferents colors i textures. Cada participant tenyirà i estamparà la seva pròpia bossa de tela, amb els diferents colors i textures que el volcà ens ofereix! Aquesta activitat forma part de Cràter Obert , la programació especial de l’Espai Cràter que durant el mes d’octubre apropa la vulcanologia i el territori a tots els públics a través d’activitats divulgatives i participatives. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/colors-del-montsacopa/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-fd7fc641e45b",
+      "title": "Xerrada de Josep Pagès, de Pagès Valentí",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "“La intimitat del líder” , amb , Josep Pagès . Director Comercial i Desenvolupament de Negoci Circular a l’empresa Pagèsvalenti. 20 h – Inici. 21 h – Col·loqui obert entre tots els assistents i les ponents. 21.30 h – Petit refrigeri. 22 h – Cloenda. Organitza: Altrart, Associació d’Artteràpia d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-intimitat-del-lider-5/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-470f858e07a4",
+      "title": "“Omaha”, de Cole Webley",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Cinema",
+      "description": "Després d’una tragèdia familiar i de perdre casa seva, un pare emprèn un viatge per carretera amb els seus dos fills, Ella i Charlie, sense explicar-los exactament cap on van ni per què. Mentre els nens viuen el trajecte com una aventura, Ella, la germana gran, comença a adonar-se que darrere del viatge s’amaga una decisió difícil que el seu pare encara no els ha explicat. L’òpera prima de Cole Webley és una road movie íntima sobre la paternitat, la pèrdua i la precarietat, explicada a través dels silencis, les mirades i els petits moments compartits per una família que intenta continuar endavant. Organitza: Cine Club Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/omaha/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-23",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-07374177f88c",
+      "title": "Caminada: Coneguem el volcà Bisaroques",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Tots tenim molt present la silueta urbana d’Olot emmarcada pels emblemàtics Montolivet, Montsacopa i Garrinada. Però la nostra ciutat compta també amb un volcà a l’altra riba del Fluvià: el Bisaroques. En aquesta passejada tindrem l’oportunitat de conèixer la seva morfologia i la seva història eruptiva, així com altres elements patrimonials com ara els bufadors i la torre de guaita. A més, gaudirem d’una vista privilegiada dels seus “germans” de l’altre costat del riu. Recorregut circular : Escola Volcà Bisaroques – Colada del Bisaroques – Torre de guaita – Volcà de Ca l’Isidret – Mas Bernat – Escola Volcà Bisaroques Aquesta activitat forma part de Cràter Obert , la programació especial de l’Espai Cràter que durant el mes d’octubre apropa la vulcanologia i el territori a tots els públics a través d’activitats divulgatives i participatives. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/coneguem-el-volca-bisaroques/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-5ded68fcd295",
+      "title": "Festival Entranyes",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri.",
+      "url": "https://www.olotcultura.cat/agenda/acte/festival-entranyes-2-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-cc794a3541a2",
+      "title": "Menopower",
+      "image": "https://www.celracultura.cat/img/image/fotos/1937.jpeg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "T’estàs asfixiant de calor mentre tothom es pela de fred? T’ha sortit un flotador abdominal i no és el d’anar a la piscina? Tens canvis d'humor?",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/689-menopower.html",
+      "source": "Celrà Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
@@ -230,15 +857,281 @@
       ]
     },
     {
-      "id": "Roses Cultura-d800ad171f05",
-      "title": "La Ciutadella de Roses",
-      "image": "https://www.rosescultura.cat/img/image/fotos/ciutadellarosesporta.jpg?w=1740&aoe=1&q=80&h=1160&zc=1",
-      "municipality": "Roses",
-      "venue": "Espai cultural La Ciutadella",
-      "category": "Carnaval",
-      "description": "Visites guiades",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4848-la-ciutadella-de-roses.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-9f5d3856c976",
+      "title": "Ofegar el foc amb foc",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un muntatge poètic i visual que retrata la Guerra Civil des de la mirada íntima i colpidora d’un infant Muntatge escènic a partir del poemari de Ricard Creus 36 poemes a partir del 36 (1978) i de les il·lustracions que en va fer la seva companya de vida i artista Esther Boix. Els poemes expliquen les experiències de la Guerra Civil des del punt de vista de l’autor quan era un nen de 8 anys i ofereix una visió poètica i commovedora dels horrors de la guerra, la pèrdua i les emocions d’un infant immers en un conflicte devastador. Al mateix temps, és una obra important dins la literatura catalana, no només pel seu valor literari intrínsec, sinó també pel seu valor testimonial, ja que aporta una visió personal i íntima sobre els esdeveniments del 36. Proposta i direcció: Rosa Vilanova Interpretació: Blanca Llum Vidal, Sergi Cerezales i Gemma Gómez I la col·laboració d’Arnau Clavell Amb la col·laboració del Teatre Principal d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/ofegar-el-foc-amb-foc/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-bbdf95ab00ed",
+      "title": "Ofegar el foc amb foc",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un muntatge poètic i visual que retrata la Guerra Civil des de la mirada íntima i colpidora d’un infant Muntatge escènic a partir del poemari de Ricard Creus 36 poemes a partir del 36 (1978) i de les il·lustracions que en va fer la seva companya de vida i artista Esther Boix. Els poemes expliquen les experiències de la Guerra Civil des del punt de vista de l’autor quan era un nen de 8 anys i ofereix una visió poètica i commovedora dels horrors de la guerra, la pèrdua i les emocions d’un infant immers en un conflicte devastador. Al mateix temps, és una obra important dins la literatura catalana, no només pel seu valor literari intrínsec, sinó també pel seu valor testimonial, ja que aporta una visió personal i íntima sobre els esdeveniments del 36. Proposta i direcció: Rosa Vilanova Interpretació: Blanca Llum Vidal, Sergi Cerezales i Gemma Gómez I la col·laboració d’Arnau Clavell Amb la col·laboració del Teatre Principal d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/ofegar-el-foc-amb-foc-1/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-69dfb157103b",
+      "title": "Taller familiar: Minerals que fan història",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Des de la prehistòria, els minerals i les seves propietats han despertat la curiositat de les persones i han tingut un paper fonamental en el desenvolupament de les societats. En aquest taller descobrirem quins minerals s’amaguen en els objectes quotidians i coneixerem els impactes ambientals i socials de la seva extracció. Finalment, ens posarem en la pell d’enginyers i enginyeres per dissenyar un nou invent a partir de roques i minerals. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/minerals-que-fan-historia/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "10:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-cf09d99492f2",
+      "title": "Vermut musical: Caravan Blues",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Vermut musical a La Volianna del Parc Nou amb Caravan Blues, un duet acústic format per guitarra, contrabaix i veu. El grup proposa un viatge musical que recorre sonoritats del blues, el soul i el jazz, combinades amb versions personals de grans clàssics del pop. El seu estil es caracteritza per uns arranjaments cuidats, un so proper i íntim, i una interpretació que recupera l’essència de la música en directe. Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/caravan-blues/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-65b32a2c9dac",
+      "title": "El grúfal i la filla del grúfal",
+      "image": "https://www.celracultura.cat/img/image/fotos/elgrufalilafilladelgrufal2.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Un ratolí passeja alegrement pel bosc. Té molta gana, així que decideix anar a buscar avellanes per atipar-se’n. Pel camí es troba amb una guineu, un mussol i una serp tan afamats com ell. Tots tres el volen convidar a dinar a casa seva, però el ratolí, que no es fia pas de les seves intencions, molt amablement declina les invitacions perquè ha quedat amb… el grúfal! Però què és un grúfal?",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/697-el-grufal-i-la-filla-del-grufal.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-25",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1b7e4c1b3df6",
+      "title": "Fe de rutes",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-12-circ-de-nadal.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": null,
+      "description": "En aquest espectacle, Toti Toronell torna a l’escenari, on es redescobreix a si mateix, i mostra des del seu pallasso més naïf fins a algunes de les seves altres facetes: la pintura i el dibuix, la música, la ceràmica, la màgia, el teatre d’objectes, la fusteria… Tot amb aquell toc d’humor surrealista i aquella poètica que Brossa trobava en el circ i que Toronell busca i dibuixa en cada poema, en cada gest, en cada respiració i en cada mirada, com un mirall de l’ànima, que rebota a l’espectador, i que emociona… i que emociona… i que emociona…",
+      "url": "https://www.olotcultura.cat/agenda/acte/fe-de-rutes/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-25",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-baeaa730c38a",
+      "title": "La revolució a Olot (1936-1938)",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Ens preguntarem com es va desenvolupar a la ciutat d’Olot la revolució social que va desencadenar el cop d’Estat militar del 18 de juliol de 1936: Qui portava la veu cantant? Què va succeir? Quines mesures va prendre el Comitè Antifeixista? I el Consell Municipal? I la Generalitat? Què defensava cada partit i sindicat? Quin suport reberen de la població olotina? Com va afectar la guerra a la revolució? I la confrontació ideològica entre partits? A càrrec de Joan Barnadas , estudiós del segle XIX olotí i autor de diversos llibres i treballs que fan referència a aquest tema. Organitza: Aules de Difusió Cultural de la Garrotxa. ACUGA",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-revolucio-a-olot-1936-1938/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-28",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c6dfaa2b6290",
+      "title": "Els meus arbres",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-12-circ-de-nadal.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": null,
+      "description": "Una reflexió a través de la fusta sobre la relació entre els boscos, els oficis artesanals i la responsabilitat envers la matèria. Dod yn ôl at fy nghoed és una expressió gal·lesa que significa ‘tornar als meus arbres’ i que fa referència a recuperar un estat d’equilibri. La peça parteix de la desconnexió que tenim amb l’origen dels materials que consumim i ens convida a preguntar-nos com construïm les nostres cases. Un homenatge a la fusteria tradicional i als coneixements que han permès construir amb recursos locals durant generacions. A escena, cos, so i fusta dialoguen en un espai compartit amb el públic per explorar noves formes de reconnectar amb el nostre entorn. Assaig obert del que l’artista haurà treballat durant una setmana a Olot.",
+      "url": "https://www.olotcultura.cat/agenda/acte/els-meus-arbres/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-9826dfb381c3",
+      "title": "Toti Torrent Trio",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Un trio de músics olotins que interpreta un repertori intimista que emociona el públic Toti Torrent, guitarrista i compositor amb una llarga trajectòria dins el món del jazz, lidera un trio que centra el repertori en les seves composicions, obres contemporànies que fusionen estils de totes les èpoques i tenen influència del clàssic, el jazz, la música brasilera i les bandes sonores de pel·lícules, entre altres. El trio, a banda de Torrent, està format per la flautista Glòria Calm i pel baixista i compositor Toni Mora. Ells dos procedeixen d’àmbits musicals diversos i aporten al grup el seu ampli bagatge.",
+      "url": "https://www.olotcultura.cat/agenda/acte/toti-torrent-trio/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b2e655126131",
+      "title": "“El congreso”, d’Ari Folman",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Cinema",
+      "description": "La necessitat de diners porta una actriu a signar un contracte segons el qual uns estudis cinematogràfics en faran una còpia digital i la podran utilitzar com els plagui. Anys després, quan decideix tornar als escenaris, és convidada a un congrés que té lloc en un planeta que ha canviat completament. Basada en una novel·la de Stanisław Lem, la pel·lícula retrata un món que es dirigeix inexorablement cap a la irrealitat i en què disciplines humanes com el cinema poden veure alterades les seves condicions actuals per la irrupció de la intel·ligència artificial. Millor pel·lícula d’animació als Premis del Cinema Europeu i Premi de la Crítica al Festival de Sitges. Animació. +12. VOSE Aquesta activitat forma part de CinemaCràter , un cicle de cinema que proposa una mirada crítica a la intel·ligència artificial i altres grans revolucions que han transformat la humanitat , explorant-ne els impactes, els reptes i els dilemes a través de vuit pel·lícules. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-congreso-icona-ia/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-0cef66099059",
+      "title": "“Idea, projecte i realitat. Jordi Brunet Forasté, maquetista.”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Jordi-Brunet-Foraste-2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Exposicions",
+      "description": "HORARI D'OBERTURA: De l'1 de juny al 30 de setembre: de dilluns a divendres, de 8 a 15 h / De l'1 d'octubre al 31 de maig: de dilluns a divendres, de 9 a 14 i de 15.30 a 18 h",
+      "url": "https://www.olotcultura.cat/agenda/acte/idea-projecte-i-realitat-jordi-brunet-foraste-maquetista/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "15:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ffa30dfd8ba4",
+      "title": "“Nino”, de Pauline Loquès",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Cinema",
+      "description": "En Nino té tres dies abans d’enfrontar-se a una important prova mèdica. Durant aquest temps recorre els carrers de París, retrobant-se amb persones i situacions que el porten a reconnectar amb el món i amb ell mateix. El debut en el llargmetratge de Pauline Loquès acompanya de prop el seu protagonista en un recorregut íntim marcat per la incertesa, els vincles i els petits gestos quotidians. Organitza: Cine Club Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/nino/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-30",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-7c91da6ce1a7",
+      "title": "Agent 007 contra el dr. No",
+      "image": "https://www.celracultura.cat/img/image/fotos/agente_007_contra_el_dr_no-928472324-large.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "007 contra el Dr. No (1962), la pel·lícula que va inaugurar la llegendària saga del superagent britànic, portarà a la pantalla de la nostra sala l'elegància i l'acció clàssica de Sean Connery en la seva primera encarnació de James Bond. La trama arrenca quan l'agent 007 és enviat a Jamaica per investigar la misteriosa assassinat d'un company i la seva secretària, una cerca que el condueix directament a la inacccessible illa privada de Crab Key. Allà, amb la col·laboració de la icònica Honey Rider (Ursula Andress) i l'agent de la CIA Felix Leiter, Bond descobrirà la guarida del Dr. Julius No, un científic brillant i megalòman dotat de mans mecàniques que treballa per a la perillosa organització SPECTRE.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/701-agent--contra-el-dr-no.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-d53c41af76ba",
+      "title": "Clara Peya",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Una banda excepcional dona nova vida a unes cançons que neixen per reunir-nos i imaginar un futur compartit",
+      "url": "https://www.olotcultura.cat/agenda/acte/clara-peya-3/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8b74e9c476a3",
+      "title": "La Castanyera",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Marato-2026-esbart.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Tradicions",
+      "description": "Tot seguit, recorrerà diferents carrers del centre de la ciutat acompanyada de música en directe .",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-castanyera-4/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
@@ -249,218 +1142,1966 @@
       ]
     },
     {
-      "id": "Roses Cultura-45c844779d36",
-      "title": "Els Pastorets",
-      "image": "https://www.rosescultura.cat/img/image/fotos/pastorets001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "A càrrer del Grup de Teatre de Roses",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4843-els-pastorets.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-18c6fa1b3a58",
+      "title": "Passejada per Olot per conèixer obres dels arquitectes de la nova arquitectura garrotxina",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Activitat complementària a l’exposició “De la casa a la plaça: nous paisatges de l’arquitectura garrotxina” .",
+      "url": "https://www.olotcultura.cat/agenda/acte/passejada-per-olot-per-coneixer-obres-dels-arquitectes-de-la-nova-arquitectura-garrotxina/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
       "sessions": [
         {
-          "date": "2026-12-27",
+          "date": "2026-10-31",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e4b1bcb53ee2",
+      "title": "Playback",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Venda d’entrades en línia o bé presencialment al Centre d’Iniciatives Turístiques d’Olot (CIT) els matins de les 10 h a les 12 h.",
+      "url": "https://www.olotcultura.cat/agenda/acte/playback/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-0b8501f5f789",
+      "title": "Taller infantil d’estampació de monstres sobre cartró",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Taller d’estampació de monstres amb tampons artesanals. Farem moltes proves per potenciar al creativitat de cada artista i finalment, estamparem sobre carpetes de cartró una col·lecció de monstres.",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-infantil-destampacio-de-monstres-sobre-cartro/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "11:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1f7ce55d5f3f",
+      "title": "Taller infantil: Atrapa-somnis natural",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Taller creatiu adreçat a infants de 3 a 8 anys per elaborar un atrapa-somnis natural. Cicle de tallers creatius Petits Exploradors. Organitza: Oficina de Turisme d’Olot.",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-infantil-atrapa-somnis-natural/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-10-31",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8c49c6c62256",
+      "title": "Ballada de Sardanes – Castanyada",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Marato-2026-esbart.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Tradicions",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/ballada-de-sardanes-castanyada/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-01",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-480ef1b0d3c5",
+      "title": "Entrada gratuïta als Museus d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Com tots els primers diumenges de mes l’entrada als Museus d’Olot és gratuïta! Els Museus d’Olot apleguen tres centres patrimonials cadascun dedicat a una temàtica concreta a més de la Secció de ciències naturals. Compten amb una gestió conjunta per posar en valor elements singulars i identitaris d’Olot i comarca des de diferents punts de vista: art, artesania, ciències i història. Museu de la Garrotxa / Art i paisatge dels segles XIX i XX Museu dels Sants / Taller d’artesania i faràndula Casa Museu Can Trincheria / Història i vida del segle XVIII Consulteu els horaris de cada museu aquí.",
+      "url": "https://www.olotcultura.cat/agenda/acte/entrada-gratuita-als-museus-dolot-44/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-01",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-2ccde0ffa529",
+      "title": "Vermut musical: Jessica Mellado",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Vermut musical a La Volianna del Parc Nou amb Jessica Mellado, gaudeix d’un vermut ple de ritme i bona energia amb la cantautora Jessica Mellado i la seva fusió de pop rumba. Un concert en directe on presentarà les seves cançons pròpies i les millors versions de grans temes. El millor pla per al migdia! Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/jessica-mellado-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-01",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-20eecfe1c2b0",
+      "title": "Una parada més",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Intèrprets i creació escènica: Paula Pascual, Cristian Gómez, Marc Sellés i Andrea Díaz Reboredo Mediació artística: Paula Pascual de la Torre Producció artística: Casa·Teatre",
+      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-02",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-28b26553a7ad",
+      "title": "“El cor de les meves tetes”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Jordi-Brunet-Foraste-2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Exposicions",
+      "description": "Exposició que trasllada al llenguatge artístic l’experiència de Neus Martí amb el càncer de mama i recorre diferents moments del procés de diagnòstic i tractament. La mostra reuneix creacions de la mateixa Neus Martí i d’altres artistes del seu entorn, sorgides al llarg d’aquest procés vital i vinculades als continguts del llibre El cor de les meves tetes . Inauguració el dia 15 d’octubre a les 19 h , després de la presentació del llibre . Organitza: Fundació Hospital d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/exposicio-el-cor-de-les-meves-tetes/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-04",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-162fb0d45ed4",
+      "title": "Fumarola de Lluèrnia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Un any més, la delegació Garrotxa-Ripollès del COAC participa a Lluèrnia, el Festival del foc i la llum, amb la conferència de la Fumarola. Organitza: Delegació Garrotxa-Ripollès del COAC i Lluèrnia, festival del foc i de la llum, amb la col·laboració de l’Ajuntament d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/fumarola-de-lluernia/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-05",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-77be955afaf1",
+      "title": "Una conversa sobre Elvira Augusta Lewi i la seva novel·la “Un poeta i dues dones”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "L’acte consistirà en una conversa sobre la figura i l’obra de l’escriptora, traductora i periodista de l’època de la república Elvira Augusta Lewi. Hi participaran Mariona Bosch, editora d’Edicions del Cràter —segell que ha publicat la novel·la—, i la filòloga Rosa Vilanova, responsable de l’edició i del postfaci. Organitza: ALBA Associació de dones de la Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/una-conversa-sobre-elvira-augusta-lewi-i-la-seva-novella-un-poeta-i-dues-dones/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-05",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-33e2384e6aaf",
+      "title": "Cau de poesia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Trobada oberta a tothom per compartir i gaudir de la poesia en un espai de trobada entre persones interessades en la paraula i la creació literària. Organitza: Amics de les Lletres Garrotxines",
+      "url": "https://www.olotcultura.cat/agenda/acte/cau-de-poesia-novembre-2026/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-06",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-873fff653c9d",
+      "title": "Insectotròpics",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "A La conferència dels ocells (Manṭiq al-Ṭayr, 1177), de Farid al-Din Attar, un grup d’ocells emprèn un viatge espiritual a la recerca del Simurgh.",
+      "url": "https://www.olotcultura.cat/agenda/acte/insectotropics/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-06",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-aa47da329cf6",
+      "title": "Lluèrnia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/lluernia-dia-6-2026/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-06",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-cbf5361e0be1",
+      "title": "Xerrada amb els Esplais de la Garrotxa i l’Agrupament Nostra dona del Tura",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "“El lleure com a motor social”, amb Esplais de la Garrotxa i Agrupament Nostra dona del Tura. Entitats de llarg recorregut en el món del lleure a la Garrotxa. 20 h – Inici. 21 h – Col·loqui obert entre tots els assistents i les ponents. 21.30 h – Petit refrigeri. 22 h – Cloenda. Organitza: Altrart, Associació d’Artteràpia d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-lleure-com-a-motor-social/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-06",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-599696e0e4ca",
+      "title": "Lluèrnia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/lluernia-dia-7-2026/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-3d466742b9a0",
+      "title": "Mercat de llibre de segona mà",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Qualsevol llibre que no has llegit és una novetat, sigui de primera o de segona mà, però en el nostre segon matí de desembaràs ens centrarem en aquests segons. Farem una bona estesa de llibres que es mereixen una segona oportunitat, a preus imbatibles. Veniu i remeneu! Organitza: Llibreria Isop",
+      "url": "https://www.olotcultura.cat/agenda/acte/mercat-de-llibre-de-segona-ma/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-0e177b00102e",
+      "title": "Visita guiada: Passejada per l’Olot del Renaixement i el Barroc",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Com un au fènix, Olot va renéixer de les cendres després dels devastadors terratrèmols de 1427 i 1428. La ciutat va créixer a partir del segle XV amb una nova trama ortogonal al voltant de la Plaça Major, entre el puig de Sant Esteve i la vila vella. En l’actualitat, el centre d’Olot està ple de vestigis d’una arquitectura urbana moderna que dominà el nucli antic al llarg dels segles XVI, XVII i XVIII, desconeguts per la majoria dels seus habitants. Caminarem pels vells carrers… Per descobrir-ho. Organitza: PEHOC",
+      "url": "https://www.olotcultura.cat/agenda/acte/visita-guiada-passejada-per-lolot-del-renaixement-i-el-barroc/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-07",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b81288054962",
+      "title": "‘Dissabte, diumenge i dilluns’, d’Eduardo De Filippo",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Dissabte, diumenge i dilluns, tres dies de la vida d’una família napolitana a ﬁnals dels anys cinquanta. Un retrat lúcid, divertit i profundament humà de la crisi d’una parella de petitburgesos napolitans, Rosa i Peppino Priore, caps d’una gran família, que ja fa mesos que conviuen sota el mateix sostre sense, pràcticament, sense dirigir-se la paraula. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/dissabte-diumenge-i-dilluns-deduardo-de-filippo/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-08",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-2a1492067e0a",
+      "title": "Una parada més",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Intèrprets i creació escènica: Paula Pascual, Cristian Gómez, Marc Sellés i Andrea Díaz Reboredo Mediació artística: Paula Pascual de la Torre Producció artística: Casa·Teatre",
+      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-1/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-09",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e541be6707bc",
+      "title": "Club de lectura: ‘Canteu, esperits, canteu’, de Jesmyn Ward",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Places limitades a 20 persones. Inscripcions a la Biblioteca Marià Vayreda a partir del dijous 1 d'octubre a les 18 h.",
+      "url": "https://www.olotcultura.cat/agenda/acte/club-de-lectura-canteu-esperits-canteu-de-jesmyn-ward/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-10",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-f5c91cd5fadc",
+      "title": "Cohabitatge sènior",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "El col·lectiu de persones grans tenim un interès especial per les qüestions relacionades amb l’envelliment actiu, la vida autònoma, el suport mutu i les alternatives d’habitatge més comunitàries, que permeten fer front a l’aïllament i la solitud involuntària. Saber més sobre els models d’habitatge cooperatiu sènior ens pot ajudar a prendre decisions en un futur proper. A càrrec d’Antoni Molins i M. Alba Brucart , membres del grup Solterra, un dels projectes sèniors vinculats a Sostre Cívic. Organitza: Aules de Difusió Cultural de la Garrotxa. ACUGA",
+      "url": "https://www.olotcultura.cat/agenda/acte/cohabitatge-senior/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-11",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-28a4820ff221",
+      "title": "Presentació de la novel·la il·lustrada “Roi”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "La il·lustradora Gisela Bombilà presentarà Roi , el seu primer còmic editat. La història se situa a la Vall de Cardós, al Pallars Sobirà. A través de la ficció i la fantasia, posa en valor els oficis perduts, la vida tranquil·la i les llegendes pròpies del territori que s’han explicat oralment al llarg dels temps. En acabar la presentació, l’autora mostrarà en directe com treballa en la creació de les diferents pàgines il·lustrades . Els assistents podran veure el procés d’addició del color als dibuixos, amb un exemple pràctic en una de les làmines del seu segon còmic, que actualment es troba en procés de creació. Del 9 al 20 de novembre, Gisela Bombilà (Mollet del Vallès) farà una estada a la residència Faberllull Olot per treballar en un àlbum il·lustrat per a nens, amb l’editorial brasilera Aletria. Organitza: Àrea de Cultura i Educació de l’Ajuntament d’Olot i Residència Faberllull.",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-la-novella-illustrada-roi/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-12",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-42e590caafb5",
+      "title": "Recital poètic: Una xica-mica, el parlar de la Garrotxa",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Una xica-mica de “El parlar de la Garrotxa”. 95è recital poètic dels Amics de les Lletres Garrotxines. Amb les intervencions de Joaquim Monturiol i Eloi Domínguez, amenitzat per Aram. Organitza: Amics de les Lletres Garrotxines.",
+      "url": "https://www.olotcultura.cat/agenda/acte/recital-poetic-una-xica-mica-el-parlar-de-la-garrotxa/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-2bc62a93cdd8",
+      "title": "“Els museus de París durant la Segona Guerra Mundial. De la protecció de les col·leccions a l’enriquiment dels museus: la circulació de les obres sota l’ocupació”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Néguine Mathieux, cap del Departament de Recursos Històrics i Recerca del Museu Carnavalet de París des del 2024, i anteriorment del Museu del Louvre, ens contextualitzarà els fets ocorreguts amb el patrimoni artístic durant la Guerra Civil Espanyola amb altres casos i altres països, com Itàlia o Alemanya, i reflexionarà sobre el paper dels museus en casos d’art espoliat. Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/els-museus-de-paris-durant-la-segona-guerra-mundial-de-la-proteccio-de-les-colleccions-a-lenriquiment-dels-museus-la-circulacio-de-les-obres-sota-locupacio/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-9ef0a3beaaa4",
+      "title": "“La hija pequeña”, d’Hafsia Herzi",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Cinema",
+      "description": "Fatima té 17 anys, és la petita de tres germanes i viu amb la seva família francoalgeriana. Quan comença a estudiar filosofia a París, descobreix un món nou i inicia un procés d’emancipació que la porta a qüestionar-se la seva identitat i a explorar la seva atracció per les dones. Hafsia Herzi adapta la novel·la de Fatima Daas en un relat de descoberta personal que aborda les tensions entre el desig, la fe, la família i la identitat. Organitza: Cine Club Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-hija-pequena/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-699fb5f4eb39",
+      "title": "Alter",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Creació: Caroline Cornélis, Miko Shimura i Tom Malmendier Interpretació: Miko Shimura i Tom Malmendier o Margherita Dello Sbarba i Colin Jolet Disseny de so: Claire Goldfarb i Tom Malmendier Disseny d’il·luminació: Frédéric Vannes Direcció artística: Marielle Morales Amb la col·laboració de la ceramista Ashida Junko Una producció de Nyash Company Amb el suport de la Federació Valònia-Brussel·les, Departament de Dansa Amb el suport del Centre Henri Pousseur, La Montagne Magique, La Roseraie, Centre Cultural Andenne, BAMP i el Festival Sauterelles",
+      "url": "https://www.olotcultura.cat/agenda/acte/alter/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e4d2c9610800",
+      "title": "Carlos Sarduy Quartet",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Jazz afrocubà amb una força i sensibilitat úniques Carlos Sarduy és, sens dubte, un dels músics més actius i polièdrics de la seva generació. A més de ser un espectacular trompetista i percussionista, també és pianista i compositor. Elogiat pel seu so, la seva gran musicalitat i la seva extraordinària versatilitat, ha col·laborat amb grans artistes com Chucho Valdés, Bebo Valdés, Richard Bona, Steve Coleman, David Murray, Esperanza Spalding, Buika, Mariza i Ojos de Brujo, entre molts altres. La seva discografia com a líder inclou Charly en la Habana (2005), enregistrat amb només 19 anys i amb la participació de figures com Chucho Valdés, un treball que ja apuntava el talent excepcional del músic cubà. El 2019 va publicar Luz , el seu segon àlbum, amb el qual va consolidar un llenguatge propi entre el jazz contemporani i les arrels afrocubanes. Actualment, es troba preparant el seu tercer treball discogràfic, previst per a la primavera del 2027. En els seus concerts ofereix un màgic i vibrant viatge musical a través d’un discurs melòdic i sensible, característic d’un llenguatge personal on es reflecteix el seu gran coneixement de la música afrocubana i el seu mestratge per desenvolupar-se en el jazz d’una manera innovadora. Actualment gira amb el seu quartet i amb El Comité, del qual és membre fundador. Carlos Sarduy: trompeta i congues Rolando Luna o Harold Lopez Nussa: piano El Negrón: contrabaix Rodney Barreto: bateria",
+      "url": "https://www.olotcultura.cat/agenda/acte/carlos-sarduy-quartet/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-f7470606ab5d",
+      "title": "De ser nosaltres",
+      "image": "https://www.celracultura.cat/img/image/fotos/1943.jpeg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Combinant la dansa, la música en directe, la manipulació i la performance, aquesta proposta modela la matèria i dialoga amb la relació i comunicació entre dos cossos Pep Aymerich construeix amb fusta la rèplica a mida natural del seu cos i el de la seva filla en forma de titelles articulats. Combinant la dansa, la música en directe, la manipulació i la performance, aquesta nova proposta modela la matèria i dialoga amb la relació i comunicació entre dos cossos. És una experiència que posa en relleu la qualitat gregària de l’espècie humana. El projecte neix de la voluntat de trobada artística entre pare i filla: un com a escultor i performer i l’altra com a ballarina de dansa contemporània. El contingut a explorar són els vincles que s’expressen estant l'un davant de l’altra. L’espectacle compta amb la música en directe de Marc Alomar, que puja a l’escenari amb tres instruments: un violoncel barroc, una viola de gamba robusta i una violepa, una mena de viola de gamba construïda per Pep Aymerich i que ve a reproduir –aquí sota les condicions d’un instrument– el cos de la seva filla.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/690-de-ser-nosaltres.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1c9ce5e2d1af",
+      "title": "Matèria Reservada",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té per què resignar-se a la realitat en la qual vivim.",
+      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-62ec85086ea7",
+      "title": "Minerals que fan història",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Des de la prehistòria, els minerals i les seves propietats han despertat la curiositat de les persones i han tingut un paper fonamental en el desenvolupament de les societats. En aquest taller descobrirem quins minerals s’amaguen en els objectes quotidians i coneixerem els impactes ambientals i socials de la seva extracció. Finalment, ens posarem en la pell d’enginyers i enginyeres per dissenyar un nou invent a partir de roques i minerals. Edat recomanada: Famílies amb infants amb edats entre 8 i 12 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/minerals-que-fan-historia-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-7ecd24a26c9e",
+      "title": "Taller infantil: Un cel d’ocells",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "La il·lustradora Mar Guixé proposa construir, retallar i muntar ocells de diferents formes, mides i colors. A partir de dibuixos fets per la il·lustradora, els infants els podran pintar, decorar i enganxar per convertir-los en uns ocells únics, tal com ells se’ls han imaginat. Guixé també els donarà algunes guies per si volen dibuixar-los ells mateixos i crear des de zero el seu ocell particular. Del 9 al 20 de novembre, Mar Guixé (Berga) farà una estada a la residència Faberllull d’Olot per desenvolupar un projecte editorial infantil i juvenil conjuntament amb l’editorial alemanya Gerstenberg. Edat recomanada: de 4 a 10 anys Organitza: Residència Faberllull i Llibreria Isop",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-infantil-un-cel-docells/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-6694c8418dba",
+      "title": "Visita guiada a l’exposició “De la casa a la plaça: nous paisatges de l’arquitectura garrotxina”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/visita-guiada-a-lexposicio-de-la-casa-a-la-placa-nous-paisatges-de-larquitectura-garrotxina-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-0f75c3864388",
+      "title": "Astres immòbils",
+      "image": "https://www.celracultura.cat/img/image/fotos/astresimmobils2.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "El programa de curtmetratges Astres immòbils ens obre una porta a descobrir nous mons des de l’assertivitat, l’escolta i el respecte mutu a través de les històries que li donen vida.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/698-astres-immobils.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-dbc7daedb0d9",
+      "title": "El qui no parla…",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-12-circ-de-nadal.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": null,
+      "description": "Un espai per escoltar els infants. Per posar els infants al centre i donar veu a qui, per definició, no parla En un terra ple de micròfons, els nadons juguen, exploren i es mouen lliurement. El gest, el crit, el silenci i el moviment esdevenen música. Allò petit, allò imperceptible, s’amplifica per construir paisatges sonors vius i irrepetibles, on tot s’escolta i on tot compta. El qui no parla ofereix un espai on l’infant té el seu temps i una escolta real, on el joc lliure és llenguatge i on l’infant no és espectador, sinó origen. Els nadons, però, no arriben sols: venen acompanyats de la comunitat familiar, que també forma part del que passa a escena. A través de textos que apareixen a l’espai, els adults reben una lectura que nodreix el seu imaginari i, alhora, assumeixen rols de moviment que els converteixen en intèrprets de la peça. El seu cos i la seva lectura es fan visibles dins d’una experiència que s’acosta al ritual. Una proposta immersiva que convida pares, mares i fills a construir l’escena junts. Un lloc de presència on el so neix del vincle i on escoltar és el centre de tot. Autoria i direcció: Quim Girón i Moon Ribas Text: Moon Ribas Música: Pol Jubany Disseny de llum i enginyer electrònic: Carlos Ferrer Producció: Animal Religion",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-qui-no-parla/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-daf055ebaa39",
+      "title": "Matèria Reservada",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té per què resignar-se a la realitat en la qual vivim.",
+      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-12d64d731c1a",
+      "title": "Tardor del 44",
+      "image": "https://www.celracultura.cat/img/image/fotos/tardor.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Tardor del 44. Les rutes dels maquis és un documental dirigit per Marc Planagumà i produït per l'Amical d'Antics Guerrillers de Catalunya. L'obra ressegueix el camí que van recórrer els maquis durant la tardor de 1944 en la seva ofensiva per penetrar a Espanya des de França, un intent heroic per reconquerir la República i enderrocar la dictadura de Franco un cop feta la gesta de la de la Resistència francesa a la Segona Guerra Mundial.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/702-tardor-del.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-863a7c62cd78",
+      "title": "‘Les bones intencions’, de Marc Artigau",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Amb humor, ironia i una mirada tendra sobre els perdedors quotidians, l’obra ens farà passar una estona divertida i alhora reflexionar sobre el desig de reinventar-se, la precarietat, l’emprenedoria, les segones oportunitats i la dificultat de fer el que és correcte quan les circumstàncies juguen en contra. La peça combina situacions còmiques amb moments de gran humanitat, convidant l’espectador tant a riure com a qüestionar-se fins a quin punt les bones intencions són suficients per canviar una vida. Les bones intencions, de Marc Artigau, és una comèdia agredolça protagonitzada per la Paula i en Pere, dues persones que acumulen fracassos personals i econòmics i que busquen desesperadament una oportunitat per redreçar les seves vides. Convençuts que encara poden canviar el seu destí, decideixen crear una empresa d’organització de festes temàtiques i personalitzades. La nit en què han de demostrar el seu potencial davant d’un client molt influent, tot sembla preparat perquè el projecte els obri les portes a una nova vida. Tanmateix, un fet inesperat amenaça d’ensorrar els seus plans i els obliga a enfrontar-se a les conseqüències de les seves decisions i a la distància que sovint hi ha entre les bones intencions i els actes. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/les-bones-intencions-de-marc-artigau-1/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-15",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-51d0c9278831",
+      "title": "Hora del conte per a nadons: La festa d’aniversari",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Al bosc s’està organitzant una festa! La papallona celebra la seva sortida de la crisàlide i vol celebrar-ho amb totes les seves amigues i amics: els animals del bosc. A través d’una història senzilla i amb diversos materials, veurem imatges, tocarem textures i escoltarem sons d’instruments per despertar els sentits dels més petits. Al final del conte posarem a disposició del infants els materials utilitzats a l’espectacle perquè hi puguin experimentar.",
+      "url": "https://www.olotcultura.cat/agenda/acte/hora-del-conte-per-a-nadons-la-festa-daniversari/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-16",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-102e8f0a303b",
+      "title": "Una parada més",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Intèrprets i creació escènica: Paula Pascual, Cristian Gómez, Marc Sellés i Andrea Díaz Reboredo Mediació artística: Paula Pascual de la Torre Producció artística: Casa·Teatre",
+      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-16",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1c96ea2ae94c",
+      "title": "Taller d’il·lustració: creem personatges fantàstics",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Com es crea un personatge fantàstic? D’on surten les idees sobre quina forma tenen aquests éssers màgics? La il·lustradora Anna Aparicio proposa als infants que creïn conjuntament diferents personatges fantàstics. Un dels participants dibuixarà el cap, l’altre el cos i l’altre les cames d’aquest ésser inventat. Ho faran sense saber com se l’han imaginat els altres companys que intervenen en la creació col·lectiva. El resultat final segur que sorprendrà. Anna Aparicio (Santa Maria de Palautordera) és una il·lustradora amb obra publicada en diversos països, com Espanya, Itàlia, França, Alemanya, Brasil, Corea del Sud i Taiwan. Del 9 al 20 de novembre farà una residència a Faberllull, per treballar en les il·lustracions del llibre Nunca había visto un tigre llorar , que publicarà l’editorial Claraboya de Xile. Edat recomanada: de 4 a 8 anys Organitza: Residència Faberllull i Biblioteca Marià Vayreda",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-dillustracio-creem-personatges-fantastics/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-17",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-67de138104e7",
+      "title": "Lorca, alma ausente",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Lectura dramatitzada de textos del poeta granadí amb motiu de l’Any Lorca La matinada del 18 d’agost del 1936 (fa 90 anys) va ser assassinat Federico García Lorca, que tenia 38 anys i era massa modern per a l’Espanya del moment. Considerat dels poetes i dramaturgs més importants del segle XX espanyol, tothom coincideixen en la magnitud inimitable i inigualable de la seva obra, la qual ens arriba als nostres dies amb la força afegida de la justícia i reivindicació. Aquesta lectura ens apropa a l’autor a través d’un recorregut per Poema del cante jondo , Bodas de sangre , Yerma , Romancero gitano , Poeta en Nueva York o Sonetos del amor oscuro .",
+      "url": "https://www.olotcultura.cat/agenda/acte/lorca-alma-ausente/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-fdbb888825af",
+      "title": "Durruti, t’estimo",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Un espectacle musical que revisita la figura mítica de Durruti i el seu llegat obrer La CNT i Olot Cultura col·laboren per portar a la sala El Torín un espectacle, amb música de Guillem Caballero i textos de Tuli Márquez, dedicat a la figura de Durruti, que fou referent per a tota la classe obrera de principis del segle XX i afiliat destacat de la CNT. En el món actual, que es mesura en likes , no deixa de ser rellevant que un personatge sense xarxes socials acabés movent dues-centes mil persones al seu enterrament. Fill d’un obrer ferroviari de León, Buenaventura Durruti va esdevenir un personatge clau en la lluita obrera ara fa un segle, en un moment especialment convuls entre el final de la monarquia, l’assumpció de la República i la Guerra Civil. Figura íntimament lligada a Barcelona però de transcendència universal, la seva vida i mort el convertiren en un mite. La seva biografia és l’eix d’un musical compost pel músic Guillem Caballero (Els Surfing Sirles, Chaqueta de Chándal) i l’escriptor Tuli Márquez, que també posa èmfasi en la figura de la seva companya, Mimi Morin, i el seu paper cabdal però massa desconegut tant en la lluita feminista com en l’anarquisme. Un espectacle coral de la Companyia Les Solidàries. Pau Albà: bateria, percussions i veus / Xavier Garcia: baix i veus / Joan Colomo: guitarra i veus / Irene Molenz: guitarra i veus / Pablo Volt Pope : trompeta i veus / Júlia Soler: trombó i veus / Guillem Caballero: teclats i veus / Jordi Castells: imatges i vídeo",
+      "url": "https://www.olotcultura.cat/agenda/acte/durruti-testimo/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-69f014b33cf3",
+      "title": "La crisi ecològica des de la psicologia: per què neguem el canvi climàtic?",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Sabem què està passant. Aleshores, per què seguim comportant-nos com si no ho sabéssim? Mai no havíem disposat de tanta informació sobre la crisi ecològica. En coneixem les causes, en mesurem els efectes i en sabem bona part del que caldria fer. I, no obstant això, continuem ajornant els canvis. El llibre Cambio climático, crisis ecológica y psicología humana (Xoroi, 2026), d’Antoni Talarn i Kholoud El Hajoui, aborda aquesta contradicció des d’un lloc poc habitual: la psicologia i la psicoanàlisi. Quins mecanismes ens permeten conviure amb una amenaça que coneixem? Per què neguem, minimitzem, projectem o racionalitzem allò que ens resulta insuportable? Però comprendre per què no reaccionem no n’hi ha prou. Aquest llibre cerca també les condicions per fer-ho. Davant la por, el negacionisme, el col·lapsisme o les fantasies de salvació individual, proposa construir un relat col·lectiu capaç de transformar la nostra relació amb el planeta. Perquè potser no ens falten dades. Potser ens falta una història que faci possible actuar. Organitza: Llibreria Isop",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-crisi-ecologica-des-de-la-psicologia-per-que-neguem-el-canvi-climatic/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8cfedb2f6821",
+      "title": "Trajectòries: Isabel Banal conversa amb Margarida Casacuberta",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Una conversa sobre la trajectòria artística d’Isabel Banal amb l’artista i Margarida Casacuberta, historiadora i investigadora en literatura contemporània de la Universitat de Girona. Activitat complementària a l’ exposició “Deus” d’Isabel Banal.",
+      "url": "https://www.olotcultura.cat/agenda/acte/trajectories-isabel-banal-conversa-amb-margarida-casacuberta/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ddd1958f0cc0",
+      "title": "El retrat de Dorian Gray",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Àngels Gonyalons encarna Oscar Wilde per interpel·lar un món encara obsessionat amb la joventut i la imatge",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-retrat-de-dorian-gray/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-dafce82ab42e",
+      "title": "Hic Sunt Dracones",
+      "image": "https://www.celracultura.cat/img/image/fotos/ook_silviapoch_hicsuntdracones_paulagrande.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "La Paula ha convocat una gran festa, una trobada familiar de celebració, plena de tots els menjars, músiques i tradicions que conformen el seu llinatge multicultural . Mentre presenciem els preparatius, anirem coneixent els membres de la família, descobrint retalls de les seves vides, i serem còmplices dels seus dolors, els seus secrets i els seus recursos per tirar endavant la vida.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/691-hic-sunt-dracones.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-4a65c7b2dbfe",
+      "title": "Laboratori de mons volcànics",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Què fa tan especials els volcans de la Garrotxa? En aquest taller explorarem les formes, els colors i els elements que caracteritzen el nostre paisatge volcànic. A partir d’aquesta descoberta, crearem els nostres minimons volcànics, un espai on imaginar, experimentar i crear les nostres històries volcàniques. Edat recomanada: Famílies amb infants amb edats entre 4 i 8 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/laboratori-de-mons-volcanics-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "10:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-17e10d3f9e69",
+      "title": "Taller de decoració ceràmica amb Stroke & Coat",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "En aquest taller es pintarà un plat ceràmic, treballant sobre un plat biscuitat que farà de llenç. Es mostraran diferents tècniques d’aplicació de vidriats i s’experimentarà amb colors, textures i efectes per crear una peça única. Un cop finalitzat, el plat es courà a 1000 °C i es podrà recollir la setmana següent al Museu dels Sants. En els darrers anys, la indústria de la ceràmica ha evolucionat notablement: la globalització ha posat a l’abast pigments i vidriats d’alta qualitat tant per a amateurs com per a professionals. En aquest taller es treballarà amb una marca de vidriat ceràmic reconeguda, descobrint-ne la versatilitat, les qualitats i les possibilitats creatives que ofereix. Organitzen: La Iera i Museu dels Sants",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-de-decoracio-ceramica-amb-stroke-coat/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-52caac649b5f",
+      "title": "Vermut musical: Canela N’Drama",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Vermut musical a La Volianna del Parc Nou amb Canela N’Drama, festival de cançons, versions i temes propis que fusionen la dolçor i el cant de la Veu de Yolanda Bretó (veu i caixó flamenc) amb la guitarra apassionada i eclèctica d’Alexis Bass (Guitarra, cors i percussió). Cada concert transmet sensacions totalment diferents del principi al final. Des de la tranquil·litat fins a la gresca total. Per tot això, Canela no té fans, té friends. Perquè fan música per compartir, gaudir i ballar. Us ho perdreu? Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/canela-ndrama/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-268cbfedb709",
+      "title": "FESTA DE TARDOR 2026",
+      "image": "https://www.celracultura.cat/img/image/fotos/curiositats-tardor-2021.jpg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Plaça de l'Església",
+      "category": "Teatre",
+      "description": "Vine a esmorzar botifarra de bolets. Servei de bar i venda de bolets. Pa, botifarra o hamburguesa + beguda: 5 €. A càrrec del Casal Independentista Guillem Agulló i Salvador de Celrà. • A les 9 h, a la plaça de l'Església.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/704-festa-de-tardor.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "time": "09:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-2e8fde8028ab",
+      "title": "RESTART PARTY 2026",
+      "image": "https://www.celracultura.cat/img/image/fotos/se-recomienda-reparar-un-electrodomestico-pequeno_img87850t1.jpg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Plaça de l'Església",
+      "category": "Teatre",
+      "description": "Vine a la Restart Party a Celrà a reparar i aprendre com reparar els aparells electrònics.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/591-restart-party.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-5d7ba4dfcab6",
+      "title": "Un sopar incòmode",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/un-sopar-incomode/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-dbf7582ce649",
+      "title": "Una parada més",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Intèrprets i creació escènica: Paula Pascual, Cristian Gómez, Marc Sellés i Andrea Díaz Reboredo Mediació artística: Paula Pascual de la Torre Producció artística: Casa·Teatre",
+      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-duplicate-4/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-23",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-a4d2055beff0",
+      "title": "Recreativos Federico",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca",
+      "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-fbb890949e57",
+      "title": "Recreativos Federico",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca",
+      "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-1/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1fd3bd260347",
+      "title": "Lucia Fumero",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/lucia-fumero/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1b3413d61b27",
+      "title": "Recreativos Federico",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca",
+      "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-3/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-5f4687ec5c9f",
+      "title": "Recreativos Federico",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca",
+      "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-4/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e67129275183",
+      "title": "“Folichonneries”, d’Eric K. Boulianne",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Cinema",
+      "description": "François i Julie fa setze anys que estan junts. Després d’una conversa amb uns amics, decideixen obrir la seva relació per explorar noves experiències. El que comença com un joc sotmès a unes normes molt estrictes, però, aviat els porta per camins inesperats. Eric K. Boulianne debuta en el llargmetratge amb una comèdia sobre la parella, el desig i l’exploració sexual que confronta les fantasies amb les conseqüències reals de portar-les a la pràctica. Organitza: Cine Club Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/folichonneries/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-7a4fd8f27968",
+      "title": "Matèria Reservada",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té per què resignar-se a la realitat en la qual vivim.",
+      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada-3/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-67b2983aabac",
+      "title": "Pessebres a Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Marato-2026-esbart.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Tradicions",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/pessebres-a-olot-3/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-1696377b7688",
+      "title": "Tarda Solidària a favor de La Marató de TV3",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Marato-2026-esbart.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Tradicions",
+      "description": "La jornada reunirà deu grups de dansa, que actuaran amb l’objectiu de col·laborar amb La Marató.",
+      "url": "https://www.olotcultura.cat/agenda/acte/tarda-solidaria-a-favor-de-la-marato-de-tv3-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-6948bdc3bc4d",
+      "title": "Visita d’obres: #PremisArqGi 2026. Visita a les obres de la Garrotxa-Ripollès",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/visita-dobres-premisarqgi-2026-visita-a-les-obres-de-la-garrotxa-ripolles/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e39d3f6121e2",
+      "title": "Matèria Reservada",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té per què resignar-se a la realitat en la qual vivim.",
+      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada-4/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-5fad8789a97e",
+      "title": "Sopa de lletres",
+      "image": "https://www.celracultura.cat/img/image/fotos/1959.jpeg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Sopa de Lletres és un espectacle familiar participatiu que combina teatre , humor i música en directe i que explora el joc infinit de les paraules, els sons i el llenguatge.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/695-sopa-de-lletres.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-7cd75c47a6eb",
+      "title": "‘Les bones intencions’, de Marc Artigau",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Amb humor, ironia i una mirada tendra sobre els perdedors quotidians, l’obra ens farà passar una estona divertida i alhora reflexionar sobre el desig de reinventar-se, la precarietat, l’emprenedoria, les segones oportunitats i la dificultat de fer el que és correcte quan les circumstàncies juguen en contra. La peça combina situacions còmiques amb moments de gran humanitat, convidant l’espectador tant a riure com a qüestionar-se fins a quin punt les bones intencions són suficients per canviar una vida. Les bones intencions , de Marc Artigau, és una comèdia agredolça protagonitzada per la Paula i en Pere, dues persones que acumulen fracassos personals i econòmics i que busquen desesperadament una oportunitat per redreçar les seves vides. Convençuts que encara poden canviar el seu destí, decideixen crear una empresa d’organització de festes temàtiques i personalitzades. La nit en què han de demostrar el seu potencial davant d’un client molt influent, tot sembla preparat perquè el projecte els obri les portes a una nova vida. Tanmateix, un fet inesperat amenaça d’ensorrar els seus plans i els obliga a enfrontar-se a les conseqüències de les seves decisions i a la distància que sovint hi ha entre les bones intencions i els actes. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/les-bones-intencions/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-29",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e000aacb956f",
+      "title": "Premis Eva Toldrà d’Il·lustració",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/PREMIS-EVA-TOLDRA-DIL·LUSTRACIO-XV-EDICIO-2026.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Exposicions",
+      "description": "HORARI D'OBERTURA: De dimarts a divendres, de 10 a 13 h i de 16 a 19 h / Dissabtes, d'11 a 14 h i de 16 a 19 h / Diumenges i festius, d'11 a 14 h / Dilluns tancat",
+      "url": "https://www.olotcultura.cat/agenda/acte/premis-eva-toldra-dillustracio/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-30",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c79338d8d719",
+      "title": "Una parada més",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Intèrprets i creació escènica: Paula Pascual, Cristian Gómez, Marc Sellés i Andrea Díaz Reboredo Mediació artística: Paula Pascual de la Torre Producció artística: Casa·Teatre",
+      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-5/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-11-30",
+          "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8df5d6f6431b",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-desembre/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-63dc627f2a87",
+      "title": "Tarta Relena",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/tarta-relena/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-f3c87d1dbc73",
+      "title": "Leningrad Cowboys Meet Moses",
+      "image": "https://www.celracultura.cat/img/image/fotos/leningrad2.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "Dirigida per Aki Kaurismäki el 1994, Leningrad Cowboys Meet Moses és la surrealista seqüela de la mítica Leningrad Cowboys Go America . La història reprèn les aventures de la peculiar banda de rock finlandesa de les tupès impossibles i les sabates puntegudíssimes, que ha quedat delmada i malvivint a Mèxic després de la seva gira nord-americana. La situació fa un gir absurd quan reapareix el seu antic mànager, Vladimir (Matti Pellonpää), qui ha patit una conversió espiritual, ara es fa anomenar «Moisès» i pretén guiar el grup de retorn a la seva \"terra promesa\", Sibèria.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/703-leningrad-cowboys-meet-moses.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8c7d737c7af0",
+      "title": "Entrada gratuïta als Museus d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Com tots els primers diumenges de mes l’entrada als Museus d’Olot és gratuïta! Els Museus d’Olot apleguen tres centres patrimonials cadascun dedicat a una temàtica concreta a més de la Secció de ciències naturals. Compten amb una gestió conjunta per posar en valor elements singulars i identitaris d’Olot i comarca des de diferents punts de vista: art, artesania, ciències i història. Museu de la Garrotxa / Art i paisatge dels segles XIX i XX Museu dels Sants / Taller d’artesania i faràndula Casa Museu Can Trincheria / Història i vida del segle XVIII Consulteu els horaris de cada museu aquí.",
+      "url": "https://www.olotcultura.cat/agenda/acte/entrada-gratuita-als-museus-dolot-45/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-55dc6c93f041",
+      "title": "Dieta i salut cerebral",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Quina és la dieta que ens pot ajudar a mantenir una bona salut i a prevenir el deteriorament cognitiu? Quins son els conceptes més importants i actuals sobre el tema? Ens en parlarà la Silvia Viñas Gironella , diplomada en Nutrició Humana i Dietètica, llicenciada en Ciència i Tecnologia dels aliments , des de fa 12 anys, exerceix com a Dietista- Nutriconista a l’Hospital d’Olot. Organitza: Aules de Difusió Cultural de la Garrotxa. ACUGA",
+      "url": "https://www.olotcultura.cat/agenda/acte/dieta-i-salut-cerebral/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-09",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-8f3a42bfa298",
+      "title": "Taula rodona amb arquitectes representants de la nova arquitectura garrotxina",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Activitat complementària a l’exposició “De la casa a la plaça: nous paisatges de l’arquitectura garrotxina” .",
+      "url": "https://www.olotcultura.cat/agenda/acte/68571/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-647774980a7b",
+      "title": "Marc Parrot i el Quartet Brossa",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Un repertori fresc i sorprenent, una nova manera d’interpretar cançons de Parrot i de donar veu als Brossa",
+      "url": "https://www.olotcultura.cat/agenda/acte/marc-parrot-i-el-quartet-brossa/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-4cd6b56a880d",
+      "title": "“Èxode i exili del patrimoni artístic durant la Guerra Civil Espanyola (1936-1939)”, a càrrec d’Arturo Colorado, i “A l’altra banda de la frontera: el retorn de les obres exiliades a Ginebra. El cas d’Olot”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Arturo Colorado, catedràtic emèrit de la Universitat Complutense de Madrid, i expert en patrimoni artístic, guerra civil i postguerra, parlarà de l’evacuació de les col·leccions artístiques del Museu del Prado i de la situació general del patrimoni artístic espanyol evacuat des de Madrid el novembre del 1936, passant per Catalunya, en direcció a Ginebra. Seguidament, Maria de Lluc Serra, doctora en Història de l’Art, complementarà la ponència explicant el periple a Ginebra d’algunes obres del Museu de la Garrotxa. Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/exode-i-exili-del-patrimoni-artistic-durant-la-guerra-civil-espanyola-1936-1939-a-carrec-darturo-colorado-i-a-laltra-banda-de-la-frontera-el-retorn-de/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c3e4c69230cf",
+      "title": "Combinat de circ",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-12-circ-de-nadal.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": null,
+      "description": "En pocs dies de trobada i treball, les artistes experimenten, hibriden i transformen els seus materials físics i artístics. El resultat és un espectacle vibrant i ple de contrastos on cada disciplina s’entrellaça per construir un fil dramatúrgic sorprenent i emocionant al voltant d’un tema triat per la direcció artística.",
+      "url": "https://www.olotcultura.cat/agenda/acte/combinat-de-circ/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-12",
           "time": "18:30"
         }
       ]
     },
     {
-      "id": "Agenda de la Bisbal-1be972d8a759",
-      "title": "Ecos",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/peixera38_anne_laurecano_1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
+      "id": "Olot Cultura-5542d7eb32d8",
+      "title": "Minerals que fan història",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Des de la prehistòria, els minerals i les seves propietats han despertat la curiositat de les persones i han tingut un paper fonamental en el desenvolupament de les societats. En aquest taller descobrirem quins minerals s’amaguen en els objectes quotidians i coneixerem els impactes ambientals i socials de la seva extracció. Finalment, ens posarem en la pell d’enginyers i enginyeres per dissenyar un nou invent a partir de roques i minerals. Edat recomanada: Famílies amb infants amb edats entre 8 i 12 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/minerals-que-fan-historia-3/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-f3804ff171b7",
+      "title": "Sum vermis",
+      "image": "https://www.celracultura.cat/img/image/fotos/1941.jpeg?w=2400&aoe=1&q=80&h=1600&zc=1",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "A a partir de 'Flors del calvari', 'En defensa pròpia' i 'Al cel', de Jacint Verdaguer.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/692-sum-vermis.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-a9874a3bc193",
+      "title": "Concert de Kiw",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Dins el cicle Jazz de Prop , KIW presenta una proposta que fusiona jazz, funk, hip-hop i electrònica amb un llenguatge sonor propi. El trio, format per Pau Jorba (saxo i seqüències), Ferran Rico (baix) i Artur Ponsà (bateria), combina improvisació i tecnologia en un directe que explora nous camins del jazz contemporani. Per a la reserva d’entrades, cal enviar un correu electrònic a bustia@musicsassociats.net . Organitza: Músics Associats",
+      "url": "https://www.olotcultura.cat/agenda/acte/concert-de-kiw/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "time": "18:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-5922bcbf45ab",
+      "title": "‘La dona que va cridar tant, que es va buidar’, de Maria Ten",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": "Quan estàs plena de merda, l’únic que pots fer és buidar-te. Una actriu de teatre amb tots els seus maldecaps diaris, dialoga amb els diferents personatges femenins de les obres més conegudes de l’Àngel Guimerà, amb la Blanca, de Mar i Cel, amb la Marta de Terra Baixa, amb la Maria Rosa de títol homònim, i amb l’Àgata de la Filla del Mar. Un monòleg que ens posa davant de la cara, de manera directe amb un teatre fresc i modern, totes les pressions que rep una dona només pel fet d’haver nascut dona en aquest món i perseguir els seus anhels. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-dona-que-va-cridar-tant-que-es-va-buidar-de-maria-ten/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-13",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-cdbdb39da9db",
+      "title": "Hora del conte: Contes de reis, caganers i tions",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Espectacle de contes plens de personatges nadalencs com el Tió, un Caganer despistat o uns Reis de l’Orient ben atrafegats. Cal descobrir-los i sentir-los ben abrigats!",
+      "url": "https://www.olotcultura.cat/agenda/acte/hora-del-conte-contes-de-reis-caganers-i-tions/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-14",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-d4f14e923ee5",
+      "title": "Club de lectura: ‘El futur és una petita flama’, de Jordi Nopca",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Places limitades a 20 persones. Inscripcions a la Biblioteca Marià Vayreda a partir del dimarts 10 de novembre a les 18 h.",
+      "url": "https://www.olotcultura.cat/agenda/acte/club-de-lectura-el-futur-es-una-petita-flama-de-jordi-nopca/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-15",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-25f9640e7af5",
+      "title": "“Retrats amb intenció”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Retrats-amb-intencio-Pol-Serra.jpg",
+      "municipality": "Olot",
+      "venue": null,
       "category": "Exposicions",
-      "description": "Anne-Laure Cano",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14452-ecos.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-10-09",
-      "date_end": "2027-01-10",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-83bd36642abd",
-      "title": "El Trencanous",
-      "image": "https://www.rosescultura.cat/img/image/fotos/trencanous001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "A càrrec de l’International Ballet Company",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4840-el-trencanous.html",
-      "source": "Roses Cultura",
+      "description": "L’exposició presenta un recull de caricatures creades per a revistes i altres encàrrecs que retraten personatges rellevants de l’esfera pública nacional i internacional.",
+      "url": "https://www.olotcultura.cat/agenda/acte/retrats-amb-intencio/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-18",
+          "time": null
+        }
+      ]
     },
     {
-      "id": "Agenda de la Bisbal-b1856b08f340",
-      "title": "El temple de la llum",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/828834181_10162896516755826_5763779184429718882_n.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=0&sy=83.2&sw=1122&sh=748",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Brava Performing Arts",
-      "category": "Exposicions",
-      "description": "Fotografies de Pilar Aldana",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14465-el-temple-de-la-llum.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-10-02",
-      "date_end": "2026-10-30",
-      "sessions": []
-    },
-    {
-      "id": "Agenda de la Bisbal-0280ce8a473a",
-      "title": "En ombres silents i entre somnis",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/l1001837.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Terracotta Museu",
-      "category": "Exposicions",
-      "description": "Santi Moix",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14345-en-ombres-silents-i-entre-somnis.html",
-      "source": "Agenda de la Bisbal",
-      "date_start": "2026-06-28",
-      "date_end": "2027-01-31",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-a6cb072930db",
-      "title": "Festival BaiDeFest",
-      "image": "https://www.rosescultura.cat/img/image/fotos/baidefest2026.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=10.79&sy=10.79&sw=1589.21&sh=1059.48",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Festival de curts fantàstics i de terror de Roses",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4828-festival-internacional-de-curtsmetratges-de-l.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-22",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-05258bdc0bca",
-      "title": "Heroïnes del cinema",
-      "image": "https://www.rosescultura.cat/img/image/fotos/heroisdelcinema_dcs239611.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Concert benèfic de la Fundació Roses Contra el Càncer",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4842-grans-heroines-del-cinema.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-770ca688c27b",
+      "title": "Arts Simfònica Jove",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Música",
+      "description": "Sota la batuta de Josep Maria Sauret, us convidem a un concert extraordinari amb grans obres simfòniques. Els valsos, les polques, la música catalana i obres emblemàtiques del repertori simfònic seran els protagonistes per omplir l’aire d’esperit festiu. Més de cinquanta joves músics desbordaran energia dalt de l’escenari en un projecte plenament consolidat que uneix la passió de les noves generacions amb el mestratge de mentors professionals. Deixeu-vos seduir pel ritme i el virtuosisme d’aquest repertori clàssic i simfònic, interpretat amb una frescor i energia única que farà vibrar tot l’auditori. No us perdeu la cita més esperada i musical de les festes!",
+      "url": "https://www.olotcultura.cat/agenda/acte/arts-simfonica-jove/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-19",
+          "time": "20:00"
+        }
+      ]
     },
     {
-      "id": "Roses Cultura-12750ce14630",
-      "title": "IX Seminari Internacional d'Arqueologia Medieval i Moderna",
-      "image": "https://www.rosescultura.cat/img/image/fotos/ixseminari1.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "La desigualtat en època tardoantiga i medieval - Empremta arqueològica d'un problema estructural",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4838-ix-seminari-internacional-darqueologia-mediev.html",
-      "source": "Roses Cultura",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-09",
-      "sessions": []
-    },
-    {
-      "id": "Roses Cultura-fe09ca9dd636",
-      "title": "Inauguració 'Silencis des de dins'",
-      "image": "https://www.rosescultura.cat/img/image/fotos/propostaretrat2.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Sala d'exposicions Ca l'Anita",
-      "category": "Carnaval",
-      "description": "de Marta Teixidó Ribas",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4844-inauguracio-silencis-des-de-dins.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-815654082579",
+      "title": "Els Pastorets d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/els-pastorets-dolot-28/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-19",
+          "time": "18:00"
+        }
+      ]
     },
     {
-      "id": "Agenda de la Bisbal-b31400d57652",
-      "title": "Jornada: “Dones i Guerra Civil. Brigadistes i milicianes lluitant contra el feixisme”",
-      "image": "https://agenda.labisbal.cat/img/image/fotos/milicianas_cnt-fai.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "La Bisbal d'Empordà",
-      "venue": "Teatre Mundial",
-      "category": "Xerrades i conferències",
-      "description": "Organitzada pel Grup de Dones de la Bisbal i l’Arxiu Comarcal del Baix Empordà",
-      "url": "https://agenda.labisbal.cat/ca/agenda/c/14464-jornada-dones-i-guerra-civil-brigadistes-i-mi.html",
-      "source": "Agenda de la Bisbal",
+      "id": "Olot Cultura-c8bbb10ec2cb",
+      "title": "Laboratori de mons volcànics",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Què fa tan especials els volcans de la Garrotxa? En aquest taller explorarem les formes, els colors i els elements que caracteritzen el nostre paisatge volcànic. A partir d’aquesta descoberta, crearem els nostres minimons volcànics, un espai on imaginar, experimentar i crear les nostres històries volcàniques. Edat recomanada: Famílies amb infants amb edats entre 4 i 8 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/laboratori-de-mons-volcanics-3/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-19",
+          "time": "17:00"
+        }
+      ]
     },
     {
-      "id": "Roses Cultura-d2b8a7a32c4f",
-      "title": "Joves lectors",
-      "image": "https://www.rosescultura.cat/img/image/fotos/botdr_bombard.webp?w=1740&aoe=1&q=80&h=1160&f=webp&sx=0&sy=149.12&sw=1103.51&sh=735.68",
-      "municipality": "Roses",
-      "venue": "Biblioteca Jaume Vicens Vives",
-      "category": "Carnaval",
-      "description": "Club de lectura per a nens i nenes de 8 i 9 anys",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4818-joves-lectors.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-1fec689bd809",
+      "title": "Els Pastorets d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/els-pastorets-dolot-29-2/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-20",
+          "time": "18:00"
+        }
+      ]
     },
     {
-      "id": "Roses Cultura-e7d24ba90d22",
-      "title": "OPTIMIST: \"Pots\"",
-      "image": "https://www.rosescultura.cat/img/image/fotos/pots001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "A càrrec de Tanaka Teatre",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4826-optimist-pots.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-d800bd955979",
+      "title": "Laboratori de mons volcànics",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Què fa tan especials els volcans de la Garrotxa? En aquest taller explorarem les formes, els colors i els elements que caracteritzen el nostre paisatge volcànic. A partir d’aquesta descoberta, crearem els nostres minimons volcànics, un espai on imaginar, experimentar i crear les nostres històries volcàniques. Edat recomanada: Famílies amb infants amb edats entre 4 i 8 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/laboratori-de-mons-volcanics-4/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-23",
+          "time": "16:30"
+        }
+      ]
     },
     {
-      "id": "Roses Cultura-15e739925c06",
-      "title": "Una idea genial",
-      "image": "https://www.rosescultura.cat/img/image/fotos/unaideagenial001.webp?w=1740&aoe=1&q=80&h=1160&zc=1&f=webp",
-      "municipality": "Roses",
-      "venue": "Teatre Municipal",
-      "category": "Carnaval",
-      "description": "Una producció de Focus",
-      "url": "https://www.rosescultura.cat/ca/programacio/c/4822-una-idea-genial.html",
-      "source": "Roses Cultura",
+      "id": "Olot Cultura-c1193c2b686a",
+      "title": "Concert de Sant Esteve",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Marato-2026-esbart.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Tradicions",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/concert-de-sant-esteve-4/",
+      "source": "Olot Cultura",
       "date_start": null,
       "date_end": null,
-      "sessions": []
+      "sessions": [
+        {
+          "date": "2026-12-26",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-3be07054398a",
+      "title": "Els Pastorets d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/els-pastorets-dolot-30-2/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-27",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Celrà Cultura-25697ddc3198",
+      "title": "La meva mare és una goril·la",
+      "image": "https://www.celracultura.cat/img/image/fotos/lamevamareesungorilla.webp?w=2400&aoe=1&q=80&h=1600&zc=1&f=webp",
+      "municipality": "Celrà",
+      "venue": "Teatre L'Ateneu",
+      "category": "Teatre",
+      "description": "No hi ha res que la Jana desitgi més que una mare. Els seus 8 anys de vida els ha viscut a l’orfenat La Ginesta. Un dia, un Volvo Amazon atrotinat, apareix de la llunyania i en surt una goril·la que tria la Jana per viure amb ella. La Jana marxa amb la goril·la i ben aviat s’adonen que tenen més coses en comú del què pensaven. Però malauradament, tot just quan comencen a sentir-se bé juntes, el Tord, del govern municipal, apareix i les amenaça de tornar la Jana a l’orfenat.",
+      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/699-la-meva-mare-es-una-gorilla.html",
+      "source": "Celrà Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-27",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-3e30adc1ed74",
+      "title": "Minerals que fan història",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Altres",
+      "description": "Des de la prehistòria, els minerals i les seves propietats han despertat la curiositat de les persones i han tingut un paper fonamental en el desenvolupament de les societats. En aquest taller descobrirem quins minerals s’amaguen en els objectes quotidians i coneixerem els impactes ambientals i socials de la seva extracció. Finalment, ens posarem en la pell d’enginyers i enginyeres per dissenyar un nou invent a partir de roques i minerals. Edat recomanada: Famílies amb infants amb edats entre 8 i 12 anys. Organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/minerals-que-fan-historia-4/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2026-12-29",
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-3a3f06bf4d24",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-gener/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-01-08",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-7eb8e0985af9",
+      "title": "“Museus i guerra: confiscacions, restitucions i destruccions”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Emma Nardi és presidenta de la ICOM durant el període 2022-2025 i professora a la Universitat Roma Tre. Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/museus-i-guerra-confiscacions-restitucions-i-destruccions/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-01-15",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ae1ff9422f06",
+      "title": "Van Gogh",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Teatre",
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/van-gogh/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-01-17",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-cc4c3d880fd9",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-febrer/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-02-05",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-e103e353b962",
+      "title": "Taula rodona: “Destrucció i salvaguarda del patrimoni a Olot durant el 1936”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/Arxiu-Fotografic-de-Barcelona-_bcn007880_retallada_V2.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Xerrades",
+      "description": "Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/taula-rodona-destruccio-i-salvaguarda-del-patrimoni-a-olot-durant-el-1936/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-02-12",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-83fc23e12a0c",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-marc/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-03-05",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b14560efb5b7",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-abril/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-04-02",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-d9ab668934a8",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-maig/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-05-07",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-6447d9cebf60",
+      "title": "Lletres per esmorzar",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "municipality": "Olot",
+      "venue": null,
+      "category": "Lletres",
+      "description": "Inscripcions els divendres al mateix Hotel Riu o al correu de l'associació: Litterae.associaciocultural@gmail.com",
+      "url": "https://www.olotcultura.cat/agenda/acte/lletres-per-esmorzar-juny/",
+      "source": "Olot Cultura",
+      "date_start": null,
+      "date_end": null,
+      "sessions": [
+        {
+          "date": "2027-06-04",
+          "time": "10:00"
+        }
+      ]
     }
   ],
   "validation": [
     {
-      "connector": "connectors.figueres",
-      "ok": true,
-      "events_found": 24,
-      "events_published": 0,
-      "rejected_no_valid_image": 24,
-      "with_image": 0,
-      "with_sessions": 0,
-      "with_venue": 0,
-      "with_municipality": 0
-    },
-    {
-      "connector": "connectors.bisbal",
-      "ok": true,
-      "events_found": 24,
-      "events_published": 14,
-      "rejected_no_valid_image": 10,
-      "with_image": 14,
-      "with_sessions": 10,
-      "with_venue": 14,
-      "with_municipality": 14
-    },
-    {
-      "connector": "connectors.girona",
+      "connector": "connectors.banyoles",
       "ok": true,
       "events_found": 0,
       "events_published": 0,
@@ -471,15 +3112,26 @@
       "with_municipality": 0
     },
     {
-      "connector": "connectors.roses",
+      "connector": "connectors.olot",
       "ok": true,
-      "events_found": 37,
-      "events_published": 12,
-      "rejected_no_valid_image": 25,
-      "with_image": 12,
-      "with_sessions": 4,
-      "with_venue": 12,
-      "with_municipality": 12
+      "events_found": 148,
+      "events_published": 148,
+      "rejected_no_valid_image": 0,
+      "with_image": 148,
+      "with_sessions": 148,
+      "with_venue": 0,
+      "with_municipality": 148
+    },
+    {
+      "connector": "connectors.celra",
+      "ok": true,
+      "events_found": 15,
+      "events_published": 15,
+      "rejected_no_valid_image": 0,
+      "with_image": 15,
+      "with_sessions": 15,
+      "with_venue": 15,
+      "with_municipality": 15
     }
   ]
 }
