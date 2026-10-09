@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-10-08T15:46:07.836249+00:00",
+  "generated_at": "2026-10-09T04:41:02.728648+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-43d02b13de80",
-      "title": "Correllengua a Olot: “Josep M. Espinàs. Un home al servei d’un país “",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Correllengua-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Òmnium Garrotxa",
-      "category": null,
-      "description": "Una xerrada per apropar-se a la figura i l’obra de Josep M. Espinàs , escriptor i home polifacètic compromès amb el país, la cultura i la llengua. La sessió, a càrrec de M. Mercè Padrosa , repassarà la seva trajectòria i els diversos projectes que va impulsar al llarg de la seva vida. L’activitat forma part dels actes del Correllengua a Olot . Organitza: Òmnium Cultural",
-      "url": "https://www.olotcultura.cat/agenda/acte/correllengua-a-olot-apropament-a-la-persona-i-lobra-de-josep-m-espinas/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-08",
-      "sessions": [
-        {
-          "date": "2026-10-08",
-          "time": "19:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-c31671fe261c",
-      "title": "Kike Bela I Lorena Ruiz",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-08-el-retorn-desig-agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "Una experiència sensorial que investiga la resiliència i l’esperança, tot traçant un diàleg íntim entre cos, so i espai Narració experimental construïda a través de paisatges sonors i visuals poètics, música i imatges de la quotidianitat expandida que exploren els sentiments d’una persona emmirallada en el paisatge urbà. Tant les imatges com l’art sonor parteixen d’un concepte creatiu arrelat en l’arquitectura i l’espai físic, entenent-los com a estructures vives que modelen la percepció, la memòria i l’emoció. Una recerca d’un jardí exuberant secret i, alhora, d’altres espais en els quals trobar consol mitjançant una narració visual i musical inusual. Es pot localitzar un camí que reformuli l’esgotament i la pròpia memòria perquè el cor es torni a omplir de vida i desig? Música: Kike Bela Visuals: Lorena Ruiz Pellicer",
-      "url": "https://www.olotcultura.cat/agenda/acte/kike-bela-i-lorena-ruiz/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-08",
-      "date_end": "2026-10-08",
-      "sessions": [
-        {
-          "date": "2026-10-08",
-          "time": "20:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-ebc409688a3a",
       "title": "Cau de poesia",
@@ -2962,13 +2924,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 127,
-      "events_published": 127,
+      "events_found": 125,
+      "events_published": 125,
       "rejected_no_valid_image": 0,
-      "with_image": 127,
-      "with_sessions": 127,
-      "with_venue": 127,
-      "with_municipality": 127
+      "with_image": 125,
+      "with_sessions": 125,
+      "with_venue": 125,
+      "with_municipality": 125
     },
     {
       "connector": "connectors.celra",
