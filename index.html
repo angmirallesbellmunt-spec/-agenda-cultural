@@ -560,6 +560,18 @@ main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
 .gcal-btn:hover{background:var(--ultra);border-color:var(--ultra);color:white}
 @media(max-width:700px){#myAgendaModal .modalbox{width:100%;padding:28px 14px}.cal-day{min-height:92px;padding:5px}.cal-event{font-size:9px;padding:5px}.cal-detail{grid-template-columns:1fr}}
 
+
+.weekday{
+  font-size:12px;
+  line-height:1;
+  font-weight:800;
+  text-transform:lowercase;
+  margin-bottom:7px;
+  letter-spacing:.04em;
+}
+.media-link{display:block;color:inherit;text-decoration:none}
+.media-link .media{width:100%}
+
 </style>
 </head>
 
@@ -1564,7 +1576,9 @@ function dd(e){
 
     let d=parts(s.date);
 
+    const weekday=["dg","dl","dm","dx","dj","dv","ds"][new Date(s.date+"T12:00:00").getDay()];
     return`
+      <div class="weekday">${weekday}</div>
       <div class="day">${d.day}</div>
       <div class="month">${d.month}</div>
       <div class="time">
@@ -1584,6 +1598,7 @@ function dd(e){
 
       ?`
         <div class="range">DEL</div>
+        <div class="weekday">${["dg","dl","dm","dx","dj","dv","ds"][new Date(e.date_start+"T12:00:00").getDay()]}</div>
         <div class="day">${a.day}</div>
         <div class="month">${a.month}</div>
         <div class="range" style="margin-top:8px">
@@ -1592,6 +1607,7 @@ function dd(e){
       `
 
       :`
+        <div class="weekday">${["dg","dl","dm","dx","dj","dv","ds"][new Date(e.date_start+"T12:00:00").getDay()]}</div>
         <div class="day">${a.day}</div>
         <div class="month">${a.month}</div>
       `;
@@ -1644,6 +1660,7 @@ function render(){
 
         <button class="favorite-btn ${favoriteIds.has(eventKey(e))?"active":""}" data-fav="${eventKey(e)}" title="${favoriteIds.has(eventKey(e))?"Elimina de la meva agenda":"Afegeix a la meva agenda"}" aria-label="${favoriteIds.has(eventKey(e))?"Elimina de la meva agenda":"Afegeix a la meva agenda"}">${favoriteIds.has(eventKey(e))?"★":"☆"}</button>
 
+        <a class="media-link" href="${e.url}" target="_blank" rel="noopener" aria-label="Obre ${e.title}">
         <div class="media">
 
           ${
@@ -1666,6 +1683,7 @@ function render(){
           }
 
         </div>
+        </a>
 
         <div class="body">
 
