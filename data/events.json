@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:41:02.728648+00:00",
+  "generated_at": "2026-10-09T14:22:19.420105+00:00",
   "events": [
     {
       "id": "Olot Cultura-ebc409688a3a",
@@ -17,25 +17,6 @@
         {
           "date": "2026-10-09",
           "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-e5c3851dcaf2",
-      "title": "Lliurament dels Premis Eva Toldrà d’Il·lustració",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/PREMIS-EVA-TOLDRA-DIL·LUSTRACIO-XV-EDICIO-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "Acte de lliurament dels Premis Eva Toldrà d’Il·lustració XV edició 2026, que reconeixerà els projectes premiats en la quinzena edició del certamen. L’acte inclourà una conferència a càrrec de David Acevedo , il·lustrador. Activitat oberta a tothom. Organitza: Escola d’Art i Superior d’Olot i Associació Premi Eva Toldrà d’Il·lustració",
-      "url": "https://www.olotcultura.cat/agenda/acte/lliurament-dels-premis-eva-toldra-dillustracio/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-09",
-      "date_end": "2026-10-09",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "12:00"
         }
       ]
     },
@@ -122,7 +103,7 @@
       "municipality": "Olot",
       "venue": "carrers del centre d’Olot",
       "category": null,
-      "description": "El Correllengua a Olot celebra el seu acte central amb una tarda de cultura popular, llengua, música i glosa. La jornada començarà a les 16 h amb una plantada de faràndula al Firal Petit i, a les 16.30 h, una cercavila recorrerà els carrers fins a la Font de l’Àngel , on tindrà lloc l’acte central. La programació inclourà la lectura del Manifest , a càrrec del Servei de Català d’Olot-la Garrotxa; la lectura de textos de Josep M. Espinàs ; el ball d’en Clam i de la faràndula, i una actuació musical. Glosa Garrotxa conduirà i glosarà l’acte. A les 21 h , la jornada continuarà a La Tintoreria amb el Sopar Reputicànticus , un sopar cantat. Organitza: Òmnium Cultural",
+      "description": "El Correllengua a Olot celebra el seu acte central amb una tarda de cultura popular, llengua, música i glosa. La jornada començarà a les 16 h amb una plantada de faràndula al Firal Petit i, a les 16.30 h, una cercavila recorrerà els carrers fins a la Plaça Major , on tindrà lloc l’acte central. La programació inclourà la lectura del Manifest , a càrrec del Servei de Català d’Olot-la Garrotxa; la lectura de textos de Josep M. Espinàs ; el ball d’en Clam i de la faràndula, i una actuació musical. Glosa Garrotxa conduirà i glosarà l’acte. A les 21 h , la jornada continuarà a La Tintoreria amb el Sopar Reputicànticus , un sopar cantat. Organitza: Òmnium Cultural",
       "url": "https://www.olotcultura.cat/agenda/acte/correllengua-a-olot-apropament-a-la-persona-i-lobra-de-josep-m-espinas-duplicate-1/",
       "source": "Olot Cultura",
       "date_start": "2026-10-10",
@@ -2924,13 +2905,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 125,
-      "events_published": 125,
+      "events_found": 124,
+      "events_published": 124,
       "rejected_no_valid_image": 0,
-      "with_image": 125,
-      "with_sessions": 125,
-      "with_venue": 125,
-      "with_municipality": 125
+      "with_image": 124,
+      "with_sessions": 124,
+      "with_venue": 124,
+      "with_municipality": 124
     },
     {
       "connector": "connectors.celra",
