@@ -543,6 +543,23 @@ main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
 .form textarea{width:100%;border:1px solid var(--line);background:white;padding:12px 13px;font:inherit;font-size:15px;resize:vertical;min-height:110px}
 .proposal-note{margin:3px 0 0;padding-top:14px;border-top:1px solid var(--line);font-size:13px;line-height:1.4}
 
+
+/* --- La meva agenda · calendari ampliat --- */
+#myAgendaModal .modalbox{width:min(96vw,1180px)}
+.cal-day{min-height:128px;padding:8px;background:var(--paper)}
+.cal-day.has-event{background:var(--paper);cursor:default}
+.cal-dow{padding:9px 6px;font-size:12px;text-transform:lowercase}
+.cal-num{font-size:16px;color:var(--ultra);margin-bottom:8px}
+.cal-events{display:grid;gap:6px}
+.cal-event{display:block;width:100%;border:0;background:var(--lime);padding:6px 7px;text-align:left;font:inherit;font-size:11px;font-weight:800;line-height:1.15;cursor:pointer}
+.cal-event:hover{background:var(--ultra);color:white}
+.cal-details{margin-top:18px;border-top:1px solid var(--line);padding-top:14px}
+.cal-detail{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+.cal-detail strong{display:block;text-transform:uppercase}.cal-detail small{display:block;margin-top:4px}
+.gcal-btn{display:inline-block;border:1px solid var(--ink);color:var(--ink);padding:8px 11px;border-radius:999px;text-decoration:none;font-size:11px;font-weight:800;white-space:nowrap}
+.gcal-btn:hover{background:var(--ultra);border-color:var(--ultra);color:white}
+@media(max-width:700px){#myAgendaModal .modalbox{width:100%;padding:28px 14px}.cal-day{min-height:92px;padding:5px}.cal-event{font-size:9px;padding:5px}.cal-detail{grid-template-columns:1fr}}
+
 </style>
 </head>
 
@@ -780,7 +797,7 @@ main{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 18px}
 
 <!-- MODAL LA MEVA AGENDA -->
 <div class="modal" id="myAgendaModal">
-  <div class="modalbox" style="width:min(100%,760px)">
+  <div class="modalbox">
     <button class="close" data-close="myAgendaModal">×</button>
     <h2 class="modal-title">La meva agenda</h2>
     <div class="agenda-tabs">
@@ -1037,18 +1054,33 @@ function renderAgendaList(){
   box.querySelectorAll("[data-remove-fav]").forEach(btn=>btn.onclick=()=>{const e=DATA.find(x=>eventKey(x)===btn.dataset.removeFav);if(e)toggleFavorite(e)});
 }
 
+function googleCalendarUrl(e){
+  const s=e.sessions?.[0]||{}, d=s.date||e.date_start||""; if(!d)return "#";
+  const compact=d.replaceAll("-",""); let dates;
+  if(s.time){
+    const time=String(s.time).slice(0,5), start=`${compact}T${time.replace(":","")}00`;
+    const dt=new Date(`${d}T${time}:00`); dt.setHours(dt.getHours()+1);
+    dates=`${start}/${dt.getFullYear()}${String(dt.getMonth()+1).padStart(2,"0")}${String(dt.getDate()).padStart(2,"0")}T${String(dt.getHours()).padStart(2,"0")}${String(dt.getMinutes()).padStart(2,"0")}00`;
+  }else{
+    const dt=new Date(`${d}T12:00:00`); dt.setDate(dt.getDate()+1);
+    dates=`${compact}/${dt.getFullYear()}${String(dt.getMonth()+1).padStart(2,"0")}${String(dt.getDate()).padStart(2,"0")}`;
+  }
+  return "https://calendar.google.com/calendar/render?"+new URLSearchParams({action:"TEMPLATE",text:e.title||"Activitat cultural",dates,details:e.url?`Més informació: ${e.url}`:"",location:[e.venue,e.municipality].filter(Boolean).join(", ")}).toString();
+}
+function renderCalendarDetails(es){
+  document.getElementById("calDetails").innerHTML=es.map(e=>`<div class="cal-detail"><div><strong>${e.title}</strong><small>${eventDate(e)}${e.sessions?.[0]?.time?" · "+e.sessions[0].time+" h":""}${e.municipality?" · "+e.municipality:""}${e.venue?" · "+e.venue:""}</small></div><a class="gcal-btn" href="${googleCalendarUrl(e)}" target="_blank" rel="noopener">Afegir a Google Calendar</a></div>`).join("");
+}
 function renderAgendaCalendar(){
-  const y=calendarCursor.getFullYear(),m=calendarCursor.getMonth();
-  const names=["Gener","Febrer","Març","Abril","Maig","Juny","Juliol","Agost","Setembre","Octubre","Novembre","Desembre"];
-  const first=(new Date(y,m,1).getDay()+6)%7, days=new Date(y,m+1,0).getDate();
-  const byDay={}; savedEvents().forEach(e=>{const d=eventDate(e); if(d&&d.startsWith(`${y}-${String(m+1).padStart(2,"0")}-`)){const n=Number(d.slice(8,10));(byDay[n]??=[]).push(e)}});
-  let cells=""; for(let i=0;i<first;i++)cells+='<div class="cal-day"></div>';
-  for(let d=1;d<=days;d++){const es=byDay[d]||[];cells+=`<div class="cal-day ${es.length?"has-event":""}" data-cal-day="${d}"><div class="cal-num">${d}</div>${es.length?`<div class="cal-count">${es.length} activitat${es.length>1?"s":""}</div>`:""}</div>`}
+  const y=calendarCursor.getFullYear(),m=calendarCursor.getMonth(), names=["Gener","Febrer","Març","Abril","Maig","Juny","Juliol","Agost","Setembre","Octubre","Novembre","Desembre"];
+  const first=(new Date(y,m,1).getDay()+6)%7,days=new Date(y,m+1,0).getDate(),byDay={};
+  savedEvents().forEach(e=>{const d=eventDate(e);if(d&&d.startsWith(`${y}-${String(m+1).padStart(2,"0")}-`)){const n=Number(d.slice(8,10));(byDay[n]??=[]).push(e)}});
+  let cells="";for(let i=0;i<first;i++)cells+='<div class="cal-day"></div>';
+  for(let d=1;d<=days;d++){const es=byDay[d]||[];cells+=`<div class="cal-day ${es.length?"has-event":""}"><div class="cal-num">${d}</div>${es.length?`<div class="cal-events">${es.map(e=>`<button type="button" class="cal-event" data-cal-event="${eventKey(e)}">${e.title}</button>`).join("")}</div>`:""}</div>`}
   const box=document.getElementById("agendaCalendarView");
-  box.innerHTML=`<div class="calendar-head"><button id="calPrev">←</button><div class="calendar-title">${names[m]} ${y}</div><button id="calNext">→</button></div><div class="calendar-grid">${["Dl","Dt","Dc","Dj","Dv","Ds","Dg"].map(x=>`<div class="cal-dow">${x}</div>`).join("")}${cells}</div><div id="calDetails" class="saved-list" style="margin-top:14px"></div>`;
+  box.innerHTML=`<div class="calendar-head"><button id="calPrev">←</button><div class="calendar-title">${names[m]} ${y}</div><button id="calNext">→</button></div><div class="calendar-grid">${["dl","dm","dx","dj","dv","ds","dg"].map(x=>`<div class="cal-dow">${x}</div>`).join("")}${cells}</div><div id="calDetails" class="cal-details"></div>`;
   document.getElementById("calPrev").onclick=()=>{calendarCursor=new Date(y,m-1,1);renderAgendaCalendar()};
   document.getElementById("calNext").onclick=()=>{calendarCursor=new Date(y,m+1,1);renderAgendaCalendar()};
-  box.querySelectorAll(".has-event").forEach(c=>c.onclick=()=>{const es=byDay[Number(c.dataset.calDay)]||[];document.getElementById("calDetails").innerHTML=es.map(e=>`<div class="saved-item"><div><strong>${e.title}</strong><small>${e.municipality||""}${e.venue?" · "+e.venue:""}</small></div><a class="link" href="${e.url}" target="_blank" rel="noopener">→</a></div>`).join("")});
+  box.querySelectorAll("[data-cal-event]").forEach(btn=>btn.onclick=()=>{const e=DATA.find(x=>eventKey(x)===btn.dataset.calEvent);if(e)renderCalendarDetails([e])});
 }
 
 function renderMyAgenda(){ renderAgendaList(); renderAgendaCalendar(); }
