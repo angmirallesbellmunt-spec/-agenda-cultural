@@ -1,82 +1,6 @@
 {
-  "generated_at": "2026-10-09T14:22:19.420105+00:00",
+  "generated_at": "2026-10-10T04:40:18.080285+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-ebc409688a3a",
-      "title": "Cau de poesia",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2023/03/cau-poesia-agenda.jpg",
-      "municipality": "Olot",
-      "venue": "Casal Cívic i Comunitari",
-      "category": null,
-      "description": "Trobada oberta a tothom per compartir i gaudir de la poesia en un espai de trobada entre persones interessades en la paraula i la creació literària. Organitza: Amics de les Lletres Garrotxines",
-      "url": "https://www.olotcultura.cat/agenda/acte/cau-de-poesia-19/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-09",
-      "date_end": "2026-10-09",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-8754c4ab279c",
-      "title": "L’arannà",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-09-aranna-agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "L’arannà és un duet format per Anna Sala, de Sant Feliu de Guíxols, i Lara Magrinyà, d’Eivissa. Amb l’espectacle Turmarí , es capbussen en la tradició de la música popular de les illes Pitiüses per oferir, a través de l’experimentació sonora que les caracteritza, una mirada particular sobre Eivissa i Formentera. Sintetitzadors i teclats comparteixen escenari amb les castanyoles, el tambor, l’espasí i la flauta, així com amb estètiques que s’inspiren en les del ball pagès. Entre glosses i cants redoblats, alguns de rescatats d’arxius sonors i d’altres de creació pròpia, el grup eivissenc-català traça un relat que ressegueix la realitat i les arrels de dues illes que són alguna cosa més que el paradís somniat per tanta gent. Turmarí compta amb la coproducció de la Fira Mediterrània de Manresa, La Marfà, el Teatre Principal de Palma, Mallorca Literària, la FiMPT i Teatre Nu. Té també el suport de la Fundació SGAE, el Centre Artesà Tradicionàrius, els consells insulars d’Eivissa i Formentera, Rerelteló Porqueres, Suralita i Girona Crea. D’altra banda, aquesta obra ha rebut una beca de creació artística, recerca i innovació de la Generalitat de Catalunya. Aquest és el segon espectacle de L’arannà. El primer va ser el disc La salamandra (2024), on alguns dels millors contes de Mercè Rodoreda estan convertits en cançó.",
-      "url": "https://www.olotcultura.cat/agenda/acte/laranna/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-09",
-      "date_end": "2026-10-09",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-c4b3d2414fbb",
-      "title": "“El patrimoni artístic català en guerra (1936-1939): Olot, escut d’un llegat en perill”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/Santos-Mateos.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Santos M. Mateos, doctor en Història de l’Art per la Universitat de Barcelona i professor de la Universitat de Vic, ens parlarà de l’epopeia que va ser la salvaguarda de l’art català durant els anys de guerra i com Olot va esdevenir el focus de lluita i de salvaguarda del país. Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-patrimoni-artistic-catala-en-guerra-1936-1939-olot-escut-dun-llegat-en-perill/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-09",
-      "date_end": "2026-10-09",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-6b7cbd9dad08",
-      "title": "“Porco Rosso”, de Hayao Miyazaki",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Porco-Rosso.jpg",
-      "municipality": "Olot",
-      "venue": "Cines Olot",
-      "category": null,
-      "description": "Pel·lícula d’animació dirigida per Hayao Miyazaki que segueix en Porco Rosso, un antic pilot de guerra convertit misteriosament en porc que es guanya la vida com a caçador de recompenses perseguint pirates aeris sobre el mar Adrià. La seva rutina canvia amb l’arribada de Curtis, un ambiciós pilot nord-americà disposat a desafiar-lo. Ambientada a l’Europa d’entreguerres, Porco Rosso combina aventura, humor i romanticisme en una història sobre la llibertat, el passat, la guerra i la dificultat de trobar un lloc al món. Organitza: Cine Club Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/porco-rosso/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-09",
-      "date_end": "2026-10-09",
-      "sessions": [
-        {
-          "date": "2026-10-09",
-          "time": "21:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-aedae51a465e",
       "title": "Boja",
@@ -1517,7 +1441,7 @@
       "sessions": [
         {
           "date": "2026-11-13",
-          "time": "18:00"
+          "time": "11:00"
         }
       ]
     },
@@ -2905,13 +2829,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 124,
-      "events_published": 124,
+      "events_found": 120,
+      "events_published": 120,
       "rejected_no_valid_image": 0,
-      "with_image": 124,
-      "with_sessions": 124,
-      "with_venue": 124,
-      "with_municipality": 124
+      "with_image": 120,
+      "with_sessions": 120,
+      "with_venue": 120,
+      "with_municipality": 120
     },
     {
       "connector": "connectors.celra",
