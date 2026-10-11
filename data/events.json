@@ -1,120 +1,6 @@
 {
-  "generated_at": "2026-10-10T04:40:18.080285+00:00",
+  "generated_at": "2026-10-11T04:39:56.061915+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-aedae51a465e",
-      "title": "Boja",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-10-boja.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Recomanat a partir de 14 anys Espectacle en català i castellà amb cançons cantades en anglès",
-      "url": "https://www.olotcultura.cat/agenda/acte/boja/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-10",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-daaeb453b63b",
-      "title": "Correllengua a Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Correllengua-2026.jpg",
-      "municipality": "Olot",
-      "venue": "carrers del centre d’Olot",
-      "category": null,
-      "description": "El Correllengua a Olot celebra el seu acte central amb una tarda de cultura popular, llengua, música i glosa. La jornada començarà a les 16 h amb una plantada de faràndula al Firal Petit i, a les 16.30 h, una cercavila recorrerà els carrers fins a la Plaça Major , on tindrà lloc l’acte central. La programació inclourà la lectura del Manifest , a càrrec del Servei de Català d’Olot-la Garrotxa; la lectura de textos de Josep M. Espinàs ; el ball d’en Clam i de la faràndula, i una actuació musical. Glosa Garrotxa conduirà i glosarà l’acte. A les 21 h , la jornada continuarà a La Tintoreria amb el Sopar Reputicànticus , un sopar cantat. Organitza: Òmnium Cultural",
-      "url": "https://www.olotcultura.cat/agenda/acte/correllengua-a-olot-apropament-a-la-persona-i-lobra-de-josep-m-espinas-duplicate-1/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-10",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "16:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-238867154c21",
-      "title": "Me'n vaig!",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9675.jpeg?w=1500&aoe=1&q=80&h=1000&sx=0&sy=104.49&sw=1486.52&sh=991.01",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Autoria: Carles Sans / Direcció: Jose Corbacho i Carles Sans / Actor: Carles Sans Si en el meu primer espectacle Per Fi Sol! van venir 150.000 espectadors a veure’m i tots van riure entre quatre i cinc vegades per minut, en el meu nou espectacle Me’n vaig! , m’he proposat el repte de superar-lo explicant històries quotidianes, particularitats de la meva vida diària, impressions sobre les petites coses que, des de la meva peculiar manera de veure-les i explicar-les, les he transformat en històries hilarants i plenes de tendresa amb les què pretenc que el públic rigui dues o tres vegades més per minut que en l’espectacle anterior. I per què Per fi me’n vaig ? Perquè per prescripció pròpia he decidit que potser no seria mala idea canviar els escenaris per una hamaca enfront del mar i a l’espera que un clam popular demani el meu retorn immediat als escenaris. Però per si això no passa, jo no em perdria aquest nou espectacle, l’objectiu principal del qual continua sent el mateix des que vaig començar fa quaranta-cinc anys: Fer riure a tots els que vinguin a veure’m i que surtin del teatre amb ganes de tornar una altra vegada.",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34114-per-fi-men-vaig.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-10",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-c94ae74b4b49",
-      "title": "Taller d’espelmes naturals i aromateràpia",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/taller-espelmes.jpg",
-      "municipality": "Olot",
-      "venue": "Museu dels Sants",
-      "category": null,
-      "description": "Elaborarem una espelma natural de dues metxes, lliure de tòxics amb diferents decoracions de plantes, presentacions, olis essencials per donar aroma o colorants naturals, amb ingredients de qualitat i no perjudicials. Un cop feta l’espelma, dedicarem uns minuts a una pràctica de relaxació amb olis essencials. Organitza: Museu dels Sants i la Iera Amb el suport de la Diputació de Girona i del Departament de Cultura de la Generalitat.",
-      "url": "https://www.olotcultura.cat/agenda/acte/taller-despelmes-naturals-i-aromaterapia-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-10",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-25d694e39946",
-      "title": "Taller familiar: Laboratori de mons volcànics",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Laboratori-de-mons-volcanics.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Què fa tan especials els volcans de la Garrotxa? En aquest taller explorarem les formes, els colors i els elements que caracteritzen el nostre paisatge volcànic. A partir d’aquesta descoberta, crearem els nostres minimons volcànics, un espai on imaginar, experimentar i crear les nostres històries volcàniques. Edat recomanada: Famílies amb infants amb edats entre 4 i 8 anys. Organitza: Espai Cràter",
-      "url": "https://www.olotcultura.cat/agenda/acte/laboratori-de-mons-volcanics/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-10",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-c4752ad2eb10",
-      "title": "Vermut musical: Strip",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Strip-1.jpg",
-      "municipality": "Olot",
-      "venue": "La Volianna del Parc Nou",
-      "category": null,
-      "description": "Vermut musical a La Volianna del Parc Nou amb Strip, un duet nascut el 2022 format per Tutu Danés (veu) i Marc Sànchez (guitarra i veus) que ofereix un ampli repertori de versions acústiques de clàssics del rock dels anys seixanta, setanta i vuitanta. Strip redescobreix temes d’artistes tant diversos com The Beatles, Rod Stewart o Joe Cocker entre molts d’altres, oferint una visió personal i divertida. Organitza: La Volianna del Parc Nou",
-      "url": "https://www.olotcultura.cat/agenda/acte/strip-3/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-10",
-      "date_end": "2026-10-10",
-      "sessions": [
-        {
-          "date": "2026-10-10",
-          "time": "12:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-93ffccb50ab8",
       "title": "Contacontes: “Pedra pedreta”",
@@ -548,7 +434,7 @@
       "sessions": [
         {
           "date": "2026-10-23",
-          "time": "19:00"
+          "time": "20:00"
         }
       ]
     },
@@ -643,7 +529,7 @@
       "sessions": [
         {
           "date": "2026-10-24",
-          "time": "19:00"
+          "time": "20:00"
         }
       ]
     },
@@ -1042,7 +928,7 @@
       "sessions": [
         {
           "date": "2026-11-01",
-          "time": "10:00"
+          "time": "17:30"
         }
       ]
     },
@@ -2315,7 +2201,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "10:00"
+          "time": "17:30"
         }
       ]
     },
@@ -2818,24 +2704,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 21,
-      "events_published": 21,
+      "events_found": 20,
+      "events_published": 20,
       "rejected_no_valid_image": 0,
-      "with_image": 21,
-      "with_sessions": 21,
+      "with_image": 20,
+      "with_sessions": 20,
       "with_venue": 0,
-      "with_municipality": 21
+      "with_municipality": 20
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 120,
-      "events_published": 120,
+      "events_found": 115,
+      "events_published": 115,
       "rejected_no_valid_image": 0,
-      "with_image": 120,
-      "with_sessions": 120,
-      "with_venue": 120,
-      "with_municipality": 120
+      "with_image": 115,
+      "with_sessions": 115,
+      "with_venue": 115,
+      "with_municipality": 115
     },
     {
       "connector": "connectors.celra",
