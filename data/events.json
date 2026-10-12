@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-10-11T04:39:56.061915+00:00",
+  "generated_at": "2026-10-12T04:44:38.537530+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-93ffccb50ab8",
-      "title": "Contacontes: “Pedra pedreta”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Pedra-pedreta-2.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Què pot arribar a ser una pedra? Quin tacte té la sorra? Fa olor la terra? A través de cançons, sons, objectes i titelles creats amb materials vinculats a la terra, aquesta proposta de petit format convida els més menuts a descobrir el món amb tots els sentits. Inspirada en el conte Pedra , de Marianna Coppo, la sessió neix del joc i la imaginació, transformant les pedres en personatges. Un contacontes ple de creativitat, música i proximitat per gaudir en família. Edat recomanada: infants d’entre 18 mesos i 6 anys. Aquesta activitat forma part de Cràter Obert , la programació especial de l’Espai Cràter que durant el mes d’octubre apropa la vulcanologia i el territori a tots els públics a través d’activitats divulgatives i participatives. Organitza: Espai Cràter",
-      "url": "https://www.olotcultura.cat/agenda/acte/contacontes-pedra-pedreta/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-11",
-      "date_end": "2026-10-11",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "11:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-2b84152ccddc",
-      "title": "El Grúfal i la filla del Grúfal",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9713.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Un ratolí passeja alegrement pel bosc. Té molta gana, així que decideix anar a buscar avellanes per atipar-se’n. Pel camí es troba amb una guineu, un mussol i una serp tan afamats com ell. Tots tres el volen convidar a dinar a casa seva, però el ratolí, que no es fia pas de les seves intencions, molt amablement declina les invitacions perquè ha quedat amb… el grúfal! Però què és un grúfal? Descobreix l’encantador món del Grúfal i de la seva petita filla, la Grufaleta…Dues aventures plenes de tendresa i valors, best-sellers de l’escriptora Julia Donaldson, referent de la literatura infantil moderna.",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34146-el-grufal-i-la-filla-del-grufal.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-10-11",
-      "date_end": "2026-10-11",
-      "sessions": [
-        {
-          "date": "2026-10-11",
-          "time": "17:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-54b9a7d35f40",
       "title": "Introducció a la intel.ligència artificial sense por",
@@ -1327,7 +1289,7 @@
       "sessions": [
         {
           "date": "2026-11-13",
-          "time": "11:00"
+          "time": "19:00"
         }
       ]
     },
@@ -1812,7 +1774,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9885.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Biblioteca",
+      "category": "Música",
       "description": "Taller de papiroflèxia per a la creació de flors fetes amb papiroflèxia. A càrrec de Vidalfont Paper. Organitza: Museu Darder de Banyoles, Ajuntament de Banyoles Amb el suport de: Diputació de Girona, Generalitat de Catalunya. Departament de Cultura",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34168-pleguem-flors.html",
       "source": "Cultura Banyoles",
@@ -2344,7 +2306,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9884.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Biblioteca",
+      "category": "Música",
       "description": "Taller de papiroflèxia per a la creació i decoració d’insectes i altres invertebrats fets amb papiroflèxia. A càrrec de Vidalfont Paper. Organitza: Museu Darder de Banyoles, Ajuntament de Banyoles. Amb el suport de: Diputació de Girona, Generalitat de Catalunya. Departament de Cultura.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34169-pleguem-cuques.html",
       "source": "Cultura Banyoles",
@@ -2704,24 +2666,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 20,
-      "events_published": 20,
+      "events_found": 19,
+      "events_published": 19,
       "rejected_no_valid_image": 0,
-      "with_image": 20,
-      "with_sessions": 20,
+      "with_image": 19,
+      "with_sessions": 19,
       "with_venue": 0,
-      "with_municipality": 20
+      "with_municipality": 19
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 115,
-      "events_published": 115,
+      "events_found": 114,
+      "events_published": 114,
       "rejected_no_valid_image": 0,
-      "with_image": 115,
-      "with_sessions": 115,
-      "with_venue": 115,
-      "with_municipality": 115
+      "with_image": 114,
+      "with_sessions": 114,
+      "with_venue": 114,
+      "with_municipality": 114
     },
     {
       "connector": "connectors.celra",
