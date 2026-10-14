@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:46:14.985601+00:00",
+  "generated_at": "2026-10-14T04:55:10.993202+00:00",
   "events": [
     {
       "id": "Olot Cultura-54b9a7d35f40",
@@ -610,6 +610,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-ca178190f996",
+      "title": "Local Crazy Rockers",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Local-crazy-rockers.jpg",
+      "municipality": "Olot",
+      "venue": "Sala El Torín",
+      "category": null,
+      "description": "Local Crazy Rockers és una banda formada per quatre joves catalans apassionats pel rockabilly i el rock-and-roll. Últim concert de la gira d’estiu, durant la qual ha presentat el seu primer disc, Young and Wild . El seu repertori combina temes propis amb grans clàssics del gènere, recuperant l’essència d’artistes com Carl Perkins, Jerry Lee Lewis, Gene Vincent o Crazy Cavan. Un concert ple de ritme i energia per ballar i reviure els sons dels inicis del rock-and-roll. Organitza: Local Crazy Rockers",
+      "url": "https://www.olotcultura.cat/agenda/acte/local-crazy-rockers/",
+      "source": "Olot Cultura",
+      "date_start": "2026-10-25",
+      "date_end": "2026-10-25",
+      "sessions": [
+        {
+          "date": "2026-10-25",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
       "id": "Cultura Banyoles-d25ab0b95138",
       "title": "Festa de la música per a cobla",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9899.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -1023,7 +1042,7 @@
       "sessions": [
         {
           "date": "2026-11-06",
-          "time": "18:00"
+          "time": "19:00"
         }
       ]
     },
@@ -1332,6 +1351,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-435b67f6759e",
+      "title": "“Mukhbe”, de Jordi Riberygua",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Mukhre.jpg",
+      "municipality": "Olot",
+      "venue": "Centre Excursionista Olot",
+      "category": null,
+      "description": "Mukhbe segueix la història d’un grup d’esquiadors andorrans que emprèn un viatge a Geòrgia per explorar les seves muntanyes i la seva cultura. El film captura l’essència de l’aventura, combinant esport i descoberta cultural, enmig d’uns paisatges de neu espectaculars. El documental retrata la tradició pirinenca, la cultura de muntanya i la pràctica de l’esquí com a estil de vida. En acabar la projecció, el públic podrà conversar amb el seu director , Jordi Riberaygua. Del 9 al 16 de novembre, Jordi Riberaygua farà una estada a la residència Faberllull Olot per escriure el preàmbul d’una futura peça audiovisual. Organitza: Residència Faberllull Olot i Centre Excursionista d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/mukhbe-de-jordi-riberygua/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-13",
+      "date_end": "2026-11-13",
+      "sessions": [
+        {
+          "date": "2026-11-13",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-699fb5f4eb39",
       "title": "Alter",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-14-alter.jpg",
@@ -1385,6 +1423,25 @@
         {
           "date": "2026-11-14",
           "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-0fb25243bce3",
+      "title": "Joana Cera i Bernad. Quan les coses apareixen",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Joana-Cera-i-Bernad.jpg",
+      "municipality": "Olot",
+      "venue": "Vayreda Fundació",
+      "category": null,
+      "description": "Xerrada amb Joana Cera i Bernad en el marc de l’ exposició que li dedica dins del cicle Verònica. Dones visionàries . L’activitat complementa la mostra, comissariada per Natàlia Chocarro, que explora les relacions entre allò visible i allò intangible, la matèria i la idea, la presència i l’absència. Organitza: Vayreda Fundació",
+      "url": "https://www.olotcultura.cat/agenda/acte/joana-cera-i-bernad-quan-les-coses-apareixen/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-14",
+      "date_end": "2026-11-14",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "12:00"
         }
       ]
     },
@@ -2529,6 +2586,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-3e384c6f05d5",
+      "title": "Joana Cera i Bernad",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Joana-Cera-i-Bernad.jpg",
+      "municipality": "Olot",
+      "venue": "Vayreda Fundació",
+      "category": null,
+      "description": "HORARI D'OBERTURA: Divendres de 17 a 20 h. Dissabtes d'11 a 14 h i de 17 a 20 h. Diumenges i festius d'11 a 14 h.",
+      "url": "https://www.olotcultura.cat/agenda/acte/joana-cera-i-bernad/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-20",
+      "date_end": "2026-12-20",
+      "sessions": [
+        {
+          "date": "2026-12-20",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-d800bd955979",
       "title": "Laboratori de mons volcànics",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Laboratori-de-mons-volcanics.jpg",
@@ -2677,13 +2753,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 114,
-      "events_published": 114,
+      "events_found": 118,
+      "events_published": 118,
       "rejected_no_valid_image": 0,
-      "with_image": 114,
-      "with_sessions": 114,
-      "with_venue": 114,
-      "with_municipality": 114
+      "with_image": 118,
+      "with_sessions": 118,
+      "with_venue": 118,
+      "with_municipality": 118
     },
     {
       "connector": "connectors.celra",
