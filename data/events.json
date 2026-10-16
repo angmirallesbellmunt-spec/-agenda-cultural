@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-15T04:53:51.336258+00:00",
+  "generated_at": "2026-10-16T04:55:11.416726+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-1f087200b214",
-      "title": "Presentació del llibre: “El cor de les meves tetes”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/El-cor-de-les-meves-tetes.jpg",
-      "municipality": "Olot",
-      "venue": "Hospital d’Olot i comarcal de la Garrotxa",
-      "category": null,
-      "description": "El cor de les meves tetes és un relat personal i valent que parteix de l’experiència vital de l’autora, Neus Martí, amb el càncer. El llibre explica el moment en què Neus Martí es descobreix un bony al pit i com aquest fet reactiva tot el pes del seu passat familiar. Seguidament, s’inaugurarà una exposició que trasllada al llenguatge artístic alguns dels continguts del llibre. Organitza: Fundació Hospital d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-llibre-el-cor-de-les-meves-tetes/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-15",
-      "date_end": "2026-10-15",
-      "sessions": [
-        {
-          "date": "2026-10-15",
-          "time": "19:00"
-        }
-      ]
-    },
     {
       "id": "Cultura Banyoles-7d20fafc3c9e",
       "title": "\"Serenatat\" - La Principal de la Bisbal",
@@ -2829,13 +2810,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 122,
-      "events_published": 122,
+      "events_found": 121,
+      "events_published": 121,
       "rejected_no_valid_image": 0,
-      "with_image": 122,
-      "with_sessions": 122,
-      "with_venue": 122,
-      "with_municipality": 122
+      "with_image": 121,
+      "with_sessions": 121,
+      "with_venue": 121,
+      "with_municipality": 121
     },
     {
       "connector": "connectors.celra",
