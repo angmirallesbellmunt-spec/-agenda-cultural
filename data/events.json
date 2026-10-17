@@ -1,63 +1,6 @@
 {
-  "generated_at": "2026-10-16T04:55:11.416726+00:00",
+  "generated_at": "2026-10-17T04:52:39.387469+00:00",
   "events": [
-    {
-      "id": "Cultura Banyoles-7d20fafc3c9e",
-      "title": "\"Serenatat\" - La Principal de la Bisbal",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9718.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "La Principal de la Bisbal es complau a oferir-los l’espectacle SERENATAT.cat, centrada en música popular, tant d’autor com tradicional. Al programa hi trobem diferents estils: obres líriques, temes standard, cançons populars, nova cançó i música instrumental dels nostres clàssics. Un repertori que sens dubte reflecteix l’esperit del nostre país així com la diversitat d’estètiques de la seva música. Aquesta proposta de concert sorgeix del projecte “La Principal acústica” amb el qual, La Principal de la Bisbal vol rememorar els històrics concerts de finals de segle XIX, anomenats popularment LES SERENATES. Concert emmarcat en el cicle de concerts de Música de Cobla de la Diputació de Girona. Amb la col·laboració de la Diputació de Girona.",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34148-serenatat.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-10-16",
-      "date_end": "2026-10-16",
-      "sessions": [
-        {
-          "date": "2026-10-16",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-42f2dcbc6289",
-      "title": "L’últim àtom",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-16-lultim-atom.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Una tragicomèdia apocalíptica al més pur estil Jordi Oriol El present ha imposat un ultimàtum a la humanitat si de veritat vol tenir futur. Mentre un gabinet científic convocat d’urgència dissenya un pla per respondre a la desintegració de la matèria que permet la vida humana, dos germans s’enfronten a la pèrdua del llenguatge que pateix el seu pare, amb la convicció que tot allò que deixa d’anomenar-se deixa d’existir. Una història de números explicada amb lletres. Terrenal, però amb el cap als núvols. Autoria i direcció: Jordi Oriol Amb: Joan Carreras, Mia Esteve, Paula Malia, Carles Pedragosa Torres i Lara Segur Espai escènic i vestuari: Sílvia Delagneau González i Max Glaenzel Ribas Ajudant d’espai escènic i vestuari: Camille Latron i Llorens Música: Carles Pedragosa Torres Il·luminació: David Bofarull Ajudant d’il·luminació: Oriol Mestre Espai sonor: Rai Segura Raspall Projeccions: Marc Permanyer Conde",
-      "url": "https://www.olotcultura.cat/agenda/acte/lultim-atom/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-16",
-      "date_end": "2026-10-16",
-      "sessions": [
-        {
-          "date": "2026-10-16",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-16d5229d25f3",
-      "title": "Què hi ha de cert en el que sabem sobre els volcans? De llegendes urbanes a notícies falses",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Volcans-Meritxell-Aulinas.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "En aquesta xerrada desmuntarem alguns dels mites més estesos sobre els volcans, des de les imatges espectaculars de Hollywood fins a la desinformació que circula per les xarxes socials. Analitzarem l’origen d’algunes de les creences populars i de les concepcions errònies més freqüents, i aprendrem a distingir la ficció de la realitat geològica. Una xerrada clara i accessible, adreçada a tots els públics, que convida a qüestionar l’alarmisme i a descobrir com funcionen realment les erupcions volcàniques. Aquesta activitat forma part de Cràter Obert , la programació especial de l’Espai Cràter que durant el mes d’octubre apropa la vulcanologia i el territori a tots els públics a través d’activitats divulgatives i participatives. Organitza: SIGMA, Espai Cràter i PEHOC. Amb la col·laboració de: PN Garrotxa",
-      "url": "https://www.olotcultura.cat/agenda/acte/que-hi-ha-de-cert-en-el-que-sabem-sobre-els-volcans-de-llegendes-urbanes-a-noticies-falses/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-16",
-      "date_end": "2026-10-16",
-      "sessions": [
-        {
-          "date": "2026-10-16",
-          "time": "19:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-a01249900a7e",
       "title": "Basalt",
@@ -74,44 +17,6 @@
         {
           "date": "2026-10-17",
           "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-fecff7848f17",
-      "title": "Book Music Festival d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Book-Music-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Hospici",
-      "category": null,
-      "description": "Book Music Festival , una fira especialitzada en literatura musical que reunirà llibres, autors, músics i professionals del sector a través de presentacions, converses i concerts. 10 h – 10.30 h Benvinguda al BOOK MUSIC OLOT – Ramon Moreno, Cris de Fortuny, Josep Quintana (Regidor de Cultura d’Olot), Jaume Massaguer 10.30 h – 11 h Presentació de: Associació “El Rantell” – Xerrada al voltant de l’Associació i Cultural “El Rantell” 11 h – 11.45 h Presentació del llibre: “La còsmica del caos” – Presentat per l’autor: Eduard Canimas 12 h – 13.30 h Sessió-Vermut d’Òscar Nin: “els seus millors 10 discos i 10 llibres musicals” – Òscar Nin és periodista, locutor i col·leccionista de llibres i discos. 16 h – 17 h Presentació del llibre: “Per sempre, mai més”. – Presentat per l’autor: Francesc Borrell Ros 17 h – 17.45 h Presentació del llibre: “Rock i altres ritmes” – Presentat per l’autor: Xavier Castillón 18 h – 18.45 h Presentació del llibre: Còmic “Vida y Obra de un Titiritero” – Presentat per l’autor: Enric Montefusco. Cantant de Stanstill 19 h – 20 h Concert en “acústic” d’Enric Montefusco Organitza: Book Music Festival",
-      "url": "https://www.olotcultura.cat/agenda/acte/book-music-festival-dolot/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-e430577b5e20",
-      "title": "EL CERCLE: cultura de club i música electrònica",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/El-cercle-sessio-1-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Club Stromboli",
-      "category": null,
-      "description": "Torna El Cercle amb una nova temporada dedicada a la cultura de club i la música electrònica a Olot. Una programació que connecta artistes locals i convidats i reivindica la pista com un espai per descobrir, compartir i viure cada sessió com un viatge complet, des del warm-up fins al final. La primera sessió comptarà amb Claudi Komm , DJ garrotxí actiu des de finals dels noranta, amb sessions que es mouen entre el tech house i el techno , i Aitor Baena , amb més de 25 anys de trajectòria i una proposta que combina techno , tech house i house . Organitza: EL CERCLE",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-cercle-cultura-de-club-i-musica-electronica-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "20:00"
         }
       ]
     },
@@ -1047,6 +952,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-f1816578ad2e",
+      "title": "Premis ENFooCA 2026",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/premis-enfooca-2026.jpg",
+      "municipality": "Olot",
+      "venue": "Espai Cràter",
+      "category": null,
+      "description": "El projecte guanyador dels premis ENFooCA 2026, “Els habitants de la nit”, d’Arnau Soler i Aina Rossinyol, ens convida a descobrir la fauna nocturna de la Garrotxa a través de la mirada de dos biòlegs especialitzats en fotografia de natura. El treball és el resultat de nombroses sortides de camp amb investigadors i especialistes que estudien la biodiversitat del nostre territori. Durant l’acte es presentarà el projecte becat i s’inaugurarà l’exposició Els habitants de la nit , una proposta que vol acostar al públic un món tan fascinant com sovint desconegut. Es comptarà també amb la conferència del reconegut fotògraf de natura i viatges Oriol Alamany. Organitza: Associació ENFooCA i Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/premis-enfooca-2026/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-06",
+      "date_end": "2026-11-06",
+      "sessions": [
+        {
+          "date": "2026-11-06",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-cbf5361e0be1",
       "title": "Xerrada amb els Esplais de la Garrotxa i l’Agrupament Nostra dona del Tura",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Altrart.jpg",
@@ -1148,7 +1072,7 @@
       "municipality": "Banyoles",
       "venue": null,
       "category": "Música",
-      "description": "Música Antiga de Girona, en el seu projecte de rescat de partitures de l’arxiu musical de la Catedral de Girona, dedica el seu 25è aniversari al barceloní Domènec Arquimbau, que fou mestre de capella de la seu gironina entre 1785 i 1789. I ho fa recuperant la seva Missa a 5 i uns Goigs de Sant Martirià, patró de Banyoles. El concert se celebrarà en un edifici contemporani d’Arquimbau, l’església del Remei o Sant Pere de Guèmol, de 1803. Nat el 1757, educat a la catedral de Barcelona on va conèixer la música napolitana que triomfava a Europa aleshores. Mestre de capella substitut d’aquesta catedral, després va passar a ser mestre de cant de Torroella de Montgrí -la parròquia d’aquesta vila no era prou rica com per mantenir instrumentistes- i d’aquí va passar a Girona, on va romandre de 1785 al 1789. Un vilancet composat per a la nit de Nadal de 1789 amb el títol provocatiu de “Si Apolo me inspirara” va facilitar-li el guanyar les oposicions a la catedral de Sevilla oposicions a les que va presentar aquest vilancet. Morí en aquesta ciutat el 1828. El catàleg d’obres seves conservades supera les 300, i a Girona se’n conserven 37, de les quals 5 són goigs i un d’ells va dedicat a Sant. Martirià. Els goigs catalans són els únics que a tota Europa han perviscut des de l’edat mitja. Durant gairebé un segle van ser substituïts pels vilancets d’origen castellà, però amb Arquimbau recuperen pràcticament la seva antiga popularitat. El seu estil musical abandona la complexitat melòdica i l’estructura policoral barroca per acceptar la claredat melòdica i la seva preferència per l’homofonia de les veus, tot utilitzant instruments nous – la gamma dels violins i violes- que permeten accentuar les tensions dramàtiques. A les 18:30 h: Presentació del concert a càrrec de Jaume Pinyol, historiador, especialista en música antiga i president de l'associació Música Antiga de Girona Organitza: Joventuts Musicals de Banyoles En conveni: Ajuntament de Banyoles",
+      "description": "Música Antiga de Girona, en el seu projecte de rescat de partitures de l’arxiu musical de la Catedral de Girona, dedica el seu 25è aniversari al barceloní Domènec Arquimbau, que fou mestre de capella de la seu gironina entre 1785 i 1789. I ho fa recuperant la seva Missa a 5 i uns Goigs de Sant Martirià, patró de Banyoles. El concert se celebrarà a l’església del Monestir de Sant Esteve de Banyoles, on es guarden les relíquies de Sant Martirià i a on probablement es van interpretar per primer cop aquests Goigs. Nat el 1757, educat a la catedral de Barcelona on va conèixer la música napolitana que triomfava a Europa aleshores. Mestre de capella substitut d’aquesta catedral, després va passar a ser mestre de cant de Torroella de Montgrí -la parròquia d’aquesta vila no era prou rica com per mantenir instrumentistes- i d’aquí va passar a Girona, on va romandre de 1785 al 1789. Un vilancet composat per a la nit de Nadal de 1789 amb el títol provocatiu de “Si Apolo me inspirara” va facilitar-li el guanyar les oposicions a la catedral de Sevilla oposicions a les que va presentar aquest vilancet. Morí en aquesta ciutat el 1828. El catàleg d’obres seves conservades supera les 300, i a Girona se’n conserven 37, de les quals 5 són goigs i un d’ells va dedicat a Sant. Martirià. Els goigs catalans són els únics que a tota Europa han perviscut des de l’edat mitja. Durant gairebé un segle van ser substituïts pels vilancets d’origen castellà, però amb Arquimbau recuperen pràcticament la seva antiga popularitat. El seu estil musical abandona la complexitat melòdica i l’estructura policoral barroca per acceptar la claredat melòdica i la seva preferència per l’homofonia de les veus, tot utilitzant instruments nous – la gamma dels violins i violes- que permeten accentuar les tensions dramàtiques. A les 18:30 h: Presentació del concert a càrrec de Jaume Pinyol, historiador, especialista en música antiga i president de l'associació Música Antiga de Girona PROGRAMA Domènec Arquimbau (1757-1828): Missa a 5 * Domènec Arquimbau: Goigs de Sant Martirià * * Estrena en època moderna INTÈRPRETS Música Antiga de Girona Adriana Alcaide i Cristina Altemir, violí; Alcazo Ivan i Laura Villar, oboè; Pepe Reche i Renske Wijma, trompa; Daniel Regincós, violoncel; Oriol Casadevall, contrabaix; Laia Frigolé i Lorena Garcia, sopranos; Hugo Bolívar, contratenor; David Hernández, tenor; Oriol Mallart, baix. Marc Díaz, director i orgue positiu Organitza: Joventuts Musicals de Banyoles En conveni: Ajuntament de Banyoles",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34166-musica-antiga-de-girona.html",
       "source": "Cultura Banyoles",
       "date_start": "2026-11-08",
@@ -1636,6 +1560,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-fa7694f9b1c5",
+      "title": "Hi ha algú allà a fora? La cerca de la vida extraterrestre",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/hi-ha-algu-alla-a-fora.jpg",
+      "municipality": "Olot",
+      "venue": "Espai Cràter",
+      "category": null,
+      "description": "La recerca de vida extraterrestre viu un moment apassionant. Des de l’exploració de Mart i dels oceans amagats sota el gel de diverses llunes del Sistema Solar fins a l’estudi d’exoplanetes potencialment habitables i la cerca de senyals de civilitzacions llunyanes en el marc de SETI, descobrirem quines pistes busquem, quines eines tenim i fins a quin punt som a prop de respondre una de les grans preguntes de la ciència. Aquesta xerrada forma part del Cicle Els Grans Interrogants de la Ciència . Organitza: SIGMA, Espai Cràter i PEHOC. Amb la col·laboració de: PN Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/hi-ha-algu-alla-a-fora-la-cerca-de-la-vida-extraterrestre/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-20",
+      "date_end": "2026-11-20",
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
       "id": "Cultura Banyoles-667361afee01",
       "title": "Tanit",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9923.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -1689,6 +1632,25 @@
         {
           "date": "2026-11-21",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b2000fbca7c9",
+      "title": "Memorial Maria del Tura de Bolòs i Capdevila",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/memorial-maria-del-tura-de-bolos.jpg",
+      "municipality": "Olot",
+      "venue": "Espai Cràter",
+      "category": null,
+      "description": "En el centenari del naixement de la geògrafa olotina Maria del Tura de Bolòs (1926-2026), aquesta jornada reivindica la seva figura i el seu llegat científic. A través de diverses ponències, familiars, investigadors i representants d’institucions acadèmiques aprofundiran en la seva trajectòria i aportació al coneixement del territori. La jornada inclourà també la presentació del llibre Investigadores, pioneres i activistes pel medi ambient a Catalunya. Organitza: Espai Cràter i Parc Natural de la Zona Volcànica de la Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/memorial-maria-del-tura-de-bolos-i-capdevila/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-21",
+      "date_end": "2026-11-21",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "10:00"
         }
       ]
     },
@@ -2799,24 +2761,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 19,
-      "events_published": 19,
+      "events_found": 18,
+      "events_published": 18,
       "rejected_no_valid_image": 0,
-      "with_image": 19,
-      "with_sessions": 19,
+      "with_image": 18,
+      "with_sessions": 18,
       "with_venue": 0,
-      "with_municipality": 19
+      "with_municipality": 18
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 121,
-      "events_published": 121,
+      "events_found": 120,
+      "events_published": 120,
       "rejected_no_valid_image": 0,
-      "with_image": 121,
-      "with_sessions": 121,
-      "with_venue": 121,
-      "with_municipality": 121
+      "with_image": 120,
+      "with_sessions": 120,
+      "with_venue": 120,
+      "with_municipality": 120
     },
     {
       "connector": "connectors.celra",
