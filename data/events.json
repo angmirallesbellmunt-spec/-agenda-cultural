@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-10-17T04:52:39.387469+00:00",
+  "generated_at": "2026-10-18T04:52:10.212451+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-a01249900a7e",
-      "title": "Basalt",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/AGENDA.jpg",
-      "municipality": "Olot",
-      "venue": "Olot",
-      "category": null,
-      "description": "PROGRAMACIÓ DEL DIA 17 A OLOT 17 h. Orfeó Popular Olotí Taula rodona: Això no és un iogurt Amb Esperança Camps (La Draga, Llibres del Delicte), Silvestre Vilaplana (Àngels de la Mort, Crims.cat), Cristina Malagelada (Les pedres escrites, Llibres del delicte). Modera: Núria Martínez. 18.15. Orfeó Popular Olotí Taula rodona: Crear lectors matant Amb Cesc Cornet, Oriol Canals i Laia Vilaseca. Modera: Sebastià Bennasar. 19.45. Sortida del bus negre 20 h. Ruta literària criminal amb textos de la novel·la Sang de Senglar de Daniel Harris. Trasllat fins a La Canova en autobús i trasllat des de can Xel en autobús. Amb textos de la novel·la Sang de Senglar de Daniel Harris. Si veniu a fer la passejada nocturna per la zona volcànica, agafarem un bus col.lectiu, sense cost, que ens durà fins a la Canova. L’hora de sortida del bus, des de l’estació de la TEISA, serà a les 19.45 h. El mateix bus ens tornarà a la Teisa a les 23.30h. 20 h. Sopar negre a Can Xel Sopar i Bingo negre. Cal inscripció, 28 euros per persona. 00 h. Tornada del bus negre El festival Basalt està comissariat per Sebastià Benassar i Marible Torres. També se celebra el dia 16, 17 i 18 d’octubre a La Vall d’en Bas, a Sant Feliu de Pallerols i a Sant Jaume de Llierca Consulta el web del festival Basalt Organitza: LITTERAE, Associació Cultural per potenciar autors en llengua catalana",
-      "url": "https://www.olotcultura.cat/agenda/acte/basalt-2026/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Celrà Cultura-5ff55ab27bab",
-      "title": "Frutal",
-      "image": "https://www.celracultura.cat/img/image/fotos/1939.jpeg?w=1200&aoe=1&q=80&h=800&sx=33.71&sy=29.97&sw=1535.89&sh=1023.93",
-      "municipality": "Celrà",
-      "venue": "Teatre L'Ateneu",
-      "category": "Teatre",
-      "description": "Sovint un procés oncològic t'estronca el moviment de la vida. Frutal és la visió còmica i molt personal d'una pacient de càncer de mama. Frutal és un experiment. Frutal és una reivindicació. És un moviment fruit del deliri. Fruit d'un món paral·lel. Frutal també vol ser un granet de sorra. Part dels beneficis de l'espectacle van destinats a ajudar pacients amb càncer.",
-      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/687-frutal.html",
-      "source": "Celrà Cultura",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-ea37613c3fef",
-      "title": "Pedra seca i paisatge al Parc Natural de la Zona Volcànica de la Garrotxa. Coneix el patrimoni del Bosc de Tosca amb la Wikipedra",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/pedra-tosca.jpg",
-      "municipality": "Olot",
-      "venue": "Local Social de Bosc de Tosca",
-      "category": null,
-      "description": "En una primera part, Emili Bassols, del Parc Natural de la Zona Volcànica de la Garrotxa, explicarà el patrimoni natural i cultural del Bosc de Tosca. Seguidament, Jordi Grau Oliveras, de l’Observatori del Paisatge de Catalunya, parlarà del projecte Wikipedra en el marc dels 15 anys del projecte. A continuació, es farà una sortida de descoberta del patrimoni de pedra seca amagat del Bosc de Tosca, dirigit per Joan Montserrat, també tècnic del PNZVG. En el recorregut s’aniran inventarianl es construccions que es vagin trobant, amb l’app Wikipedra. Més informació i inscripcions en aquest enllaç.",
-      "url": "https://www.olotcultura.cat/agenda/acte/pedra-seca-i-paisatge-al-parc-natural-de-la-zona-volcanica-de-la-garrotxa-coneix-el-patrimoni-del-bosc-de-tosca-amb-la-wikipedra/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-fc6cefac74f5",
-      "title": "Xou Impro",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/XOU-IMPRO.jpg",
-      "municipality": "Olot",
-      "venue": "Els Catòlics",
-      "category": null,
-      "description": "Un espectacle d’improvisació que s’endinsa en l’univers de les petites històries creades al moment. El públic hi té un paper essencial: a partir de les frases que escriuen els espectadors, els artistes s’inspiren per donar vida a esquetxos improvisats, plens d’humor i agilitat . Cada funció neix i desapareix en el mateix instant, fent de cada xou una experiència única i irrepetible en connexió directa amb el públic. Organitza: Festival Improvist",
-      "url": "https://www.olotcultura.cat/agenda/acte/xou-impro-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-17",
-      "date_end": "2026-10-17",
-      "sessions": [
-        {
-          "date": "2026-10-17",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-a0542c8f0247",
-      "title": "Book Music Festival d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Book-Music-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Hospici",
-      "category": null,
-      "description": "Book Music Festival , una fira especialitzada en literatura musical que reunirà llibres, autors, músics i professionals del sector a través de presentacions, converses i concerts. 11 h – 11.45 h Presentació de llibre: “Dylan i el Cinema” – Presentat per l’autor: Àngel Quintana 12 h – 12.45 h Presentació del llibre: “Pau Riba en 20 Cançons” – Presentat per l’autor i editor Ramon Moreno 13 h – 14 h Concert-Vermut: Ivette & Lluís “reinterpreten els Galàctics” – Versions de: Sisa, Pau Riba, Quimi Portet, Antònia Font 17 h – 18.30 h Concert de Grabu i amics, sota el títol: “La Garrotxa Sona”, amb Grabu, Agnès Algueró, Santa Mandra, entre d’altres … Organitza: Book Music Festival",
-      "url": "https://www.olotcultura.cat/agenda/acte/book-music-festival-dolot-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "11:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-e981d8a5a060",
       "title": "Capella Polifònica de Girona",
@@ -263,7 +168,7 @@
       "sessions": [
         {
           "date": "2026-10-23",
-          "time": "20:00"
+          "time": "18:00"
         }
       ]
     },
@@ -358,7 +263,7 @@
       "sessions": [
         {
           "date": "2026-10-24",
-          "time": "20:00"
+          "time": "18:00"
         }
       ]
     },
@@ -2772,24 +2677,24 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 120,
-      "events_published": 120,
+      "events_found": 116,
+      "events_published": 116,
       "rejected_no_valid_image": 0,
-      "with_image": 120,
-      "with_sessions": 120,
-      "with_venue": 120,
-      "with_municipality": 120
+      "with_image": 116,
+      "with_sessions": 116,
+      "with_venue": 116,
+      "with_municipality": 116
     },
     {
       "connector": "connectors.celra",
       "ok": true,
-      "events_found": 7,
-      "events_published": 7,
+      "events_found": 6,
+      "events_published": 6,
       "rejected_no_valid_image": 0,
-      "with_image": 7,
-      "with_sessions": 7,
-      "with_venue": 7,
-      "with_municipality": 7
+      "with_image": 6,
+      "with_sessions": 6,
+      "with_venue": 6,
+      "with_municipality": 6
     }
   ]
 }
