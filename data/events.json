@@ -1,120 +1,6 @@
 {
-  "generated_at": "2026-10-18T04:52:10.212451+00:00",
+  "generated_at": "2026-10-19T04:57:11.256284+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-e981d8a5a060",
-      "title": "Capella Polifònica de Girona",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-18-capella-polifonica.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Amb textos de Marià Vayreda, quaranta cantaires i la música tradicional catalana com a protagonista La Capella Polifònica de Girona presenta una proposta escènica i musical que parteix de textos de Marià Vayreda (Olot, 1853-1903) i de cançons d’arrel catalanes en una relectura contemporània de les polifonies tradicionals. La gran protagonista musical de l’espectacle és la cançó tradicional catalana, en versions i interludis instrumentals de nova creació compostos per Martí Ferrer, director de la Polifònica de Girona. L’espectacle porta a escena una actriu, els quaranta cantaires de la coral gironina i dos músics (acordió i contrabaix). La dramatúrgia, a partir de textos de Vayreda, principalment dels Records de la darrera carlinada , però també de La punyalada i d’altres relats breus, dona peu a experimentar noves formes de posar un cor a escena, mentre que la producció serveix al cor per fer un salt qualitatiu en el seu nivell artístic, arran de treballar amb direcció musical i escènica, actriu i músics professionals. Laura Casanovas (actriu) Pere Romaní (acordió) Pere Coma (contrabaix) Direcció escènica: Víctor Borràs Direcció musical: Martí Ferrer",
-      "url": "https://www.olotcultura.cat/agenda/acte/capella-polifonica-de-girona/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-7b3683c66268",
-      "title": "Diada sardanista",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2025/03/sardanes-colles.jpg",
-      "municipality": "Olot",
-      "venue": "Olot",
-      "category": null,
-      "description": "Programa: 11 h – Missa cantada a la Basílica de Sant Esteve 12 h – Ballada amb la cobla La Principal d’Olot, al Firal 18 h – Sardanes amb la cobla Principal de Banyoles, als Jardins de Can Xel Organitza: Agrupació Sardanista d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/diada-sardanista/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "11:00"
-        }
-      ]
-    },
-    {
-      "id": "Celrà Cultura-0daae9c42327",
-      "title": "Doppiozero",
-      "image": "https://www.celracultura.cat/img/image/fotos/1938.jpeg?w=1200&aoe=1&q=80&h=800&zc=1",
-      "municipality": "Celrà",
-      "venue": "Teatre L'Ateneu",
-      "category": "Teatre",
-      "description": "Ell és ingenu, distret i somiador, ella és pura energia, velocitat i moviment. Junts són com l'aigua i la farina, junts preparen pa en un dia que sembla simple i normal, com el pa de cada dia. Però en realitat és màgic i sorprenent, com ells dos.Tuli llegeix de cap per avall, suspès en un pal, Vroni munta amb bicicleta, pedalejant amb les mans i conduint amb els peus. Són divertits, tendres i surrealistes, pasten a quatre mans i mentre esperen que el pa s'aixequi i es cuini, ens regalen un viatge en el temps i en els sentiments... Acompanyats de cançons dels anys 50, notícies de ràdio i les ganes de viure que es respirava en els anys de la reconstrucció a Itàlia. de la mà i el convida a abandonar-se a la mirada de la infància que troba les seves paraules silencioses al circ contemporani.",
-      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/688-doppiozero.html",
-      "source": "Celrà Cultura",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-2e1cb317029a",
-      "title": "Eduard Canimas",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9663.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Després d’un temps de silenci, Eduard Canimas torna amb La còsmica del caos. Un llibre, disc i espectacle que convoca els personatges, les ombres i els dimonis que ens habiten. Un viatge musical i poètic per obrir escletxes de llum i reconnectar amb allò que ens sosté. Organitza: Alter Sinergies En conveni amb: Ajuntament de Banyoles",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34106-eduard-canimas.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-1ccf43602422",
-      "title": "MOUTHFEEL Coffee Shop",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/mouthfeel.jpg",
-      "municipality": "Olot",
-      "venue": "Els Catòlics",
-      "category": null,
-      "description": "L’Helena i l’Agustí són un matrimoni en crisi, fruit de la generació “boomer”. L’Helena és una dona activa, compromesa, adaptada al temps i proposa al seu marit fer teràpia de parella, la seva relació està enquistada en un carreró sense sortida. L’Agustí, es un tipus jubilat i convençut de que ho té tot fet a la vida, la proposta l’ha agafat a peu canviat. Abans d’entrar a la consulta, es troben al «coffeshop MOUTHFEEL» regentat per Jay, que es convertirà en el contrapunt objectiu i analític dels diàlegs de la parella mentre es prenen un cafè tot esperant que sigui l’hora de la sessió. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/mouthfeel-coffee-shop/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-e2d873b49dbf",
-      "title": "Mitxigan",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Mitxigan.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Venda d’entrades a l'Orfeó Popular Olotíla i a la Llibreria M. Antònia de Sant Esteve d’en Bas.",
-      "url": "https://www.olotcultura.cat/agenda/acte/mitxigan/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-18",
-      "date_end": "2026-10-18",
-      "sessions": [
-        {
-          "date": "2026-10-18",
-          "time": "20:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-7644a04e57e1",
       "title": "Hora del conte: Deu princesetes",
@@ -2666,35 +2552,35 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 18,
-      "events_published": 18,
+      "events_found": 17,
+      "events_published": 17,
       "rejected_no_valid_image": 0,
-      "with_image": 18,
-      "with_sessions": 18,
+      "with_image": 17,
+      "with_sessions": 17,
       "with_venue": 0,
-      "with_municipality": 18
+      "with_municipality": 17
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 116,
-      "events_published": 116,
+      "events_found": 112,
+      "events_published": 112,
       "rejected_no_valid_image": 0,
-      "with_image": 116,
-      "with_sessions": 116,
-      "with_venue": 116,
-      "with_municipality": 116
+      "with_image": 112,
+      "with_sessions": 112,
+      "with_venue": 112,
+      "with_municipality": 112
     },
     {
       "connector": "connectors.celra",
       "ok": true,
-      "events_found": 6,
-      "events_published": 6,
+      "events_found": 5,
+      "events_published": 5,
       "rejected_no_valid_image": 0,
-      "with_image": 6,
-      "with_sessions": 6,
-      "with_venue": 6,
-      "with_municipality": 6
+      "with_image": 5,
+      "with_sessions": 5,
+      "with_venue": 5,
+      "with_municipality": 5
     }
   ]
 }
