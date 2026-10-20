@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-19T04:57:11.256284+00:00",
+  "generated_at": "2026-10-20T04:54:51.682504+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-7644a04e57e1",
-      "title": "Hora del conte: Deu princesetes",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/3-4.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "Deu princesetes, totes a cavall, van al palau dels prínceps perquè avui hi ha ball. Però pel camí troben una filadora, un llop, un drac, un gegant, un trol i un munt de sorpreses més! Passaran por, viuran l’amor, i moltes aventures, i caminaran amb soledat. Aconseguiran arribar al ball?",
-      "url": "https://www.olotcultura.cat/agenda/acte/hora-del-conte-deu-princesetes/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-19",
-      "date_end": "2026-10-19",
-      "sessions": [
-        {
-          "date": "2026-10-19",
-          "time": "17:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-3ab29607f2df",
       "title": "Maria Mercè Marçal – Autors comentats",
@@ -1294,25 +1275,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-1c96ea2ae94c",
-      "title": "Taller d’il·lustració: creem personatges fantàstics",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Creem-personatges-fantastics-1.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "Com es crea un personatge fantàstic? D’on surten les idees sobre quina forma tenen aquests éssers màgics? La il·lustradora Anna Aparicio proposa als infants que creïn conjuntament diferents personatges fantàstics. Un dels participants dibuixarà el cap, l’altre el cos i l’altre les cames d’aquest ésser inventat. Ho faran sense saber com se l’han imaginat els altres companys que intervenen en la creació col·lectiva. El resultat final segur que sorprendrà. Anna Aparicio (Santa Maria de Palautordera) és una il·lustradora amb obra publicada en diversos països, com Espanya, Itàlia, França, Alemanya, Brasil, Corea del Sud i Taiwan. Del 9 al 20 de novembre farà una residència a Faberllull, per treballar en les il·lustracions del llibre Nunca había visto un tigre llorar , que publicarà l’editorial Claraboya de Xile. Edat recomanada: de 4 a 8 anys Organitza: Residència Faberllull i Biblioteca Marià Vayreda",
-      "url": "https://www.olotcultura.cat/agenda/acte/taller-dillustracio-creem-personatges-fantastics/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-17",
-      "date_end": "2026-11-17",
-      "sessions": [
-        {
-          "date": "2026-11-17",
-          "time": "17:30"
-        }
-      ]
-    },
-    {
       "id": "Olot Cultura-67de138104e7",
       "title": "Lorca, alma ausente",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-19-LORCA-01.jpg",
@@ -1826,6 +1788,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-138e83807fc7",
+      "title": "“Nomás”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/nomas-exposicio.jpg",
+      "municipality": "Olot",
+      "venue": "Davant l’Hospital d’Olot i Comarcal de la Garrotxa",
+      "category": null,
+      "description": "L’exposició fotogràfica “Nomás” neix d’una pregunta tan íntima com universal: «Vull ser mare?» Una qüestió que travessa, en algun moment de la vida, totes les dones que poden o no tenir fills, i que sovint es formula en silenci, entre murmuris familiars, expectatives socials i mirades que pesen més del que semblen. Aquest projecte és un assaig personal de la fotògrafa Laura R. Grau, que s’apropa a la vida de cinc protagonistes que han decidit, per voluntat pròpia, no tenir fills. Es podrà veure al vestíbul de l’Hospital d’Olot del 9 al 28 de novembre. Ho organitza: Fundació Hospital d’Olot i Comarcal de la Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/nomas/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": null
+        }
+      ]
+    },
+    {
       "id": "Cultura Banyoles-03fb4aa36250",
       "title": "Cor de cambra Noctes",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9731.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -1870,7 +1851,7 @@
       "municipality": "Celrà",
       "venue": "Teatre L'Ateneu",
       "category": "Teatre",
-      "description": "Sopa de Lletres és un espectacle familiar participatiu que combina teatre , humor i música en directe i que explora el joc infinit de les paraules, els sons i el llenguatge.",
+      "description": "Sopa de Lletres és un espectacle familiar participatiu, ple d'humor, música en directe i joc escènic, que explora les possibilitats infinites de les paraules i la imaginació.",
       "url": "https://www.celracultura.cat/ca/agenda-entrades/c/695-sopa-de-lletres.html",
       "source": "Celrà Cultura",
       "date_start": "2026-11-29",
@@ -2563,13 +2544,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 112,
-      "events_published": 112,
+      "events_found": 111,
+      "events_published": 111,
       "rejected_no_valid_image": 0,
-      "with_image": 112,
-      "with_sessions": 112,
-      "with_venue": 112,
-      "with_municipality": 112
+      "with_image": 111,
+      "with_sessions": 111,
+      "with_venue": 111,
+      "with_municipality": 111
     },
     {
       "connector": "connectors.celra",
