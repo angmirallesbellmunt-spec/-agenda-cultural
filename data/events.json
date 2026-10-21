@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:54:51.682504+00:00",
+  "generated_at": "2026-10-21T04:55:28.267047+00:00",
   "events": [
     {
       "id": "Olot Cultura-3ab29607f2df",
@@ -27,7 +27,7 @@
       "municipality": "Olot",
       "venue": "Barri de Sant Miquel",
       "category": null,
-      "description": "El festival Entranyes torna al barri de Sant Miquel d’Olot amb una nova edició dedicada a les arts escèniques i a la creació de proximitat. Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri. Organitza: Barri de Sant Miquel d’Olot",
+      "description": "El festival Entranyes torna al barri de Sant Miquel d’Olot amb una nova edició dedicada a les arts escèniques i a la creació de proximitat. Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri. PROGRAMACIÓ 23 d’octubre, 19.30 h, Casal de St. Miquel “Dones i mares, uns relats que commouen l’ànima”. El testimoni de 4 dones que podria ser real. Què és capaç de fer una mare per salvar el bé més preuat, la vida dels seus fills? Una performance on la paraula, l’expressió del cos i el moviment ens mostraran el que és capaç de fer una mare per salvaguardar i millorar la vida del seu fill. És la paraula qui esculpeix tan bella obra. A través de quatre elements —foc, aigua, terra i aire—, les vivències, les emocions i la força de cada mare prenen forma i es transformen en moviment. El foc representa la força, la lluita i la passió; l’aigua, les emocions, les llàgrimes i la capacitat d’adaptació; la terra, les arrels, la protecció i la fermesa; i l’aire, la llibertat, l’esperança i la necessitat de deixar créixer i volar els fills. Segons relats de l’autora Anna M Vila i ceres de Josep M Cros, les actrius donaran vida a unes escultures humanes que prendran moviment i ens transmetran la seva vivència. Una obra que permet deixar traspuar els sentiments de qui interpreta i de qui escolta, en un diàleg entre la paraula, el cos i els quatre elements de la natura. Organitza: Barri de Sant Miquel d’Olot",
       "url": "https://www.olotcultura.cat/agenda/acte/entranyes-2026/",
       "source": "Olot Cultura",
       "date_start": "2026-10-23",
@@ -35,7 +35,7 @@
       "sessions": [
         {
           "date": "2026-10-23",
-          "time": "18:00"
+          "time": "19:30"
         }
       ]
     },
@@ -122,7 +122,7 @@
       "municipality": "Olot",
       "venue": "Barri de Sant Miquel",
       "category": null,
-      "description": "El festival Entranyes torna al barri de Sant Miquel d’Olot amb una nova edició dedicada a les arts escèniques i a la creació de proximitat. Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri. Organitza: Barri de Sant Miquel d’Olot",
+      "description": "El festival Entranyes torna al barri de Sant Miquel d’Olot amb una nova edició dedicada a les arts escèniques i a la creació de proximitat. Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri. PROGRAMACIÓ: 24 d’octubre, 16.30 h, Casal “No tireu ànecs al riu”, un espectacle de Toti Toronell En Toti surt al carrer amb el seu pallasso més “naïf” des de l’essència més pura. Buscant sempre noves formes d’inspiració, fent un mapa de l’espai públic per generar petites obres d’art, petites peces fetes amb humor i amor, petits números únics i irrepetibles, un recorregut per algunes de les diferents disciplines artístiques que ha anat descobrint al llarg d’aquests anys. (Clown, circ, ceràmica, música, pintura, dansa, serigrafia, escultura, dibuix, teatre, performance…) Petites accions que, aprofitant elements quotidians de l’entorn, transformen la mirada del públic cap a una nova manera de mirar, més tendra, més amable i més conscient. En Toti entrellaça de forma magistral la improvisació amb els números preparats, creant així confusió, de manera que el públic mai sap si els desastres a l’escenari són part del guió o si estan succeint de debò. I en el seu recorregut va deixant un rastre d’obra plàstica que queda exposat, com un petit museu de vida portàtil a l’aire lliure. On el públic després de l’espectacle podrà descobrir detalls amagats dins la poesia de les coses petites. 24 d’octubre, 17.45 h, Casal de St. Miquel “Els embolics d’un llop vegetarià”, de l’Alma i un mar de contes & Carles Cuberes Una trobada fortuïta és el punt d’inici d’aquesta història. La història d’un llop vegetarià que vol viure tranquil, ser amable, bondadós i gens ferotge. Però és clar: la resta de criatures, quan el veuen, no se’n saben avenir i el volen convèncer perquè canviï i es torni un llop “com cal”. Després d’un munt d’aventures i embolics, el nostre llop s’adonarà que la resposta al seu dilema la té ben a tocar i que en realitat tot és més fàcil del que sembla. Una bonica història sobre la diversitat i el dret a ser diferent. 24 d’octubre, 20 h, Casal de St. Miquel “Un sopar incòmode”, de la Secció Dramàtica del Centre Catòlic d’Olot Pot un sopar de veïns, que promet cordialitat, convertir-se en un sopar incòmode? Arriba un moment que els conflictes s’acaben posant sobre la taula i, entre plats, copes i brindis, afloren els estereotips, les vergonyes, els prejudicis… on cada paraula pot destapar més del que es voldria. I tu… què diries si sabessis que no es pot canviar de tema? Organitza: Barri de Sant Miquel d’Olot",
       "url": "https://www.olotcultura.cat/agenda/acte/festival-entranyes-2-2/",
       "source": "Olot Cultura",
       "date_start": "2026-10-24",
@@ -130,7 +130,7 @@
       "sessions": [
         {
           "date": "2026-10-24",
-          "time": "18:00"
+          "time": "16:30"
         }
       ]
     },
@@ -1636,6 +1636,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-4c9994274321",
+      "title": "Presentació de llibre: “L’Eixample Malagrida d’Olot: ciutat jardí, ciutat radial o geometria natural?”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/eixample-malagrida.jpg",
+      "municipality": "Olot",
+      "venue": "Sala d’actes de l’Arxiu Comarcal de la Garrotxa",
+      "category": null,
+      "description": "El llibre recull la tesi de l’arquitecte Arnau Vergés Tejero (Olot, 1979), L’Eixample Malagrida d’Olot: urbanisme i arquitectura a la Catalunya-ciutat-jardí , com a continuació de la Beca Ernest Lluch 2017. Qui va projectar aquest barri? És realment una ciutat jardí? Quin paper hi juga la metàfora de la conquesta d’Amèrica? Més enllà de l’estudi del projecte urbanístic concebut per l’industrial Manuel Malagrida Fontanet (Olot, 1860–Barcelona, 1946) durant la segona i tercera dècades del segle XX, aquest treball també es fixa en les famílies residents a l’Eixample Malagrida en la seva època d’esplendor —prèvia a la Guerra Civil i a l’aiguat del 1940— i entra a les cases on van viure. Aquest és el tercer títol de la col·lecció “Trama Urbana”, centrada en la informació i la reflexió al voltant de les parets i els carrers que hem anat construint al llarg dels segles. La presentació forma part del cicle Olot Arquitectura. Organitza: Arxiu Comarcal de la Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-llibre-leixample-malagrida-dolot-ciutat-jardi-ciutat-radial-o-geometria-natural/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-27",
+      "date_end": "2026-11-27",
+      "sessions": [
+        {
+          "date": "2026-11-27",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-1b3413d61b27",
       "title": "Recreativos Federico",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-26-i-27-recreativos-federico.jpg",
@@ -2544,13 +2563,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 111,
-      "events_published": 111,
+      "events_found": 112,
+      "events_published": 112,
       "rejected_no_valid_image": 0,
-      "with_image": 111,
-      "with_sessions": 111,
-      "with_venue": 111,
-      "with_municipality": 111
+      "with_image": 112,
+      "with_sessions": 112,
+      "with_venue": 112,
+      "with_municipality": 112
     },
     {
       "connector": "connectors.celra",
