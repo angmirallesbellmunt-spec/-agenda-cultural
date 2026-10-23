@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-10-22T04:55:22.575977+00:00",
+  "generated_at": "2026-10-23T04:54:15.505808+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-3ab29607f2df",
-      "title": "Maria Mercè Marçal – Autors comentats",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-22-maria-merce-MARCAL.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "Recital poètic d’obres d’aquesta autora de referència l’obra de la qual és, encara i potser més que mai, vigent Maria Mercè Marçal va ser una poeta tres voltes rebel: compromesa amb el feminisme, amb la cultura catalana i amb l’activisme polític. La seva poesia, d’una gran intensitat lírica, aborda temes com la maternitat, l’amor lèsbic, la identitat i la pèrdua. Autora de referència, la seva obra és encara, i potser més que mai, vigent. La tria de textos és a càrrec de l’escriptor Miquel Martín i Serra i la lectura dramatitzada, de l’actiu Olga Cercós.",
-      "url": "https://www.olotcultura.cat/agenda/acte/maria-merce-marcal-autors-comentats/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-22",
-      "date_end": "2026-10-22",
-      "sessions": [
-        {
-          "date": "2026-10-22",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-f23fabf2803e",
-      "title": "Festival Entranyes",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Festival-Entranyes.jpg",
-      "municipality": "Olot",
-      "venue": "Barri de Sant Miquel",
-      "category": null,
-      "description": "El festival Entranyes torna al barri de Sant Miquel d’Olot amb una nova edició dedicada a les arts escèniques i a la creació de proximitat. Durant dos dies, el festival oferirà teatre, espectacles i activitats amb artistes de la Garrotxa en diferents espais del barri. PROGRAMACIÓ 23 d’octubre, 19.30 h, Casal de St. Miquel “Dones i mares, uns relats que commouen l’ànima”. El testimoni de 4 dones que podria ser real. Què és capaç de fer una mare per salvar el bé més preuat, la vida dels seus fills? Una performance on la paraula, l’expressió del cos i el moviment ens mostraran el que és capaç de fer una mare per salvaguardar i millorar la vida del seu fill. És la paraula qui esculpeix tan bella obra. A través de quatre elements —foc, aigua, terra i aire—, les vivències, les emocions i la força de cada mare prenen forma i es transformen en moviment. El foc representa la força, la lluita i la passió; l’aigua, les emocions, les llàgrimes i la capacitat d’adaptació; la terra, les arrels, la protecció i la fermesa; i l’aire, la llibertat, l’esperança i la necessitat de deixar créixer i volar els fills. Segons relats de l’autora Anna M Vila i ceres de Josep M Cros, les actrius donaran vida a unes escultures humanes que prendran moviment i ens transmetran la seva vivència. Una obra que permet deixar traspuar els sentiments de qui interpreta i de qui escolta, en un diàleg entre la paraula, el cos i els quatre elements de la natura. Organitza: Barri de Sant Miquel d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/entranyes-2026/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-23",
-      "date_end": "2026-10-23",
-      "sessions": [
-        {
-          "date": "2026-10-23",
-          "time": "19:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-583243b34a42",
       "title": "Taller: Colors del Montsacopa",
@@ -306,6 +268,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-6a30768dcc3b",
+      "title": "Presentació de la jornada “Com escoltar la mirada dels infants”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/com-escoltar-la-mirada-dels-infants.jpg",
+      "municipality": "Olot",
+      "venue": "Seu de la Delegació Garrotxa-Ripollès del COAC",
+      "category": null,
+      "description": "Els treballs fets pels alumnes i l’exposició “Repensem Olot de la mà dels infants” arriba a la seu del COAC a Olot per continuar avançant en la inclusió de la mirada dels infants en els processos que repensen les ciutats on vivim. El treball continua interpel·lant al visitant, aquest cop amb una jornada de reflexió oberta a tothom, on la mirada dels infants sobre la ciutat, l’espai públic i l’entorn serà el centre del diàleg, sota el títol Com escoltar la mirada dels infants. Al voltant del treball fet, i davant dels resultats obtinguts, l’arquitecta Neus Roca Cambras, qui ha portat a terme els tallers i qui ha comissariat l’exposició, explicarà quina ha estat l’experiència i quins han estat els resultats. Ens proposem com a repte contestar a: com es pot copsar la mirada dels infants, i més important encara, com s’incorpora en les reflexions de la ciutat, com s’escolta, i com s’hi dona resposta. Pot una experiència com la dels tallers de ’20 Anys de poUm’ sumar-se als processos de participació ciutadana? És una bona manera de copsar la mirada dels nostres infants? Com pot ajudar en els projectes de ciutat, i alhora ajudar els infants a sentir-se la ciutat més seva? Aquestes i altres seran les preguntes que es debatran amb la participació d’una fila 0 formada per tècnics en els àmbits de l’arquitectura, l’urbanisme, la cultura i la docència. Drets de la imatge de l’activitat: COAC Organitza: Delegació Garrotxa-Ripollès del COAC amb la col·laboració de l’Ajuntament d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-la-jornada-com-escoltar-la-mirada-dels-infants/",
+      "source": "Olot Cultura",
+      "date_start": "2026-10-28",
+      "date_end": "2026-10-28",
+      "sessions": [
+        {
+          "date": "2026-10-28",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-c6dfaa2b6290",
       "title": "Els meus arbres",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-30-aram-pou.jpg",
@@ -422,7 +403,7 @@
     {
       "id": "Olot Cultura-18c6fa1b3a58",
       "title": "Passejada per Olot per conèixer obres dels arquitectes de la nova arquitectura garrotxina",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/De-la-casa-a-la-placa-Del-29-dagost-al-10-de-gener-del-2027.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/visita-guiada-de-la-casa-a-la-placa_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Hospici",
       "category": null,
@@ -464,7 +445,7 @@
       "municipality": "Olot",
       "venue": "Museu dels Sants",
       "category": null,
-      "description": "Taller d’estampació de monstres amb tampons artesanals. Farem moltes proves per potenciar al creativitat de cada artista i finalment, estamparem sobre carpetes de cartró una col·lecció de monstres.",
+      "description": "Taller d’estampació de monstres amb tampons artesanals. Farem moltes proves per potenciar la creativitat de cada artista i finalment, estamparem sobre carpetes de cartró una col·lecció de monstres.",
       "url": "https://www.olotcultura.cat/agenda/acte/taller-infantil-destampacio-de-monstres-sobre-cartro/",
       "source": "Olot Cultura",
       "date_start": "2026-10-31",
@@ -578,7 +559,7 @@
       "municipality": "Olot",
       "venue": "Firal",
       "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport i Froschemie.",
+      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
       "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes/",
       "source": "Olot Cultura",
       "date_start": "2026-11-02",
@@ -629,21 +610,21 @@
       ]
     },
     {
-      "id": "Olot Cultura-162fb0d45ed4",
-      "title": "Fumarola de Lluèrnia",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/02/OA-FUMAROLA-DE-LLUERNIA.jpg",
+      "id": "Olot Cultura-8f6076e85251",
+      "title": "Premis d’Arquitectura de les Comarques de Girona 2026",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/premis-arquitectura-comareques-girona.jpg",
       "municipality": "Olot",
       "venue": "Seu de la Delegació Garrotxa-Ripollès del COAC",
       "category": null,
-      "description": "Un any més, la delegació Garrotxa-Ripollès del COAC participa a Lluèrnia, el Festival del foc i la llum, amb la conferència de la Fumarola. Organitza: Delegació Garrotxa-Ripollès del COAC i Lluèrnia, festival del foc i de la llum, amb la col·laboració de l’Ajuntament d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/fumarola-de-lluernia/",
+      "description": "En aquesta mostra, s’hi poden veure les obres guardonades, que engloben mencions, premis i premi de l’opinió, juntament amb l’acta del jurat. El muntatge expositiu el configuren 5 panells de llum que mostren els projectes segons la seva categoria (arquitectures, interiors, efímers i paisatges) mitjançant una gran fotografia. La imatge de l’activitat ha estat cedida per COAC. Organitza: Delegació Garrotxa-Ripollès del COAC amb la col·laboració de l’Ajuntament d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/premis-darquitectura-de-les-comarques-de-girona-2026/",
       "source": "Olot Cultura",
       "date_start": "2026-11-05",
       "date_end": "2026-11-05",
       "sessions": [
         {
           "date": "2026-11-05",
-          "time": "19:00"
+          "time": null
         }
       ]
     },
@@ -656,6 +637,25 @@
       "category": null,
       "description": "L’acte consistirà en una conversa sobre la figura i l’obra de l’escriptora, traductora i periodista de l’època de la república Elvira Augusta Lewi. Hi participaran Mariona Bosch, editora d’Edicions del Cràter —segell que ha publicat la novel·la—, i la filòloga Rosa Vilanova, responsable de l’edició i del postfaci. Organitza: ALBA Associació de dones de la Garrotxa",
       "url": "https://www.olotcultura.cat/agenda/acte/una-conversa-sobre-elvira-augusta-lewi-i-la-seva-novella-un-poeta-i-dues-dones/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-05",
+      "date_end": "2026-11-05",
+      "sessions": [
+        {
+          "date": "2026-11-05",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-6faf38526f18",
+      "title": "“Lluèrnia, un somni”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/02/OA-FUMAROLA-DE-LLUERNIA.jpg",
+      "municipality": "Olot",
+      "venue": "Seu de la Delegació Garrotxa-Ripollès del COAC",
+      "category": null,
+      "description": "La ponència proposa un recorregut per la trajectòria de Lluèrnia, un projecte que va més enllà d’un festival de foc i de llum i que, al llarg dels anys, ha esdevingut un espai d’experimentació arquitectònica, expressió artística i reflexió sobre el paisatge urbà. A través de la seva experiència, Pep Fargas explorarà les múltiples dimensions del festival; des de la transformació del paisatge quotidià mitjançant instal·lacions efímeres fins a la reivindicació de carrers i barris, passant per la participació ciutadana, la pedagogia i la cultura. Una oportunitat per descobrir com Lluèrnia ha contribuït a generar noves mirades sobre la ciutat i els seus espais. Organitza: Delegació Garrotxa-Ripollès del COAC i Lluèrnia, festival del foc i de la llum, amb la col·laboració de l’Ajuntament d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/fumarola-de-lluernia/",
       "source": "Olot Cultura",
       "date_start": "2026-11-05",
       "date_end": "2026-11-05",
@@ -882,7 +882,7 @@
       "municipality": "Olot",
       "venue": "Firal",
       "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport i Froschemie.",
+      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
       "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-1/",
       "source": "Olot Cultura",
       "date_start": "2026-11-09",
@@ -1144,7 +1144,7 @@
     {
       "id": "Olot Cultura-6694c8418dba",
       "title": "Visita guiada a l’exposició “De la casa a la plaça: nous paisatges de l’arquitectura garrotxina”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/De-la-casa-a-la-placa-Del-29-dagost-al-10-de-gener-del-2027.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/visita-guiada-de-la-casa-a-la-placa_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Sala Oberta del Museu de la Garrotxa",
       "category": null,
@@ -1262,7 +1262,7 @@
       "municipality": "Olot",
       "venue": "Firal",
       "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport i Froschemie.",
+      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
       "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-2/",
       "source": "Olot Cultura",
       "date_start": "2026-11-16",
@@ -1566,7 +1566,7 @@
       "municipality": "Olot",
       "venue": "Firal",
       "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport i Froschemie.",
+      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
       "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-duplicate-4/",
       "source": "Olot Cultura",
       "date_start": "2026-11-23",
@@ -1640,7 +1640,7 @@
       "title": "Presentació de llibre: “L’Eixample Malagrida d’Olot: ciutat jardí, ciutat radial o geometria natural?”",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/eixample-malagrida.jpg",
       "municipality": "Olot",
-      "venue": "Sala d’actes de l’Arxiu Comarcal de la Garrotxa",
+      "venue": "Arxiu Comarcal de la Garrotxa",
       "category": null,
       "description": "El llibre recull la tesi de l’arquitecte Arnau Vergés Tejero (Olot, 1979), L’Eixample Malagrida d’Olot: urbanisme i arquitectura a la Catalunya-ciutat-jardí , com a continuació de la Beca Ernest Lluch 2017. Qui va projectar aquest barri? És realment una ciutat jardí? Quin paper hi juga la metàfora de la conquesta d’Amèrica? Més enllà de l’estudi del projecte urbanístic concebut per l’industrial Manuel Malagrida Fontanet (Olot, 1860–Barcelona, 1946) durant la segona i tercera dècades del segle XX, aquest treball també es fixa en les famílies residents a l’Eixample Malagrida en la seva època d’esplendor —prèvia a la Guerra Civil i a l’aiguat del 1940— i entra a les cases on van viure. Aquest és el tercer títol de la col·lecció “Trama Urbana”, centrada en la informació i la reflexió al voltant de les parets i els carrers que hem anat construint al llarg dels segles. La presentació forma part del cicle Olot Arquitectura. Organitza: Arxiu Comarcal de la Garrotxa",
       "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-llibre-leixample-malagrida-dolot-ciutat-jardi-ciutat-radial-o-geometria-natural/",
@@ -1927,7 +1927,7 @@
       "municipality": "Olot",
       "venue": "Firal",
       "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport i Froschemie.",
+      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
       "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-5/",
       "source": "Olot Cultura",
       "date_start": "2026-11-30",
@@ -1999,7 +1999,7 @@
     {
       "id": "Olot Cultura-8f3a42bfa298",
       "title": "Taula rodona amb arquitectes representants de la nova arquitectura garrotxina",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/De-la-casa-a-la-placa-Del-29-dagost-al-10-de-gener-del-2027.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/visita-guiada-de-la-casa-a-la-placa_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Espai Cràter",
       "category": null,
