@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-10-25T04:55:13.214627+00:00",
+  "generated_at": "2026-10-26T04:56:39.021720+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-1b7e4c1b3df6",
-      "title": "Fe de rutes",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-25-fe-de-rutes.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Fe de rates: on posa fe de rutes ha de posar fe de rites Fe de rutes (en homenatge al poeta Joan Brossa) és l’equivocació sobre l’equivocació. El joc del pallasso, l’error insistent i l’obsessió a equivocar-se millor. Fe de rutes (donar fe de les rutes que hem seguit per arribar a algun lloc) és, doncs, també la petjada que deixen les rutes traçades al llarg d’una vida. En aquest espectacle, Toti Toronell torna a l’escenari, on es redescobreix a si mateix, i mostra des del seu pallasso més naïf fins a algunes de les seves altres facetes: la pintura i el dibuix, la música, la ceràmica, la màgia, el teatre d’objectes, la fusteria… Tot amb aquell toc d’humor surrealista i aquella poètica que Brossa trobava en el circ i que Toronell busca i dibuixa en cada poema, en cada gest, en cada respiració i en cada mirada, com un mirall de l’ànima, que rebota a l’espectador, i que emociona… i que emociona… i que emociona… Creació, direcció i interpretació: Toti Toronell Ajudant de direcció: Cesc Graset Música i tècnics de so: Cinta Pellicer i Albert Dondarza Disseny llums: Nino Costa Coreografia: Paula Toronell Veus: Cinta Pellicer i Nuna Toronell Escenografia: Toti Toronell Vestuari: Carlota Rodríguez Producció: Anna Roca Ajudant de producció: Rita Roura Agraïments: Manolo Alcántara",
-      "url": "https://www.olotcultura.cat/agenda/acte/fe-de-rutes/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-25",
-      "date_end": "2026-10-25",
-      "sessions": [
-        {
-          "date": "2026-10-25",
-          "time": "17:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-ca178190f996",
-      "title": "Local Crazy Rockers",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Local-crazy-rockers.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "Local Crazy Rockers és una banda formada per quatre joves catalans apassionats pel rockabilly i el rock-and-roll. Últim concert de la gira d’estiu, durant la qual ha presentat el seu primer disc, Young and Wild . El seu repertori combina temes propis amb grans clàssics del gènere, recuperant l’essència d’artistes com Carl Perkins, Jerry Lee Lewis, Gene Vincent o Crazy Cavan. Un concert ple de ritme i energia per ballar i reviure els sons dels inicis del rock-and-roll. Organitza: Local Crazy Rockers",
-      "url": "https://www.olotcultura.cat/agenda/acte/local-crazy-rockers/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-25",
-      "date_end": "2026-10-25",
-      "sessions": [
-        {
-          "date": "2026-10-25",
-          "time": "18:00"
-        }
-      ]
-    },
     {
       "id": "Cultura Banyoles-d25ab0b95138",
       "title": "Festa de la música per a cobla",
@@ -2430,13 +2392,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 107,
-      "events_published": 107,
+      "events_found": 105,
+      "events_published": 105,
       "rejected_no_valid_image": 0,
-      "with_image": 107,
-      "with_sessions": 107,
-      "with_venue": 106,
-      "with_municipality": 107
+      "with_image": 105,
+      "with_sessions": 105,
+      "with_venue": 104,
+      "with_municipality": 105
     },
     {
       "connector": "connectors.celra",
