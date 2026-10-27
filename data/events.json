@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-26T04:56:39.021720+00:00",
+  "generated_at": "2026-10-27T04:56:26.400207+00:00",
   "events": [
-    {
-      "id": "Cultura Banyoles-d25ab0b95138",
-      "title": "Festa de la música per a cobla",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9899.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Des de 1972, la Festa de la Música per a Cobla és una cita ineludible de la Festa de Banyoles. Actualment, és l’únic concert estable que reuneix tres cobles en actiu, una singularitat dins el panorama musical català que no es pot trobar a cap altre escenari. El públic podrà gaudir d’un recorregut sonor per sardanes i obres per a una, dues i tres cobles, en una combinació de timbres i estils que connecta tradició i nova creació. L’edició d’enguany inclou l’estrena de l’obra d’encàrrec del 42è Premi Ceret-Banyoles, Metamorfosi de sobre i aigua, del mestre Pitu Chamorro i Ramos, així com d’una sardana del mestre Agustí Coma-Alabert. Dins d’aquest marc musical, el concert també comptarà amb la participació del grup Germà Negre, que se sumarà a la sonoritat de la cobla per aportar el seu vessant festiu en una part del programa, i que s’afegirà a les interpretacions que les cobles La Principal de la Bisbal, Ciutat de Girona i Montgrins ens oferiran durant tot el concert. Programa de mà i repertori del concert: www.elfoment.cat Organitza: El Foment de Banyoles En conveni amb: Ajuntament de Banyoles",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34173-festa-de-la-musica-per-a-cobla.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-10-26",
-      "date_end": "2026-10-26",
-      "sessions": [
-        {
-          "date": "2026-10-26",
-          "time": "11:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-baeaa730c38a",
       "title": "La revolució a Olot (1936-1938)",
@@ -368,7 +349,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9905.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Biblioteca",
       "description": "A càrrec de Kincakau Una sessió dolça i sensorial amb jocs, cançons i ritmes pensades per als més petits. Acostem els contes a través d'un teatre d'ombres, amb escenificacions de taula i materials per tocar i jugar. Amb el suport: Diputació de Girona",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34179-contes-per-a-nadons.html",
       "source": "Cultura Banyoles",
@@ -482,7 +463,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9721.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Teatre i dansa",
       "description": "La Llogatera és el viatge apassionant i frenètic d’una noia que es veu obligada a deixar el seu pis de 38 m². Una comèdia amarga amb diferents convidats: la mare, un amant, el propietari, un alumne, la dona de la immobiliària, la socorrista, un milicià… La nostra protagonista haurà d’enfrontar-se a les seves pors: el futur, les expectatives i el fracàs, la precarietat, la soledat… i la seva dificultat per passar a l’acció. Com actuar contra un sistema que l’expulsa quan no és suficient ser suficient? Com aferrar-se al seu castell de 38 m²?",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34151-la-llogatera.html",
       "source": "Cultura Banyoles",
@@ -596,7 +577,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9719.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Teatre i dansa",
       "description": "Interpretació: Paula Fossati i Eva Ferré/Berta Camps / Dramatúrgia: Èlia Borràs, Berta Camps i Eva Ferré / Direcció: Èlia Borràs i Berta Camps Les cases dels altres és un espectacle collage que combina anècdotes i retalls de vida per obrir-nos les portes a cases alienes. A través de fragments íntims i quotidians, l’espectacle reflexiona sobre què vol dir sentir-se part d’un lloc, d’un país o d’un grup, i què passa quan ens n’exclouen. Una mirada sensible a la necessitat d’arrelament, a la por de ser expulsats i a la fragilitat de tot allò que anomenem “casa”. Una història explicada per diferents testimonis que ens obren les portes de casa seva per ensenyar-nos alguns dels seus racons.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34153-les-cases-dels-altres.html",
       "source": "Cultura Banyoles",
@@ -1280,7 +1261,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9723.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Biblioteca",
       "description": "El programa de curtmetratges Astres immòbils ens obre una porta a descobrir nous mons des de l’assertivitat, l’escolta i el respecte mutu a través de les històries que li donen vida. Les tres narracions ens proposen un viatge que ens transporta a universos visuals únics partint del simbolisme dels colors i les formes. Ens parlen de convivència, de la possibilitat d’esbrinar d’on prové cadascú i de la transcendència de fer aquests viatges emocionals. A Astres immòbils coneixem la Chenghua, una nena de nou anys a qui li toca assumir la responsabilitat de fer de traductora per als seus pares, d’origen xinès, i busca evadir-se amb la seva afició per l’espai. A Luce i la roca descobrim l’amistat entre dos personatges que, tot i semblar no tenir res en comú, s’enfronten junts a la seva por al desconegut. A la faula El naixement dels oasis una serp de sang freda i un camell de sang massa calenta es fan amics fins al final dels seus dies. Astres immòbils tanca la sèrie de tres programes de curtmetratges format per La barca del vent i L’illa dels ocells . Cada un d’ells compta amb un migmetratge protagonitzat per una nena d’edat preadolescent, conformant així una trilogia d’històries iniciàtiques d’heroïnes contemporànies.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34158-astres-immobils.html",
       "source": "Cultura Banyoles",
@@ -1318,7 +1299,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9885.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Biblioteca",
       "description": "Taller de papiroflèxia per a la creació de flors fetes amb papiroflèxia. A càrrec de Vidalfont Paper. Organitza: Museu Darder de Banyoles, Ajuntament de Banyoles Amb el suport de: Diputació de Girona, Generalitat de Catalunya. Departament de Cultura",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34168-pleguem-flors.html",
       "source": "Cultura Banyoles",
@@ -1370,6 +1351,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-90ab19775cf1",
+      "title": "Visita comentada a l’exposició “L’univers d’en Garrell, 10 anys i més enllà” i projecció de la pel·lícula “Sobre la marxa”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/olot-arquitectura.jpg",
+      "municipality": "Olot",
+      "venue": "Argelaguer",
+      "category": null,
+      "description": "Es farà una visita comentada a l’exposició “L’univers d’en Garrell, 10 anys i més enllà” que repassa la vida, la figura i el llegat artístic i arquitectònic d’en Garrell, considerat un referent de l’art brut i el paisatgisme visionari. A continuació es visionarà “Sobre la marxa”, de Jordi Morató: un llargmetratge que narra la història d’un home que va crear una selva al costat de l’autopista: alçava construccions belles i inversemblants al bosc. Després les destruïa i les convertia en cendres per tornar-les a construir una altra vegada. I així durant dècades. Se’l coneix amb el nom de “Garrell”, o bé com el “Tarzan d’Argelaguer”. No es guia amb cap propòsit aparent, tret del seu lema: anar fent “sobre la marxa”.",
+      "url": "https://www.olotcultura.cat/agenda/acte/visita-comentada-a-lexposicio-lunivers-den-garrell-10-anys-i-mes-enlla-i-projeccio-de-la-pellicula-sobre-la-marxa/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-22",
+      "date_end": "2026-11-22",
+      "sessions": [
+        {
+          "date": "2026-11-22",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-dbf7582ce649",
       "title": "Una parada més",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-16-La-Cremallera_146.jpg",
@@ -1385,6 +1385,25 @@
         {
           "date": "2026-11-23",
           "time": "13:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-985e852e992d",
+      "title": "Visita guiada a l’exposició “Nomás”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/nomas-exposicio.jpg",
+      "municipality": "Olot",
+      "venue": "Hospital d’Olot i comarcal de la Garrotxa",
+      "category": null,
+      "description": "Coincidint amb el Dia Internacional de l’Eliminació de la Violència contra les Dones, es farà una visita guiada a l’exposició “Nomás” a càrrec de l’autora. El vestíbul de l’Hospital d’Olot serà el punt de trobada. Organitza: Fundació Hospital d’Olot i Comarcal de la Garrotxa.",
+      "url": "https://www.olotcultura.cat/agenda/acte/visita-guiada-a-lexposicio-nomas/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-25",
+      "date_end": "2026-11-25",
+      "sessions": [
+        {
+          "date": "2026-11-25",
+          "time": null
         }
       ]
     },
@@ -1945,7 +1964,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9884.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Biblioteca",
       "description": "Taller de papiroflèxia per a la creació i decoració d’insectes i altres invertebrats fets amb papiroflèxia. A càrrec de Vidalfont Paper. Organitza: Museu Darder de Banyoles, Ajuntament de Banyoles. Amb el suport de: Diputació de Girona, Generalitat de Catalunya. Departament de Cultura.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34169-pleguem-cuques.html",
       "source": "Cultura Banyoles",
@@ -2097,7 +2116,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9922.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Música",
+      "category": "Biblioteca",
       "description": "Direcció: Irene Iborra / Guió: Irene Iborra, Maite Carranza, Júlia Prats / Productora: Cornelius Films, S.L., Bigaro Films, S.L., Citoplasmas Stop Motion, S.L., Terremoto, A.I.E., Corporació Catalana de Mitjans Audiovisuals, S.A., Kinetic Armatures, S.L., Les Productions Vivement Lundi, Panique!, Personne N Est Parfait, RTBF / Intèrprets (veus): Emma Suárez, Abril Pujols, Ali Ahchach, Didac Cano, Ona Bagué, Idaira Azuara, Sarah Bea Irene Iborra presenta L ’ Olivia i el terratrèmol invisibl e, l’adaptació cinematogràfica de la novel·la infantil i juvenil La pel·lícula de la vida de Maite Carranza. Un drama d’animació que aborda temes com el dret a l’habitatge, la precarietat laboral o la salut mental i que s’ha consolidat com una de les propostes d’animació més originals i destacades després del seu recorregut per festivals internacionals. La pel·lícula narra la història de l’Olivia, una nena de 12 anys que veu com la seva vida colꞏlapsa quan desnonen a tota la seva família. Sense un lloc on anar, l’Olívia, el seu germà petit Tim i la seva mare Íngrid ocupen un apartament buit en un barri perifèric. Però, quan la seva mare, naturalment optimista i plena d’energia, cau en una depressió, l’Olívia es veu obligada a cuidar d’ella i d’en Tim mentre s’enfronta al seu propi terratrèmol emocional. En l’epicentre de la dificultat i quan veu com el seu món cau a troços al seu voltant, l’Olívia troba en el nou barri una nova “família”: veïns i veïnes que l’ajuden a reconstruir la seva vida i a aprendre a sobreviure els terratrèmols vital. Entre riures, plors, màgia i amistat, tots tres descobriran que són els increïbles herois quotidians de les seves pròpies vides. Perquè no sempre podem controlar què ens succeeix, però sí que podem canviar la manera de viure-­ho. L’Olivia i el terratrèmol invisible, òpera prima d’lrene Iborra, és el primer llargmetratge d’animació produït a Catalunya amb la tècnica del stop-motion i dirigit per una dona. Nominada als Premis del Cinema Europeu, als Goya i de ser guardonada al Festival d’Annecy amb el Premi de la Fundació Gan i guanyar el Premi Gaudí a millor pel·lícula d’animació, L’Olivia i el terratrèmol invisible ens convida a reflexionar sobre la capacitat de resistir i reconstruir-se davant les adversitats, tot reivindicant la imaginació com una eina poderosa per fer front a una realitat sovint injusta. Una conmovedora història que obre camins cap a noves formes de família i de resiliència.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34191-lolivia-i-el-terratremol-invisible.html",
       "source": "Cultura Banyoles",
@@ -2381,24 +2400,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 16,
-      "events_published": 16,
+      "events_found": 15,
+      "events_published": 15,
       "rejected_no_valid_image": 0,
-      "with_image": 16,
-      "with_sessions": 16,
+      "with_image": 15,
+      "with_sessions": 15,
       "with_venue": 0,
-      "with_municipality": 16
+      "with_municipality": 15
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 105,
-      "events_published": 105,
+      "events_found": 107,
+      "events_published": 107,
       "rejected_no_valid_image": 0,
-      "with_image": 105,
-      "with_sessions": 105,
-      "with_venue": 104,
-      "with_municipality": 105
+      "with_image": 107,
+      "with_sessions": 107,
+      "with_venue": 106,
+      "with_municipality": 107
     },
     {
       "connector": "connectors.celra",
