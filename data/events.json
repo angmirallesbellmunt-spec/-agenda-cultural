@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:56:26.400207+00:00",
+  "generated_at": "2026-10-28T05:05:04.247202+00:00",
   "events": [
     {
       "id": "Olot Cultura-baeaa730c38a",
@@ -1281,7 +1281,7 @@
       "municipality": "Celrà",
       "venue": "Plaça de l'Església",
       "category": "Fires",
-      "description": "Vine a esmorzar botifarra de bolets. Servei de bar i venda de bolets. Pa, botifarra o hamburguesa + beguda: 5 €. A càrrec del Casal Independentista Guillem Agulló i Salvador de Celrà. • A les 9 h, a la plaça de l'Església.",
+      "description": "Vine a esmorzar botifarra de bolets. Botifarra de bolets, pa amb tomata i beguda: 6 €. A càrrec del Casal Independentista Guillem Agulló i Salvador de Celrà. • De 8 a 10 h, a la plaça de l’Església.",
       "url": "https://www.celracultura.cat/ca/agenda-entrades/c/704-festa-de-tardor.html",
       "source": "Celrà Cultura",
       "date_start": "2026-11-22",
@@ -2054,6 +2054,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-770ca688c27b",
+      "title": "Arts Simfònica Jove",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-19-concert-de-nadal-agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Teatre Principal d’Olot",
+      "category": null,
+      "description": "Viu la màgia del Nadal amb l’Arts Simfònica Jove, l’orquestra del nou talent! Sota la batuta de Josep Maria Sauret, us convidem a un concert extraordinari amb grans obres simfòniques. Els valsos, les polques, la música catalana i obres emblemàtiques del repertori simfònic seran els protagonistes per omplir l’aire d’esperit festiu. Més de cinquanta joves músics desbordaran energia dalt de l’escenari en un projecte plenament consolidat que uneix la passió de les noves generacions amb el mestratge de mentors professionals. Deixeu-vos seduir pel ritme i el virtuosisme d’aquest repertori clàssic i simfònic, interpretat amb una frescor i energia única que farà vibrar tot l’auditori. No us perdeu la cita més esperada i musical de les festes! Josep Maria Sauret: direcció",
+      "url": "https://www.olotcultura.cat/agenda/acte/arts-simfonica-jove/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-18",
+      "date_end": "2026-12-18",
+      "sessions": [
+        {
+          "date": "2026-12-18",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
       "id": "Cultura Banyoles-561e6cf93052",
       "title": "Mar Loi & Vic Moliner",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9752.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -2411,13 +2430,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 107,
-      "events_published": 107,
+      "events_found": 108,
+      "events_published": 108,
       "rejected_no_valid_image": 0,
-      "with_image": 107,
-      "with_sessions": 107,
-      "with_venue": 106,
-      "with_municipality": 107
+      "with_image": 108,
+      "with_sessions": 108,
+      "with_venue": 107,
+      "with_municipality": 108
     },
     {
       "connector": "connectors.celra",
