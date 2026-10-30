@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:07:13.394075+00:00",
+  "generated_at": "2026-10-30T05:07:10.930545+00:00",
   "events": [
     {
       "id": "Olot Cultura-c6dfaa2b6290",
@@ -397,6 +397,25 @@
         {
           "date": "2026-11-06",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-aca62f3bc4ef",
+      "title": "EL CERCLE: cultura de club i música electrònica",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/el-cercle.jpg",
+      "municipality": "Olot",
+      "venue": "Club Stromboli",
+      "category": null,
+      "description": "El Cercle celebra la segona sessió de la temporada en una nit especial, coincidint amb el festival Lluèrnia a Olot. Una nova cita al Club Stromboli amb Nija, PD menorquina amb sessions que es mouen entre el techno i el minimal ; PARADOX, amb una proposta musical que abasta del downtown al disco, amb influències de dark pop i riffis de guitarra; i, finalment, Mr. K tancarà la nit amb sons propis del trance i el techno . Organitza: EL CERCLE",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-cercle-cultura-de-club-i-musica-electronica-3/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-06",
+      "date_end": "2026-11-06",
+      "sessions": [
+        {
+          "date": "2026-11-06",
+          "time": "22:00"
         }
       ]
     },
@@ -1750,6 +1769,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-80a5bfa247dc",
+      "title": "Magmàtica: Nit d’electrònica i poesia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/magmatica_nit-delectronica-i-poesia_web.jpg",
+      "municipality": "Olot",
+      "venue": "Sala El Torín",
+      "category": null,
+      "description": "Una nit en què poesia, música electrònica, experimentació sonora, visuals i performance es troben i avancen de la paraula fins a la pista de ball. La vetllada començarà amb Estiliterârilliure : un micro obert multidisciplinari (poesia, música, reflexions, dansa, teatre, clown,..) per donar veu als artistes del territori, i també hi haurà un taller de creació de samarretes de Magmàtica inspirades en versos de Mercè Bayona . A continuació, Konvent Klub , el projecte de clubbing del col·lectiu Konvent, transformarà l’espai en una experiència sonora, visual i col·lectiva. Hi participaran Valentina Risi «Coconauta» (DJ set), 1ldu (live set), les VJ Marta Lofi i Elsa Guerra i la poeta Raquel Santanera , que desplegarà la paraula poètica enmig de la sessió. Organitza: Magmàtica",
+      "url": "https://www.olotcultura.cat/agenda/acte/magmatica-nit-delectronica-i-poesia/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-04",
+      "date_end": "2026-12-04",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "21:30"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-63dc627f2a87",
       "title": "Tarta Relena",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-04-Tarta-Relena-agenda-web.jpg",
@@ -2392,13 +2430,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 106,
-      "events_published": 106,
+      "events_found": 108,
+      "events_published": 108,
       "rejected_no_valid_image": 0,
-      "with_image": 106,
-      "with_sessions": 106,
-      "with_venue": 105,
-      "with_municipality": 106
+      "with_image": 108,
+      "with_sessions": 108,
+      "with_venue": 107,
+      "with_municipality": 108
     },
     {
       "connector": "connectors.celra",
