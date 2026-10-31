@@ -1,82 +1,6 @@
 {
-  "generated_at": "2026-10-30T05:07:10.930545+00:00",
+  "generated_at": "2026-10-31T05:03:39.724771+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-c6dfaa2b6290",
-      "title": "Els meus arbres",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-30-aram-pou.jpg",
-      "municipality": "Olot",
-      "venue": "Plaça de l’U d’Octubre",
-      "category": null,
-      "description": "Una reflexió a través de la fusta sobre la relació entre els boscos, els oficis artesanals i la responsabilitat envers la matèria. Dod yn ôl at fy nghoed és una expressió gal·lesa que significa ‘tornar als meus arbres’ i que fa referència a recuperar un estat d’equilibri. La peça parteix de la desconnexió que tenim amb l’origen dels materials que consumim i ens convida a preguntar-nos com construïm les nostres cases. Un homenatge a la fusteria tradicional i als coneixements que han permès construir amb recursos locals durant generacions. A escena, cos, so i fusta dialoguen en un espai compartit amb el públic per explorar noves formes de reconnectar amb el nostre entorn. Assaig obert del que l’artista haurà treballat durant una setmana a Olot.",
-      "url": "https://www.olotcultura.cat/agenda/acte/els-meus-arbres/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-30",
-      "date_end": "2026-10-30",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "17:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-9826dfb381c3",
-      "title": "Toti Torrent Trio",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-30-Toti_Torrent_Trio-agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "Un trio de músics olotins que interpreta un repertori intimista que emociona el públic Toti Torrent, guitarrista i compositor amb una llarga trajectòria dins el món del jazz, lidera un trio que centra el repertori en les seves composicions, obres contemporànies que fusionen estils de totes les èpoques i tenen influència del clàssic, el jazz, la música brasilera i les bandes sonores de pel·lícules, entre altres. El trio, a banda de Torrent, està format per la flautista Glòria Calm i pel baixista i compositor Toni Mora. Ells dos procedeixen d’àmbits musicals diversos i aporten al grup el seu ampli bagatge.",
-      "url": "https://www.olotcultura.cat/agenda/acte/toti-torrent-trio/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-30",
-      "date_end": "2026-10-30",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-b2e655126131",
-      "title": "“El congreso”, d’Ari Folman",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/El-congreso.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "La necessitat de diners porta una actriu a signar un contracte segons el qual uns estudis cinematogràfics en faran una còpia digital i la podran utilitzar com els plagui. Anys després, quan decideix tornar als escenaris, és convidada a un congrés que té lloc en un planeta que ha canviat completament. Basada en una novel·la de Stanisław Lem, la pel·lícula retrata un món que es dirigeix inexorablement cap a la irrealitat i en què disciplines humanes com el cinema poden veure alterades les seves condicions actuals per la irrupció de la intel·ligència artificial. Millor pel·lícula d’animació als Premis del Cinema Europeu i Premi de la Crítica al Festival de Sitges. Animació. +12. VOSE Aquesta activitat forma part de CinemaCràter , un cicle de cinema que proposa una mirada crítica a la intel·ligència artificial i altres grans revolucions que han transformat la humanitat , explorant-ne els impactes, els reptes i els dilemes a través de vuit pel·lícules. Organitza: Espai Cràter",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-congreso-icona-ia/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-30",
-      "date_end": "2026-10-30",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-0cef66099059",
-      "title": "“Idea, projecte i realitat. Jordi Brunet Forasté, maquetista.”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Jordi-Brunet-Foraste-2.jpg",
-      "municipality": "Olot",
-      "venue": "Arxiu Comarcal de la Garrotxa",
-      "category": null,
-      "description": "HORARI D'OBERTURA: De l'1 de juny al 30 de setembre: de dilluns a divendres, de 8 a 15 h / De l'1 d'octubre al 31 de maig: de dilluns a divendres, de 9 a 14 i de 15.30 a 18 h",
-      "url": "https://www.olotcultura.cat/agenda/acte/idea-projecte-i-realitat-jordi-brunet-foraste-maquetista/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-30",
-      "date_end": "2026-10-30",
-      "sessions": [
-        {
-          "date": "2026-10-30",
-          "time": "15:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-d53c41af76ba",
       "title": "Clara Peya",
@@ -2430,13 +2354,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 108,
-      "events_published": 108,
+      "events_found": 104,
+      "events_published": 104,
       "rejected_no_valid_image": 0,
-      "with_image": 108,
-      "with_sessions": 108,
-      "with_venue": 107,
-      "with_municipality": 108
+      "with_image": 104,
+      "with_sessions": 104,
+      "with_venue": 103,
+      "with_municipality": 104
     },
     {
       "connector": "connectors.celra",
