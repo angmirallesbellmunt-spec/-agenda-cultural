@@ -1,120 +1,6 @@
 {
-  "generated_at": "2026-10-31T05:03:39.724771+00:00",
+  "generated_at": "2026-11-01T05:08:11.520349+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-d53c41af76ba",
-      "title": "Clara Peya",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-31-Clara-peya-agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Una banda excepcional dona nova vida a unes cançons que neixen per reunir-nos i imaginar un futur compartit Nuca és una aposta per retrobar-nos. En un context social marcat per la incertesa, la por i el desànim, és urgent inventar-nos noves fórmules per ajuntar-nos entre desconeguts, entre diferents. Girar el coll en direccions inesperades i entrenar de nou la musculatura de l’empatia. No serà fàcil perquè haurem de fer front a molts discursos que ens inciten a la desconfiança, al replegament i a la ruptura, i fins i tot a la deshumanització dels altres. Aquest disc parteix de la convicció que la soledat que molts de nosaltres sentim és important compartir-la amb els altres. I és també una llavor per provocar aquesta trobada des de la convicció que el que ens ha d’apropar de nou no és l’amenaça de la catàstrofe, sinó el desig de viure el futur plegats. Un nou viatge musical a través de cançons de lletres punyents i melodies sensibles interpretades en directe per una banda de luxe que ens recorda la potència aglutinadora de l’art i la música com a motor per construir comunitat. Clara Peya: piano Didak Fernández: bateria i percussió Adri González: baix elèctric, guitarra espanyola i synths Enric Verdaguer, Carmen Aciar i Will Mas: veus",
-      "url": "https://www.olotcultura.cat/agenda/acte/clara-peya-3/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-31",
-      "date_end": "2026-10-31",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-8b74e9c476a3",
-      "title": "La Castanyera",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/La-castanyera-2.jpg",
-      "municipality": "Olot",
-      "venue": "carrers del centre d’Olot",
-      "category": null,
-      "description": "La Castanyera arriba al centre d’Olot per celebrar la castanyada. A partir de les 11 h, serà davant de la plaça Mercat, on repartirà punts de llibre i els més petits podran fer-s’hi fotografies . Tot seguit, recorrerà diferents carrers del centre de la ciutat acompanyada de música en directe . Durant la setmana, la Castanyera també visitarà escoles i residències de gent gran d’Olot . Organitza: Centre d’Iniciatives Turístiques d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/la-castanyera-4/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-31",
-      "date_end": "2026-10-31",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "11:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-18c6fa1b3a58",
-      "title": "Passejada per Olot per conèixer obres dels arquitectes de la nova arquitectura garrotxina",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/visita-guiada-de-la-casa-a-la-placa_agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Hospici",
-      "category": null,
-      "description": "Activitat complementària a l’exposició “De la casa a la plaça: nous paisatges de l’arquitectura garrotxina” .",
-      "url": "https://www.olotcultura.cat/agenda/acte/passejada-per-olot-per-coneixer-obres-dels-arquitectes-de-la-nova-arquitectura-garrotxina/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-31",
-      "date_end": "2026-10-31",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-e4b1bcb53ee2",
-      "title": "Playback",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Balmes-que-no-thi-fixis.jpg",
-      "municipality": "Olot",
-      "venue": "Els Catòlics",
-      "category": null,
-      "description": "Venda d’entrades en línia o bé presencialment al Centre d’Iniciatives Turístiques d’Olot (CIT) els matins de les 10 h a les 12 h.",
-      "url": "https://www.olotcultura.cat/agenda/acte/playback/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-31",
-      "date_end": "2026-10-31",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-0b8501f5f789",
-      "title": "Taller infantil d’estampació de monstres sobre cartró",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-31-taller-infantil-estampacio-monstres-amb-guilla.jpg",
-      "municipality": "Olot",
-      "venue": "Museu dels Sants",
-      "category": null,
-      "description": "Taller d’estampació de monstres amb tampons artesanals. Farem moltes proves per potenciar la creativitat de cada artista i finalment, estamparem sobre carpetes de cartró una col·lecció de monstres.",
-      "url": "https://www.olotcultura.cat/agenda/acte/taller-infantil-destampacio-de-monstres-sobre-cartro/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-31",
-      "date_end": "2026-10-31",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "11:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-1f7ce55d5f3f",
-      "title": "Taller infantil: Atrapa-somnis natural",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Atrapa-somnis.jpg",
-      "municipality": "Olot",
-      "venue": "Oficina de Turisme d’Olot",
-      "category": null,
-      "description": "Taller creatiu adreçat a infants de 3 a 8 anys per elaborar un atrapa-somnis natural. Cicle de tallers creatius Petits Exploradors. Organitza: Oficina de Turisme d’Olot.",
-      "url": "https://www.olotcultura.cat/agenda/acte/taller-infantil-atrapa-somnis-natural/",
-      "source": "Olot Cultura",
-      "date_start": "2026-10-31",
-      "date_end": "2026-10-31",
-      "sessions": [
-        {
-          "date": "2026-10-31",
-          "time": "12:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-8c49c6c62256",
       "title": "Ballada de Sardanes – Castanyada",
@@ -150,25 +36,6 @@
         {
           "date": "2026-11-01",
           "time": "12:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-480ef1b0d3c5",
-      "title": "Entrada gratuïta als Museus d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2023/02/imatge_agenda_museus_gratis.jpg",
-      "municipality": "Olot",
-      "venue": "Museus d’Olot",
-      "category": null,
-      "description": "Com tots els primers diumenges de mes l’entrada als Museus d’Olot és gratuïta! Els Museus d’Olot apleguen tres centres patrimonials cadascun dedicat a una temàtica concreta a més de la Secció de ciències naturals. Compten amb una gestió conjunta per posar en valor elements singulars i identitaris d’Olot i comarca des de diferents punts de vista: art, artesania, ciències i història. Museu de la Garrotxa / Art i paisatge dels segles XIX i XX Museu dels Sants / Taller d’artesania i faràndula Casa Museu Can Trincheria / Història i vida del segle XVIII Consulteu els horaris de cada museu aquí.",
-      "url": "https://www.olotcultura.cat/agenda/acte/entrada-gratuita-als-museus-dolot-44/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-01",
-      "date_end": "2026-11-01",
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "11:30"
         }
       ]
     },
@@ -1745,7 +1612,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "11:30"
+          "time": "12:00"
         }
       ]
     },
@@ -2354,13 +2221,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 104,
-      "events_published": 104,
+      "events_found": 97,
+      "events_published": 97,
       "rejected_no_valid_image": 0,
-      "with_image": 104,
-      "with_sessions": 104,
-      "with_venue": 103,
-      "with_municipality": 104
+      "with_image": 97,
+      "with_sessions": 97,
+      "with_venue": 96,
+      "with_municipality": 97
     },
     {
       "connector": "connectors.celra",
