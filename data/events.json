@@ -1,63 +1,6 @@
 {
-  "generated_at": "2026-11-01T05:08:11.520349+00:00",
+  "generated_at": "2026-11-02T05:22:32.472553+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-8c49c6c62256",
-      "title": "Ballada de Sardanes – Castanyada",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2025/02/sardanes-agenda2.jpg",
-      "municipality": "Olot",
-      "venue": "Plaça Major Activitat gratuïta Amb la cobla Contemporània Organitza: Agrupació Sardanista Olot Activitat gratuïta",
-      "category": null,
-      "description": null,
-      "url": "https://www.olotcultura.cat/agenda/acte/ballada-de-sardanes-castanyada/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-01",
-      "date_end": "2026-11-01",
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-2017e412814e",
-      "title": "Duo Elysium",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9722.jpeg?w=1500&aoe=1&q=80&h=1000&sx=10.11&sy=0&sw=1147.75&sh=765.17",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Un viatge per les múltiples veus de la viola: lirisme, introspecció i força expressiva. De Brahms a Guinovart, passant per Montsalvatge i Rebecca Clarke, aquest recital dibuixa un paisatge sonor ple de matisos, conduït per la complicitat íntima de la viola i el piano. Organitza: Joventuts Musicals de Banyoles En conveni amb: Ajuntament de Banyoles",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34150-duo-elysium.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-01",
-      "date_end": "2026-11-01",
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "12:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-2ccde0ffa529",
-      "title": "Vermut musical: Jessica Mellado",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Jessica-Mellado.jpg",
-      "municipality": "Olot",
-      "venue": "La Volianna del Parc Nou",
-      "category": null,
-      "description": "Vermut musical a La Volianna del Parc Nou amb Jessica Mellado, gaudeix d’un vermut ple de ritme i bona energia amb la cantautora Jessica Mellado i la seva fusió de pop rumba. Un concert en directe on presentarà les seves cançons pròpies i les millors versions de grans temes. El millor pla per al migdia! Organitza: La Volianna del Parc Nou",
-      "url": "https://www.olotcultura.cat/agenda/acte/jessica-mellado-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-01",
-      "date_end": "2026-11-01",
-      "sessions": [
-        {
-          "date": "2026-11-01",
-          "time": "12:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-20eecfe1c2b0",
       "title": "Una parada més",
@@ -235,7 +178,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9721.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Teatre i dansa",
+      "category": "Música",
       "description": "La Llogatera és el viatge apassionant i frenètic d’una noia que es veu obligada a deixar el seu pis de 38 m². Una comèdia amarga amb diferents convidats: la mare, un amant, el propietari, un alumne, la dona de la immobiliària, la socorrista, un milicià… La nostra protagonista haurà d’enfrontar-se a les seves pors: el futur, les expectatives i el fracàs, la precarietat, la soledat… i la seva dificultat per passar a l’acció. Com actuar contra un sistema que l’expulsa quan no és suficient ser suficient? Com aferrar-se al seu castell de 38 m²?",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34151-la-llogatera.html",
       "source": "Cultura Banyoles",
@@ -349,7 +292,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9719.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Teatre i dansa",
+      "category": "Música",
       "description": "Interpretació: Paula Fossati i Eva Ferré/Berta Camps / Dramatúrgia: Èlia Borràs, Berta Camps i Eva Ferré / Direcció: Èlia Borràs i Berta Camps Les cases dels altres és un espectacle collage que combina anècdotes i retalls de vida per obrir-nos les portes a cases alienes. A través de fragments íntims i quotidians, l’espectacle reflexiona sobre què vol dir sentir-se part d’un lloc, d’un país o d’un grup, i què passa quan ens n’exclouen. Una mirada sensible a la necessitat d’arrelament, a la por de ser expulsats i a la fragilitat de tot allò que anomenem “casa”. Una història explicada per diferents testimonis que ens obren les portes de casa seva per ensenyar-nos alguns dels seus racons.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34153-les-cases-dels-altres.html",
       "source": "Cultura Banyoles",
@@ -2210,24 +2153,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 15,
-      "events_published": 15,
+      "events_found": 14,
+      "events_published": 14,
       "rejected_no_valid_image": 0,
-      "with_image": 15,
-      "with_sessions": 15,
+      "with_image": 14,
+      "with_sessions": 14,
       "with_venue": 0,
-      "with_municipality": 15
+      "with_municipality": 14
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 97,
-      "events_published": 97,
+      "events_found": 95,
+      "events_published": 95,
       "rejected_no_valid_image": 0,
-      "with_image": 97,
-      "with_sessions": 97,
-      "with_venue": 96,
-      "with_municipality": 97
+      "with_image": 95,
+      "with_sessions": 95,
+      "with_venue": 94,
+      "with_municipality": 95
     },
     {
       "connector": "connectors.celra",
