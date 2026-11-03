@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-02T05:22:32.472553+00:00",
+  "generated_at": "2026-11-03T12:05:08.552489+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-20eecfe1c2b0",
-      "title": "Una parada més",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-16-La-Cremallera_146.jpg",
-      "municipality": "Olot",
-      "venue": "Firal",
-      "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
-      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-02",
-      "date_end": "2026-11-02",
-      "sessions": [
-        {
-          "date": "2026-11-02",
-          "time": "13:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-28b26553a7ad",
       "title": "“El cor de les meves tetes”",
@@ -86,6 +67,25 @@
       "category": null,
       "description": "L’acte consistirà en una conversa sobre la figura i l’obra de l’escriptora, traductora i periodista de l’època de la república Elvira Augusta Lewi. Hi participaran Mariona Bosch, editora d’Edicions del Cràter —segell que ha publicat la novel·la—, i la filòloga Rosa Vilanova, responsable de l’edició i del postfaci. Organitza: ALBA Associació de dones de la Garrotxa",
       "url": "https://www.olotcultura.cat/agenda/acte/una-conversa-sobre-elvira-augusta-lewi-i-la-seva-novella-un-poeta-i-dues-dones/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-05",
+      "date_end": "2026-11-05",
+      "sessions": [
+        {
+          "date": "2026-11-05",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ade6ffc9bf49",
+      "title": "Xerrada: Què és Occitània?",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/aaa_occitania.jpg",
+      "municipality": "Olot",
+      "venue": "Òmnium Garrotxa",
+      "category": null,
+      "description": "Raquel Olivella, membre del CAOC, impartirà la xerrada “Què és l’Occitània?”. Òmnium Garrotxa i Centre d’Agermanament Occitano-Català",
+      "url": "https://www.olotcultura.cat/agenda/acte/xerrada-que-es-occitania/",
       "source": "Olot Cultura",
       "date_start": "2026-11-05",
       "date_end": "2026-11-05",
@@ -625,6 +625,25 @@
         {
           "date": "2026-11-14",
           "time": "17:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-5b0f434b4289",
+      "title": "Visita a la teixeda de la Cot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/feixeda.jpg",
+      "municipality": "Olot",
+      "venue": "Parc Nou",
+      "category": null,
+      "description": "Sortida matinal amb itinerari fàcil per visitar una de les teixedes destacades del Parc Natural de la Zona Volcànica de la Garrotxa. Es comentaran diferents aspectes de projectes de conservació per aquests boscos tan emblemàtics. Cal portar bon calçat i aigua. El punt de trobada per a la sortida seran a a les 9.30 h a l’aparcament del parc Nou o a les 9.50 h a Can Xel. Organitza: Delegació de la Garrotxa i el Ripollès i a Diputació de Girona",
+      "url": "https://www.olotcultura.cat/agenda/acte/visita-a-la-teixeda-de-la-cot/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-14",
+      "date_end": "2026-11-14",
+      "sessions": [
+        {
+          "date": "2026-11-14",
+          "time": "09:30"
         }
       ]
     },
@@ -2164,13 +2183,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 95,
-      "events_published": 95,
+      "events_found": 96,
+      "events_published": 96,
       "rejected_no_valid_image": 0,
-      "with_image": 95,
-      "with_sessions": 95,
-      "with_venue": 94,
-      "with_municipality": 95
+      "with_image": 96,
+      "with_sessions": 96,
+      "with_venue": 95,
+      "with_municipality": 96
     },
     {
       "connector": "connectors.celra",
