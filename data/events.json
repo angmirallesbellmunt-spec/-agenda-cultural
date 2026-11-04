@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T12:05:08.552489+00:00",
+  "generated_at": "2026-11-04T12:20:05.304983+00:00",
   "events": [
     {
       "id": "Olot Cultura-28b26553a7ad",
@@ -211,25 +211,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-cbf5361e0be1",
-      "title": "Xerrada amb els Esplais de la Garrotxa i l’Agrupament Nostra dona del Tura",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Altrart.jpg",
-      "municipality": "Olot",
-      "venue": "Arxiu Comarcal de la Garrotxa",
-      "category": null,
-      "description": "“El lleure com a motor social”, amb Esplais de la Garrotxa i Agrupament Nostra dona del Tura. Entitats de llarg recorregut en el món del lleure a la Garrotxa. 20 h – Inici. 21 h – Col·loqui obert entre tots els assistents i les ponents. 21.30 h – Petit refrigeri. 22 h – Cloenda. Organitza: Altrart, Associació d’Artteràpia d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-lleure-com-a-motor-social/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-06",
-      "date_end": "2026-11-06",
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
       "id": "Cultura Banyoles-c731009e437f",
       "title": "Debon canta Suau",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9720.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -306,8 +287,8 @@
       ]
     },
     {
-      "id": "Cultura Banyoles-f41272366707",
-      "title": "Música antiga de Girona",
+      "id": "Cultura Banyoles-1989f4bf0b73",
+      "title": "Música Antiga de Girona",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9760.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
@@ -441,7 +422,7 @@
     {
       "id": "Olot Cultura-42e590caafb5",
       "title": "Recital poètic: Una xica-mica, el parlar de la Garrotxa",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Una-xica-mica.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/una-xica-mica-1.jpg",
       "municipality": "Olot",
       "venue": "Casal Marià",
       "category": null,
@@ -895,6 +876,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-cbf5361e0be1",
+      "title": "Xerrada amb els Esplais de la Garrotxa i l’Agrupament Nostra dona del Tura",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Altrart.jpg",
+      "municipality": "Olot",
+      "venue": "Arxiu Comarcal de la Garrotxa",
+      "category": null,
+      "description": "“El lleure com a motor social”, amb Esplais de la Garrotxa i Agrupament Nostra dona del Tura. Entitats de llarg recorregut en el món del lleure a la Garrotxa. 20 h – Inici. 21 h – Col·loqui obert entre tots els assistents i les ponents. 21.30 h – Petit refrigeri. 22 h – Cloenda. Organitza: Altrart, Associació d’Artteràpia d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-lleure-com-a-motor-social/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-20",
+      "date_end": "2026-11-20",
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-ddd1958f0cc0",
       "title": "El retrat de Dorian Gray",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
@@ -1148,7 +1148,7 @@
       "municipality": "Olot",
       "venue": "Teatre Principal d’Olot",
       "category": null,
-      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18.30 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
       "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico/",
       "source": "Olot Cultura",
       "date_start": "2026-11-26",
@@ -1167,7 +1167,7 @@
       "municipality": "Olot",
       "venue": "Teatre Principal d’Olot",
       "category": null,
-      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18.30 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
       "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-1/",
       "source": "Olot Cultura",
       "date_start": "2026-11-26",
@@ -1224,7 +1224,7 @@
       "municipality": "Olot",
       "venue": "Teatre Principal d’Olot",
       "category": null,
-      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18.30 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
       "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-3/",
       "source": "Olot Cultura",
       "date_start": "2026-11-27",
@@ -1243,7 +1243,7 @@
       "municipality": "Olot",
       "venue": "Teatre Principal d’Olot",
       "category": null,
-      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18.30 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
+      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
       "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-4/",
       "source": "Olot Cultura",
       "date_start": "2026-11-27",
@@ -1484,25 +1484,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-e000aacb956f",
-      "title": "Premis Eva Toldrà d’Il·lustració",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/PREMIS-EVA-TOLDRA-DIL·LUSTRACIO-XV-EDICIO-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Can Trincheria",
-      "category": null,
-      "description": "HORARI D'OBERTURA: De dimarts a divendres, de 10 a 13 h i de 16 a 19 h / Dissabtes, d'11 a 14 h i de 16 a 19 h / Diumenges i festius, d'11 a 14 h / Dilluns tancat",
-      "url": "https://www.olotcultura.cat/agenda/acte/premis-eva-toldra-dillustracio/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-30",
-      "date_end": "2026-11-30",
-      "sessions": [
-        {
-          "date": "2026-11-30",
-          "time": "13:00"
-        }
-      ]
-    },
-    {
       "id": "Olot Cultura-c79338d8d719",
       "title": "Una parada més",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-16-La-Cremallera_146.jpg",
@@ -1560,6 +1541,44 @@
       ]
     },
     {
+      "id": "Olot Cultura-c00e59bac12e",
+      "title": "“Aixopluc”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/expo-ceramica-eme_agenda.jpg",
+      "municipality": "Olot",
+      "venue": "Biblioteca Marià Vayreda",
+      "category": null,
+      "description": "HORARI D'OBERTURA: De dilluns a dissabte de 9.30 a 13.30 i de 16 a 20 h / Durant les vacances escolars, dissabtes tancat",
+      "url": "https://www.olotcultura.cat/agenda/acte/aixopluc/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-04",
+      "date_end": "2026-12-04",
+      "sessions": [
+        {
+          "date": "2026-12-04",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-bd93dd464adb",
+      "title": "Vermut musical: Andrés Redondo",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Andres-redondo.jpg",
+      "municipality": "Olot",
+      "venue": "La Volianna del Parc Nou",
+      "category": null,
+      "description": "Andrés Redondo ens proposa un recorregut acústic per grans cançons de tots els temps, amb versions de The Beatles, Bob Dylan, Coldplay, U2, El Último de la Fila, Sau i molts més. Una proposta propera i en acústic, perfecta per gaudir d’un vermut amb bona música, cançons conegudes i aquell ambient tranquil de La Volianna. Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/vermut-musical-andres-redondo/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-05",
+      "date_end": "2026-12-05",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-8c7d737c7af0",
       "title": "Entrada gratuïta als Museus d’Olot",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2023/02/imatge_agenda_museus_gratis.jpg",
@@ -1574,6 +1593,44 @@
       "sessions": [
         {
           "date": "2026-12-06",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-ca16883e524e",
+      "title": "Vermut musical: Aya i King",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/aya-i-king.jpg",
+      "municipality": "Olot",
+      "venue": "La Volianna del Parc Nou",
+      "category": null,
+      "description": "Aya & King es retroben per oferir-nos un viatge per la música afroamericana, des dels sons més clàssics fins a les propostes més contemporànies, sempre amb una mirada i una interpretació molt personals. Amb més de 200 concerts per tot Europa i una trajectòria vinculada a formacions com The Pepper Pots , així com col·laboracions amb artistes com Binky Griptite, Maxine Brown o Eli Paperboy Reed , porten a l’escenari tota l’experiència i passió acumulades al llarg dels anys. Una proposta plena de ritme, ànima i autenticitat per gaudir de la música en directe a La Volianna . Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/vermut-musical-aya-i-king/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-06",
+      "date_end": "2026-12-06",
+      "sessions": [
+        {
+          "date": "2026-12-06",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c4894dc5b770",
+      "title": "Vermut musical: Alexis Music",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Alexis-music.jpg",
+      "municipality": "Olot",
+      "venue": "La Volianna del Parc Nou",
+      "category": null,
+      "description": "Alexis Music ens convida a un viatge musical sense fronteres , recorrent estils tan diversos com el jazz, el funky, el pop, la salsa, la bachata o la cumbia . Cada interpretació és una nova parada en aquest viatge, plena de ritme, melodies i emocions. Una proposta per deixar-se portar per la música i gaudir del vermut al cor del parc Nou . Organitza: La Volianna del Parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/vermut-musical-alexis-music/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-08",
+      "date_end": "2026-12-08",
+      "sessions": [
+        {
+          "date": "2026-12-08",
           "time": "12:00"
         }
       ]
@@ -1617,6 +1674,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-4bab449f237e",
+      "title": "Cau de poesia",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2024/10/cau-de-poesia.jpg",
+      "municipality": "Olot",
+      "venue": "Casal Cívic i Comunitari",
+      "category": null,
+      "description": "Trobada oberta a tothom per compartir i gaudir de la poesia en un espai de trobada entre persones interessades en la paraula i la creació literària. Organitza: Amics de les Lletres Garrotxines",
+      "url": "https://www.olotcultura.cat/agenda/acte/cau-de-poesia-20/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-11",
+      "date_end": "2026-12-11",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-647774980a7b",
       "title": "Marc Parrot i el Quartet Brossa",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/12-11-MarcParrotQuartetBrossa-agenda-web.jpg",
@@ -1625,6 +1701,25 @@
       "category": null,
       "description": "Un repertori fresc i sorprenent, una nova manera d’interpretar cançons de Parrot i de donar veu als Brossa Marc Parrot i el Quartet Brossa uneixen talents en un espectacle innovador on les seves músiques es reinventen. Junts experimenten per trobar noves composicions i arranjaments inèdits, explorant nous camins sonors i artístics. Una proposta íntima i alhora vibrant on la fusió de sensibilitats i estils dona com a resultat un espectacle carregat d’emoció, de creativitat i de complicitat musical. Marc Parrot: veu i guitarra Aleix Puig Caminal: violí Pere Bartolomé Valls: violí Imma Lluch Revert: viola Marçal Ayats: violoncel",
       "url": "https://www.olotcultura.cat/agenda/acte/marc-parrot-i-el-quartet-brossa/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-11",
+      "date_end": "2026-12-11",
+      "sessions": [
+        {
+          "date": "2026-12-11",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-383ae938febd",
+      "title": "Recital poètic: “Aires”, Philippe Jaccottet",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/philippe-jaccottet-recital.jpg",
+      "municipality": "Olot",
+      "venue": "Centre Catòlic d’Olot",
+      "category": null,
+      "description": "És possible que el poeta desaparegui dels seus versos? Aquest és un exercici difícil que Jaccottet aconsegueix després de passar per un procés turmentós de l’ànima que el mena a una transformació, una transmutació. Inspirat en l’esperit de la poesia oriental i els paisatges alpins suïssos, sublima la ingravidesa de l’existència en pau amb un mateix a través d’objectes i éssers quotidians que troba en les seves caminades diàries. Fils de llum en la foscor dels nostres viaranys. Intèrprets: Rapsòdia veus literàries: veus poètiques Jordi Ballesteros: música Arantxa Villafranca: imatge Organitza: Rapsòdia veus literàries",
+      "url": "https://www.olotcultura.cat/agenda/acte/recital-poetic-aires-philippe-jaccottet/",
       "source": "Olot Cultura",
       "date_start": "2026-12-11",
       "date_end": "2026-12-11",
@@ -1921,6 +2016,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-2c42fa6820b6",
+      "title": "Vermut musical: Toti Torrent Trio",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/toti-torrent-trio.jpg",
+      "municipality": "Olot",
+      "venue": "La Volianna del Parc Nou",
+      "category": null,
+      "description": "Toti Torrent Trio ens convida a descobrir un univers musical propi de la mà de Toti Torrent , guitarrista i compositor amb una llarga trajectòria dins del món del jazz. El trio centra el seu repertori en les seves pròpies composicions, obres contemporànies que fusionen influències de diferents èpoques i estils: el jazz, la música clàssica, la música brasilera i les bandes sonores cinematogràfiques . Una proposta plena de matisos, perfecta per deixar-se portar per la música i gaudir d’un vermut diferent a La Volianna. Organitza: La Volianna del parc Nou",
+      "url": "https://www.olotcultura.cat/agenda/acte/vermut-musical-toti-torrent-trio/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-19",
+      "date_end": "2026-12-19",
+      "sessions": [
+        {
+          "date": "2026-12-19",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-1fec689bd809",
       "title": "Els Pastorets d’Olot",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Pastorets-Catolics-2026.jpg",
@@ -2183,13 +2297,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 96,
-      "events_published": 96,
+      "events_found": 102,
+      "events_published": 102,
       "rejected_no_valid_image": 0,
-      "with_image": 96,
-      "with_sessions": 96,
-      "with_venue": 95,
-      "with_municipality": 96
+      "with_image": 102,
+      "with_sessions": 102,
+      "with_venue": 101,
+      "with_municipality": 102
     },
     {
       "connector": "connectors.celra",
