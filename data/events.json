@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-04T12:20:05.304983+00:00",
+  "generated_at": "2026-11-05T12:33:04.598179+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-28b26553a7ad",
-      "title": "“El cor de les meves tetes”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/El-cor-de-les-meves-tetes.jpg",
-      "municipality": "Olot",
-      "venue": "Hospital d’Olot i comarcal de la Garrotxa",
-      "category": null,
-      "description": "Exposició que trasllada al llenguatge artístic l’experiència de Neus Martí amb el càncer de mama i recorre diferents moments del procés de diagnòstic i tractament. La mostra reuneix creacions de la mateixa Neus Martí i d’altres artistes del seu entorn, sorgides al llarg d’aquest procés vital i vinculades als continguts del llibre El cor de les meves tetes . Inauguració el dia 15 d’octubre a les 19 h , després de la presentació del llibre . Organitza: Fundació Hospital d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/exposicio-el-cor-de-les-meves-tetes/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-04",
-      "date_end": "2026-11-04",
-      "sessions": [
-        {
-          "date": "2026-11-04",
-          "time": "19:00"
-        }
-      ]
-    },
     {
       "id": "Cultura Banyoles-1d0fe783f9de",
       "title": "Contes per a nadons",
@@ -789,6 +770,25 @@
       "category": null,
       "description": "Lectura dramatitzada de textos del poeta granadí amb motiu de l’Any Lorca La matinada del 18 d’agost del 1936 (fa 90 anys) va ser assassinat Federico García Lorca, que tenia 38 anys i era massa modern per a l’Espanya del moment. Considerat dels poetes i dramaturgs més importants del segle XX espanyol, tothom coincideixen en la magnitud inimitable i inigualable de la seva obra, la qual ens arriba als nostres dies amb la força afegida de la justícia i reivindicació. Aquesta lectura ens apropa a l’autor a través d’un recorregut per Poema del cante jondo , Bodas de sangre , Yerma , Romancero gitano , Poeta en Nueva York o Sonetos del amor oscuro .",
       "url": "https://www.olotcultura.cat/agenda/acte/lorca-alma-ausente/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-19",
+      "date_end": "2026-11-19",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-30d65df2d686",
+      "title": "Presentació de llibre: “El crim de can Patorra”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Portada_Francesc-Cruanyes_RGB_agenda.jpg",
+      "municipality": "Olot",
+      "venue": "Espai Cràter",
+      "category": null,
+      "description": "Presentació del llibre El crim de can Patorra , de Francesc Cruanyes, una obra que parteix d’un crim que va trasbalsar Maià de Montcal i que segueix dues trames: la de la investigació i la de la pèrdua de la família. De retruc, la història retrata la Catalunya rural de principis del segle XX. Sobre la novel·la El 25 d’agost de 1905, a Maià de Montcal, un poble de pagès de la Garrotxa, una noia de quinze anys apareix degollada a can Patorra. Era migdia, estava sola a casa preparant el dinar i la mare i el germà treballaven al camp. Quan tornen, només troben el gos ferit, la porta oberta i un toll de sang a la sala. Mentre les campanes toquen a sometent, tot el poble s’hi arreplega i els rumors comencen a córrer. El crim de can Patorra, del periodista Francesc Cruanyes, novel·la la investigació, l’enterrament –que coincideix amb l’eclipsi total de sol del 30 d’agost d’aquell any– i el judici que, dos anys després, s’obre a l’Audiència de Girona amb dues penes de mort a garrot sobre la taula. Hi ha dos sospitosos empresonats, un masover foragitat de Santa Llúcia i el seu presumpte còmplice, i una Guàrdia Civil que no parla català. Hi ha, també, un secretari municipal que prefereix que res no es remogui, un fiscal jove que es juga la carrera i uns advocats de ciutat que hi veuen una oportunitat. Al mig d’aquest engranatge, en Perot, el germà de la víctima, no sap llegir ni escriure i no té cap advocat, i s’ha d’enfrontar sol a un tribunal. Basada en fets reals i escrita per un net del protagonista, la novel·la no és només la història d’una mort, sinó també la dels qui la van viure de molt a la vora: una mare que ho ha perdut tot, un germà que carrega amb la culpa i un poble dividit entre el silenci i la sospita. A l’acte hi participarà l’autor, que estarà acompanyat per la periodista Tura Soler, l’historiador local Josep Vilar i el director d’Editorial Gavarres, Àngel Madrià. Organitza: Editorial Gavarres",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-llibre-el-crim-de-can-patorra/",
       "source": "Olot Cultura",
       "date_start": "2026-11-19",
       "date_end": "2026-11-19",
