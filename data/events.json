@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-11-05T12:33:04.598179+00:00",
+  "generated_at": "2026-11-06T12:16:51.472599+00:00",
   "events": [
-    {
-      "id": "Cultura Banyoles-1d0fe783f9de",
-      "title": "Contes per a nadons",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9905.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Biblioteca",
-      "description": "A càrrec de Kincakau Una sessió dolça i sensorial amb jocs, cançons i ritmes pensades per als més petits. Acostem els contes a través d'un teatre d'ombres, amb escenificacions de taula i materials per tocar i jugar. Amb el suport: Diputació de Girona",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34179-contes-per-a-nadons.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-05",
-      "date_end": "2026-11-05",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "17:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-8f6076e85251",
-      "title": "Premis d’Arquitectura de les Comarques de Girona 2026",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/premis-arquitectura-comareques-girona.jpg",
-      "municipality": "Olot",
-      "venue": "Seu de la Delegació Garrotxa-Ripollès del COAC",
-      "category": null,
-      "description": "En aquesta mostra, s’hi poden veure les obres guardonades, que engloben mencions, premis i premi de l’opinió, juntament amb l’acta del jurat. El muntatge expositiu el configuren 5 panells de llum que mostren els projectes segons la seva categoria (arquitectures, interiors, efímers i paisatges) mitjançant una gran fotografia. La imatge de l’activitat ha estat cedida per COAC. Organitza: Delegació Garrotxa-Ripollès del COAC amb la col·laboració de l’Ajuntament d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/premis-darquitectura-de-les-comarques-de-girona-2026/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-05",
-      "date_end": "2026-11-05",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": null
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-77be955afaf1",
-      "title": "Una conversa sobre Elvira Augusta Lewi i la seva novel·la “Un poeta i dues dones”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/AGENDA.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "L’acte consistirà en una conversa sobre la figura i l’obra de l’escriptora, traductora i periodista de l’època de la república Elvira Augusta Lewi. Hi participaran Mariona Bosch, editora d’Edicions del Cràter —segell que ha publicat la novel·la—, i la filòloga Rosa Vilanova, responsable de l’edició i del postfaci. Organitza: ALBA Associació de dones de la Garrotxa",
-      "url": "https://www.olotcultura.cat/agenda/acte/una-conversa-sobre-elvira-augusta-lewi-i-la-seva-novella-un-poeta-i-dues-dones/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-05",
-      "date_end": "2026-11-05",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-ade6ffc9bf49",
-      "title": "Xerrada: Què és Occitània?",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/aaa_occitania.jpg",
-      "municipality": "Olot",
-      "venue": "Òmnium Garrotxa",
-      "category": null,
-      "description": "Raquel Olivella, membre del CAOC, impartirà la xerrada “Què és l’Occitània?”. Òmnium Garrotxa i Centre d’Agermanament Occitano-Català",
-      "url": "https://www.olotcultura.cat/agenda/acte/xerrada-que-es-occitania/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-05",
-      "date_end": "2026-11-05",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-6faf38526f18",
-      "title": "“Lluèrnia, un somni”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/02/OA-FUMAROLA-DE-LLUERNIA.jpg",
-      "municipality": "Olot",
-      "venue": "Seu de la Delegació Garrotxa-Ripollès del COAC",
-      "category": null,
-      "description": "La ponència proposa un recorregut per la trajectòria de Lluèrnia, un projecte que va més enllà d’un festival de foc i de llum i que, al llarg dels anys, ha esdevingut un espai d’experimentació arquitectònica, expressió artística i reflexió sobre el paisatge urbà. A través de la seva experiència, Pep Fargas explorarà les múltiples dimensions del festival; des de la transformació del paisatge quotidià mitjançant instal·lacions efímeres fins a la reivindicació de carrers i barris, passant per la participació ciutadana, la pedagogia i la cultura. Una oportunitat per descobrir com Lluèrnia ha contribuït a generar noves mirades sobre la ciutat i els seus espais. Organitza: Delegació Garrotxa-Ripollès del COAC i Lluèrnia, festival del foc i de la llum, amb la col·laboració de l’Ajuntament d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/fumarola-de-lluernia/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-05",
-      "date_end": "2026-11-05",
-      "sessions": [
-        {
-          "date": "2026-11-05",
-          "time": "19:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-33e2384e6aaf",
       "title": "Cau de poesia",
@@ -169,25 +74,6 @@
         {
           "date": "2026-11-06",
           "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-f1816578ad2e",
-      "title": "Premis ENFooCA 2026",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/premis-enfooca-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "El projecte guanyador dels premis ENFooCA 2026, “Els habitants de la nit”, d’Arnau Soler i Aina Rossinyol, ens convida a descobrir la fauna nocturna de la Garrotxa a través de la mirada de dos biòlegs especialitzats en fotografia de natura. El treball és el resultat de nombroses sortides de camp amb investigadors i especialistes que estudien la biodiversitat del nostre territori. Durant l’acte es presentarà el projecte becat i s’inaugurarà l’exposició Els habitants de la nit , una proposta que vol acostar al públic un món tan fascinant com sovint desconegut. Es comptarà també amb la conferència del reconegut fotògraf de natura i viatges Oriol Alamany. Organitza: Associació ENFooCA i Espai Cràter",
-      "url": "https://www.olotcultura.cat/agenda/acte/premis-enfooca-2026/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-06",
-      "date_end": "2026-11-06",
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "12:00"
         }
       ]
     },
@@ -762,6 +648,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-5f7f13b64fcc",
+      "title": "Premis Jordi Pujiula: treballs i projectes guanyadors",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Premis-Jordi-Pujiula-2026_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Espai Cràter",
+      "category": null,
+      "description": "Presentació dels treballs guanyadors dels Premis Jordi Pujiula 2026. Els guanyadors dels premis dels diferents àmbits de treballs de recerca de batxillerat i de projectes finals de cicles formatius exposaran els seus treballs. -Treballs de recerca de batxillerat: Ciències de la Salut, Ciències Naturals, Tecnologia, i Comarcal. -Projectes finals de cicles formatius: Ciències de la Salut i dels Aliments, Disseny Tècnic i Edificació, i Ciències Aplicades i Tecnologia. Ho organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/premis-jordi-pujiula-treballs-i-projectes-guanyadors/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-18",
+      "date_end": "2026-11-18",
+      "sessions": [
+        {
+          "date": "2026-11-18",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-67de138104e7",
       "title": "Lorca, alma ausente",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-19-LORCA-01.jpg",
@@ -995,7 +900,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9723.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Biblioteca",
+      "category": "Teatre i dansa",
       "description": "El programa de curtmetratges Astres immòbils ens obre una porta a descobrir nous mons des de l’assertivitat, l’escolta i el respecte mutu a través de les històries que li donen vida. Les tres narracions ens proposen un viatge que ens transporta a universos visuals únics partint del simbolisme dels colors i les formes. Ens parlen de convivència, de la possibilitat d’esbrinar d’on prové cadascú i de la transcendència de fer aquests viatges emocionals. A Astres immòbils coneixem la Chenghua, una nena de nou anys a qui li toca assumir la responsabilitat de fer de traductora per als seus pares, d’origen xinès, i busca evadir-se amb la seva afició per l’espai. A Luce i la roca descobrim l’amistat entre dos personatges que, tot i semblar no tenir res en comú, s’enfronten junts a la seva por al desconegut. A la faula El naixement dels oasis una serp de sang freda i un camell de sang massa calenta es fan amics fins al final dels seus dies. Astres immòbils tanca la sèrie de tres programes de curtmetratges format per La barca del vent i L’illa dels ocells . Cada un d’ells compta amb un migmetratge protagonitzat per una nena d’edat preadolescent, conformant així una trilogia d’històries iniciàtiques d’heroïnes contemporànies.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34158-astres-immobils.html",
       "source": "Cultura Banyoles",
@@ -1593,7 +1498,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "12:00"
+          "time": "18:00"
         }
       ]
     },
@@ -2187,6 +2092,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-de2bd91ffd53",
+      "title": "L’Home dels Nassos",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2025/11/home-dels-nassos-guilla.jpg",
+      "municipality": "Olot",
+      "venue": "Església de Sant Esteve",
+      "category": null,
+      "description": "L’Home dels Nassos es passejarà pel centre de la ciutat acompanyat de música en directe i repartirà monedes de xocolata pels més petits. El trobareu a partir de les 11 h del matí, davant de la Basílica de Sant Esteve d’Olot, es podrà adquirir la làmina solidària a la parada. Ho organitza: Centre d’Iniciatives Turístiques d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/lhome-dels-nassos-3/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-31",
+      "date_end": "2026-12-31",
+      "sessions": [
+        {
+          "date": "2026-12-31",
+          "time": "11:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-cf67f59ce6b4",
       "title": "Els Pastorest d’Olot",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
@@ -2286,24 +2210,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 14,
-      "events_published": 14,
+      "events_found": 13,
+      "events_published": 13,
       "rejected_no_valid_image": 0,
-      "with_image": 14,
-      "with_sessions": 14,
+      "with_image": 13,
+      "with_sessions": 13,
       "with_venue": 0,
-      "with_municipality": 14
+      "with_municipality": 13
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 102,
-      "events_published": 102,
+      "events_found": 99,
+      "events_published": 99,
       "rejected_no_valid_image": 0,
-      "with_image": 102,
-      "with_sessions": 102,
-      "with_venue": 101,
-      "with_municipality": 102
+      "with_image": 99,
+      "with_sessions": 99,
+      "with_venue": 98,
+      "with_municipality": 99
     },
     {
       "connector": "connectors.celra",
