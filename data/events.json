@@ -1,82 +1,6 @@
 {
-  "generated_at": "2026-11-06T12:16:51.472599+00:00",
+  "generated_at": "2026-11-07T11:13:08.747346+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-33e2384e6aaf",
-      "title": "Cau de poesia",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2023/03/cau-poesia-agenda.jpg",
-      "municipality": "Olot",
-      "venue": "Casal Cívic i Comunitari",
-      "category": null,
-      "description": "Trobada oberta a tothom per compartir i gaudir de la poesia en un espai de trobada entre persones interessades en la paraula i la creació literària. Organitza: Amics de les Lletres Garrotxines",
-      "url": "https://www.olotcultura.cat/agenda/acte/cau-de-poesia-novembre-2026/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-06",
-      "date_end": "2026-11-06",
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-aca62f3bc4ef",
-      "title": "EL CERCLE: cultura de club i música electrònica",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/el-cercle.jpg",
-      "municipality": "Olot",
-      "venue": "Club Stromboli",
-      "category": null,
-      "description": "El Cercle celebra la segona sessió de la temporada en una nit especial, coincidint amb el festival Lluèrnia a Olot. Una nova cita al Club Stromboli amb Nija, PD menorquina amb sessions que es mouen entre el techno i el minimal ; PARADOX, amb una proposta musical que abasta del downtown al disco, amb influències de dark pop i riffis de guitarra; i, finalment, Mr. K tancarà la nit amb sons propis del trance i el techno . Organitza: EL CERCLE",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-cercle-cultura-de-club-i-musica-electronica-3/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-06",
-      "date_end": "2026-11-06",
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "22:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-873fff653c9d",
-      "title": "Insectotròpics",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-06-insectotropics.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Amb una llengua escènica pròpia, Insectotròpics fusiona en directe videocreació, pintura, arts visuals, música electrònica i dramatúrgia performativa per generar un univers immersiu i potentment visual A La conferència dels ocells (Manṭiq al-Ṭayr, 1177), de Farid al-Din Attar, un grup d’ocells emprèn un viatge espiritual a la recerca del Simurgh. Insectotròpics en fa una adaptació multimèdia que posa el focus en els ocells que es perden pel camí, els que dubten, els que s’aturen o els que tenen por de continuar. Més que una recerca individual, l’obra explora el valor del trajecte compartit. La companyia, la comunitat i l’escolta esdevenen eixos centrals de l’experiència. El treball col·lectiu, horitzontal i multidisciplinari és al centre del procés creatiu d’Insectotròpics, amb un diàleg constant entre la tecnologia i el gest artístic, entre el ritual i l’experimentació. La conferència dels ocells és una invitació a mirar-se a través dels altres i a habitar el camí, junts. Un ritual contemporani sobre els límits, les pors i les revelacions que neixen del fet de compartir el viatge. Direcció artística: Insectotropics i Laia Ribas Direcció executiva: Maria Thorson Intèrpret: Marga Socias Artista i tecnòleg: Jan Barceló Música: Bru Ferri Creador multidisciplinar i vídeo: Jaime Jiménez Producció i ajudant de direcció artística: Celia Waliño Assistent de direcció i moviment escènic: Elena Tarrats Codificació creativa amb AAASeed: Maa Berriet Producció i ajudant de direcció artística: Celia Waliño Vestuari: Marta Lofi Assessor d’il·luminació: Aleix Ramisa",
-      "url": "https://www.olotcultura.cat/agenda/acte/insectotropics/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-06",
-      "date_end": "2026-11-06",
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-6dc0440ec578",
-      "title": "La llogatera",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9721.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "La Llogatera és el viatge apassionant i frenètic d’una noia que es veu obligada a deixar el seu pis de 38 m². Una comèdia amarga amb diferents convidats: la mare, un amant, el propietari, un alumne, la dona de la immobiliària, la socorrista, un milicià… La nostra protagonista haurà d’enfrontar-se a les seves pors: el futur, les expectatives i el fracàs, la precarietat, la soledat… i la seva dificultat per passar a l’acció. Com actuar contra un sistema que l’expulsa quan no és suficient ser suficient? Com aferrar-se al seu castell de 38 m²?",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34151-la-llogatera.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-06",
-      "date_end": "2026-11-06",
-      "sessions": [
-        {
-          "date": "2026-11-06",
-          "time": "20:00"
-        }
-      ]
-    },
     {
       "id": "Cultura Banyoles-c731009e437f",
       "title": "Debon canta Suau",
@@ -93,44 +17,6 @@
         {
           "date": "2026-11-07",
           "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-3d466742b9a0",
-      "title": "Mercat de llibre de segona mà",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Mercat-de-llibre-de-segona-ma.jpg",
-      "municipality": "Olot",
-      "venue": "Llibreria Isop",
-      "category": null,
-      "description": "Qualsevol llibre que no has llegit és una novetat, sigui de primera o de segona mà, però en el nostre segon matí de desembaràs ens centrarem en aquests segons. Farem una bona estesa de llibres que es mereixen una segona oportunitat, a preus imbatibles. Veniu i remeneu! Organitza: Llibreria Isop",
-      "url": "https://www.olotcultura.cat/agenda/acte/mercat-de-llibre-de-segona-ma/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-07",
-      "date_end": "2026-11-07",
-      "sessions": [
-        {
-          "date": "2026-11-07",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-0e177b00102e",
-      "title": "Visita guiada: Passejada per l’Olot del Renaixement i el Barroc",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/02/passejada-per-olot.jpg",
-      "municipality": "Olot",
-      "venue": "Plaça del Carme",
-      "category": null,
-      "description": "Com un au fènix, Olot va renéixer de les cendres després dels devastadors terratrèmols de 1427 i 1428. La ciutat va créixer a partir del segle XV amb una nova trama ortogonal al voltant de la Plaça Major, entre el puig de Sant Esteve i la vila vella. En l’actualitat, el centre d’Olot està ple de vestigis d’una arquitectura urbana moderna que dominà el nucli antic al llarg dels segles XVI, XVII i XVIII, desconeguts per la majoria dels seus habitants. Caminarem pels vells carrers… Per descobrir-ho. Organitza: PEHOC",
-      "url": "https://www.olotcultura.cat/agenda/acte/visita-guiada-passejada-per-lolot-del-renaixement-i-el-barroc/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-07",
-      "date_end": "2026-11-07",
-      "sessions": [
-        {
-          "date": "2026-11-07",
-          "time": "10:00"
         }
       ]
     },
@@ -1888,7 +1774,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9922.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Biblioteca",
+      "category": "Teatre i dansa",
       "description": "Direcció: Irene Iborra / Guió: Irene Iborra, Maite Carranza, Júlia Prats / Productora: Cornelius Films, S.L., Bigaro Films, S.L., Citoplasmas Stop Motion, S.L., Terremoto, A.I.E., Corporació Catalana de Mitjans Audiovisuals, S.A., Kinetic Armatures, S.L., Les Productions Vivement Lundi, Panique!, Personne N Est Parfait, RTBF / Intèrprets (veus): Emma Suárez, Abril Pujols, Ali Ahchach, Didac Cano, Ona Bagué, Idaira Azuara, Sarah Bea Irene Iborra presenta L ’ Olivia i el terratrèmol invisibl e, l’adaptació cinematogràfica de la novel·la infantil i juvenil La pel·lícula de la vida de Maite Carranza. Un drama d’animació que aborda temes com el dret a l’habitatge, la precarietat laboral o la salut mental i que s’ha consolidat com una de les propostes d’animació més originals i destacades després del seu recorregut per festivals internacionals. La pel·lícula narra la història de l’Olivia, una nena de 12 anys que veu com la seva vida colꞏlapsa quan desnonen a tota la seva família. Sense un lloc on anar, l’Olívia, el seu germà petit Tim i la seva mare Íngrid ocupen un apartament buit en un barri perifèric. Però, quan la seva mare, naturalment optimista i plena d’energia, cau en una depressió, l’Olívia es veu obligada a cuidar d’ella i d’en Tim mentre s’enfronta al seu propi terratrèmol emocional. En l’epicentre de la dificultat i quan veu com el seu món cau a troços al seu voltant, l’Olívia troba en el nou barri una nova “família”: veïns i veïnes que l’ajuden a reconstruir la seva vida i a aprendre a sobreviure els terratrèmols vital. Entre riures, plors, màgia i amistat, tots tres descobriran que són els increïbles herois quotidians de les seves pròpies vides. Perquè no sempre podem controlar què ens succeeix, però sí que podem canviar la manera de viure-­ho. L’Olivia i el terratrèmol invisible, òpera prima d’lrene Iborra, és el primer llargmetratge d’animació produït a Catalunya amb la tècnica del stop-motion i dirigit per una dona. Nominada als Premis del Cinema Europeu, als Goya i de ser guardonada al Festival d’Annecy amb el Premi de la Fundació Gan i guanyar el Premi Gaudí a millor pel·lícula d’animació, L’Olivia i el terratrèmol invisible ens convida a reflexionar sobre la capacitat de resistir i reconstruir-se davant les adversitats, tot reivindicant la imaginació com una eina poderosa per fer front a una realitat sovint injusta. Una conmovedora història que obre camins cap a noves formes de família i de resiliència.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34191-lolivia-i-el-terratremol-invisible.html",
       "source": "Cultura Banyoles",
@@ -2210,24 +2096,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 13,
-      "events_published": 13,
+      "events_found": 12,
+      "events_published": 12,
       "rejected_no_valid_image": 0,
-      "with_image": 13,
-      "with_sessions": 13,
+      "with_image": 12,
+      "with_sessions": 12,
       "with_venue": 0,
-      "with_municipality": 13
+      "with_municipality": 12
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 99,
-      "events_published": 99,
+      "events_found": 94,
+      "events_published": 94,
       "rejected_no_valid_image": 0,
-      "with_image": 99,
-      "with_sessions": 99,
-      "with_venue": 98,
-      "with_municipality": 99
+      "with_image": 94,
+      "with_sessions": 94,
+      "with_venue": 93,
+      "with_municipality": 94
     },
     {
       "connector": "connectors.celra",
