@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-07T11:13:08.747346+00:00",
+  "generated_at": "2026-11-08T11:25:26.637776+00:00",
   "events": [
-    {
-      "id": "Cultura Banyoles-c731009e437f",
-      "title": "Debon canta Suau",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9720.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Pau Debon: veu / Toni Bujosa: piano / Pere Suau: veu La veu de Pau Debón -cantant d’Antònia Font- i el piano de Toni Bujosa donen vida als versos de Pere Suau en una proposta que evoca temàtiques mediterrànies, nostàlgiques i quotidianes, com els paisatges, els estius mallorquins i les vivències personals. Un viatge íntim entre poesia i música. Organitza: Alter Sinergies En conveni amb: Ajuntament de Banyoles",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34152-debon-canta-suau.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-07",
-      "date_end": "2026-11-07",
-      "sessions": [
-        {
-          "date": "2026-11-07",
-          "time": "20:00"
-        }
-      ]
-    },
     {
       "id": "Cultura Banyoles-2e6dfcdc78d5",
       "title": "Les cases dels altres",
@@ -55,25 +36,6 @@
         {
           "date": "2026-11-08",
           "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-87216fed7377",
-      "title": "Peix",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/peix_agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": null,
-      "category": null,
-      "description": "Segona producció d’aquesta companyia que presenta un solo de petit-mitjà format basat en el circ i el pallasso. Una reflexió, des de la poètica de l’absurd, sobre la mallorquinitat, sobre l’impacte del turisme, sobre la lluita de poders, sobre la buidor, el silenci i la solitud davant la immensitat, sobre la ridiculesa de ser grans i l’enyorança de ser petits. Un viatge metafòric cap a les profunditats humanes per buscar allò que ens fa continuar nedant, buscant, remant tot i la magnitud i la força imprevisible i sempre sorprenent de les onades. Organitza: Associació de Veïns del barri de l’Hostal del Sol i Olot Cultura",
-      "url": "https://www.olotcultura.cat/agenda/acte/peix/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-08",
-      "date_end": "2026-11-08",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "12:00"
         }
       ]
     },
@@ -1384,7 +1346,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "18:00"
+          "time": "09:30"
         }
       ]
     },
@@ -2096,24 +2058,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 12,
-      "events_published": 12,
+      "events_found": 11,
+      "events_published": 11,
       "rejected_no_valid_image": 0,
-      "with_image": 12,
-      "with_sessions": 12,
+      "with_image": 11,
+      "with_sessions": 11,
       "with_venue": 0,
-      "with_municipality": 12
+      "with_municipality": 11
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 94,
-      "events_published": 94,
+      "events_found": 93,
+      "events_published": 93,
       "rejected_no_valid_image": 0,
-      "with_image": 94,
-      "with_sessions": 94,
+      "with_image": 93,
+      "with_sessions": 93,
       "with_venue": 93,
-      "with_municipality": 94
+      "with_municipality": 93
     },
     {
       "connector": "connectors.celra",
