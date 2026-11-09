@@ -1,82 +1,6 @@
 {
-  "generated_at": "2026-11-08T11:25:26.637776+00:00",
+  "generated_at": "2026-11-09T13:02:07.281536+00:00",
   "events": [
-    {
-      "id": "Cultura Banyoles-2e6dfcdc78d5",
-      "title": "Les cases dels altres",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9719.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Interpretació: Paula Fossati i Eva Ferré/Berta Camps / Dramatúrgia: Èlia Borràs, Berta Camps i Eva Ferré / Direcció: Èlia Borràs i Berta Camps Les cases dels altres és un espectacle collage que combina anècdotes i retalls de vida per obrir-nos les portes a cases alienes. A través de fragments íntims i quotidians, l’espectacle reflexiona sobre què vol dir sentir-se part d’un lloc, d’un país o d’un grup, i què passa quan ens n’exclouen. Una mirada sensible a la necessitat d’arrelament, a la por de ser expulsats i a la fragilitat de tot allò que anomenem “casa”. Una història explicada per diferents testimonis que ens obren les portes de casa seva per ensenyar-nos alguns dels seus racons.",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34153-les-cases-dels-altres.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-08",
-      "date_end": "2026-11-08",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-1989f4bf0b73",
-      "title": "Música Antiga de Girona",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9760.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Música Antiga de Girona, en el seu projecte de rescat de partitures de l’arxiu musical de la Catedral de Girona, dedica el seu 25è aniversari al barceloní Domènec Arquimbau, que fou mestre de capella de la seu gironina entre 1785 i 1789. I ho fa recuperant la seva Missa a 5 i uns Goigs de Sant Martirià, patró de Banyoles. El concert se celebrarà a l’església del Monestir de Sant Esteve de Banyoles, on es guarden les relíquies de Sant Martirià i a on probablement es van interpretar per primer cop aquests Goigs. Nat el 1757, educat a la catedral de Barcelona on va conèixer la música napolitana que triomfava a Europa aleshores. Mestre de capella substitut d’aquesta catedral, després va passar a ser mestre de cant de Torroella de Montgrí -la parròquia d’aquesta vila no era prou rica com per mantenir instrumentistes- i d’aquí va passar a Girona, on va romandre de 1785 al 1789. Un vilancet composat per a la nit de Nadal de 1789 amb el títol provocatiu de “Si Apolo me inspirara” va facilitar-li el guanyar les oposicions a la catedral de Sevilla oposicions a les que va presentar aquest vilancet. Morí en aquesta ciutat el 1828. El catàleg d’obres seves conservades supera les 300, i a Girona se’n conserven 37, de les quals 5 són goigs i un d’ells va dedicat a Sant. Martirià. Els goigs catalans són els únics que a tota Europa han perviscut des de l’edat mitja. Durant gairebé un segle van ser substituïts pels vilancets d’origen castellà, però amb Arquimbau recuperen pràcticament la seva antiga popularitat. El seu estil musical abandona la complexitat melòdica i l’estructura policoral barroca per acceptar la claredat melòdica i la seva preferència per l’homofonia de les veus, tot utilitzant instruments nous – la gamma dels violins i violes- que permeten accentuar les tensions dramàtiques. A les 18:30 h: Presentació del concert a càrrec de Jaume Pinyol, historiador, especialista en música antiga i president de l'associació Música Antiga de Girona PROGRAMA Domènec Arquimbau (1757-1828): Missa a 5 * Domènec Arquimbau: Goigs de Sant Martirià * * Estrena en època moderna INTÈRPRETS Música Antiga de Girona Adriana Alcaide i Cristina Altemir, violí; Alcazo Ivan i Laura Villar, oboè; Pepe Reche i Renske Wijma, trompa; Daniel Regincós, violoncel; Oriol Casadevall, contrabaix; Laia Frigolé i Lorena Garcia, sopranos; Hugo Bolívar, contratenor; David Hernández, tenor; Oriol Mallart, baix. Marc Díaz, director i orgue positiu Organitza: Joventuts Musicals de Banyoles En conveni: Ajuntament de Banyoles",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34166-musica-antiga-de-girona.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-08",
-      "date_end": "2026-11-08",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-b81288054962",
-      "title": "‘Dissabte, diumenge i dilluns’, d’Eduardo De Filippo",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/dissabte-diumenge.jpg",
-      "municipality": "Olot",
-      "venue": "Els Catòlics",
-      "category": null,
-      "description": "Dissabte, diumenge i dilluns, tres dies de la vida d’una família napolitana a ﬁnals dels anys cinquanta. Un retrat lúcid, divertit i profundament humà de la crisi d’una parella de petitburgesos napolitans, Rosa i Peppino Priore, caps d’una gran família, que ja fa mesos que conviuen sota el mateix sostre sense, pràcticament, sense dirigir-se la paraula. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/dissabte-diumenge-i-dilluns-deduardo-de-filippo/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-08",
-      "date_end": "2026-11-08",
-      "sessions": [
-        {
-          "date": "2026-11-08",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-2a1492067e0a",
-      "title": "Una parada més",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-16-La-Cremallera_146.jpg",
-      "municipality": "Olot",
-      "venue": "Firal",
-      "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
-      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-1/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-09",
-      "date_end": "2026-11-09",
-      "sessions": [
-        {
-          "date": "2026-11-09",
-          "time": "13:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-e541be6707bc",
       "title": "Club de lectura: ‘Canteu, esperits, canteu’, de Jesmyn Ward",
@@ -211,8 +135,8 @@
       ]
     },
     {
-      "id": "Olot Cultura-ca2fa0b10863",
-      "title": "Alter, Cia. Nyashi (Bèlgica)",
+      "id": "Olot Cultura-4e18e1dcf6d4",
+      "title": "Alter, Cia. Nyash (Bèlgica)",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-14-alter.jpg",
       "municipality": "Olot",
       "venue": "Teatre Principal d’Olot",
@@ -2058,24 +1982,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 11,
-      "events_published": 11,
+      "events_found": 9,
+      "events_published": 9,
       "rejected_no_valid_image": 0,
-      "with_image": 11,
-      "with_sessions": 11,
+      "with_image": 9,
+      "with_sessions": 9,
       "with_venue": 0,
-      "with_municipality": 11
+      "with_municipality": 9
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 93,
-      "events_published": 93,
+      "events_found": 91,
+      "events_published": 91,
       "rejected_no_valid_image": 0,
-      "with_image": 93,
-      "with_sessions": 93,
-      "with_venue": 93,
-      "with_municipality": 93
+      "with_image": 91,
+      "with_sessions": 91,
+      "with_venue": 91,
+      "with_municipality": 91
     },
     {
       "connector": "connectors.celra",
