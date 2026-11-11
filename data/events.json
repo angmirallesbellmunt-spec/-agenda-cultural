@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-10T12:47:31.209207+00:00",
+  "generated_at": "2026-11-11T12:00:51.198247+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-e541be6707bc",
-      "title": "Club de lectura: ‘Canteu, esperits, canteu’, de Jesmyn Ward",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/2-9.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "Places limitades a 20 persones. Inscripcions a la Biblioteca Marià Vayreda a partir del dijous 1 d'octubre a les 18 h.",
-      "url": "https://www.olotcultura.cat/agenda/acte/club-de-lectura-canteu-esperits-canteu-de-jesmyn-ward/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-10",
-      "date_end": "2026-11-10",
-      "sessions": [
-        {
-          "date": "2026-11-10",
-          "time": "19:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-f5c91cd5fadc",
       "title": "Cohabitatge sènior",
@@ -420,25 +401,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-5f7f13b64fcc",
-      "title": "Premis Jordi Pujiula: treballs i projectes guanyadors",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Premis-Jordi-Pujiula-2026_agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Presentació dels treballs guanyadors dels Premis Jordi Pujiula 2026. Els guanyadors dels premis dels diferents àmbits de treballs de recerca de batxillerat i de projectes finals de cicles formatius exposaran els seus treballs. -Treballs de recerca de batxillerat: Ciències de la Salut, Ciències Naturals, Tecnologia, i Comarcal. -Projectes finals de cicles formatius: Ciències de la Salut i dels Aliments, Disseny Tècnic i Edificació, i Ciències Aplicades i Tecnologia. Ho organitza: Espai Cràter",
-      "url": "https://www.olotcultura.cat/agenda/acte/premis-jordi-pujiula-treballs-i-projectes-guanyadors/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-18",
-      "date_end": "2026-11-18",
-      "sessions": [
-        {
-          "date": "2026-11-18",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
       "id": "Olot Cultura-67de138104e7",
       "title": "Lorca, alma ausente",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-19-LORCA-01.jpg",
@@ -473,6 +435,25 @@
         {
           "date": "2026-11-19",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-2109b9aee5f3",
+      "title": "“Mirades que pesen, cossos que importen”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/mirades-que-pesen_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Sala El Torín",
+      "category": null,
+      "description": "Com ens afecta la pressió estètica? Com condiciona la manera de mirar-nos i relacionar-nos amb el propi cos? I quin impacte té en la salut mental, especialment en les persones joves? El cicle El pes de la mirada arriba al final amb una taula rodona per reflexionar i conversar sobre pressió estètica, diversitat corporal i salut mental. La conversa comptarà amb tres veus complementàries: Elena Crespi Asensio , psicòloga i autora de Alimentar la bèstia. Pressió estètica i ordre patriarcal ; Valentina Berr , escriptora, divulgadora i activista pels drets i les realitats LGTBIQ+; i Nayeli Martínez , jove testimoni supervivent d’un TCA, estudiant de Comunicació i cocreadora del projecte artístic La prima cena . Organitza: Àrea d’Educació i Joventut del Consell Comarcal de la Garrotxa, a través de Garrotxa Jove, amb el suport de la Diputació de Girona.",
+      "url": "https://www.olotcultura.cat/agenda/acte/mirades-que-pesen-cossos-que-importen/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-19",
+      "date_end": "2026-11-19",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "time": "18:30"
         }
       ]
     },
@@ -1028,6 +1009,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-280b3b7a803f",
+      "title": "“Entre pedra i pedra”, de Manu vb Tintoré",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Manu-Tintoree_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "L’Àmbit – Espai d’Art",
+      "category": null,
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/entre-pedra-i-pedra-de-manu-vb-tintore/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-ea603b187524",
       "title": "“Jean Valjean”, de Éric Besnard",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Jean-Valjean.jpg",
@@ -1465,6 +1465,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-ddd4909dd192",
+      "title": "Taller de Nadal: “Els tions que volen convertir-se en desitjos”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/tller-de-tions_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Oficina de Turisme d’Olot",
+      "category": null,
+      "description": "Taller de Nadal al voltant de la temàtica del tió. Una activitat emmarcada dins el cicle de tallers creatius. Organitza: Oficina de Turisme d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-de-nadal-els-tions-que-volen-convertir-se-en-desitjos/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-12",
+      "date_end": "2026-12-12",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-a9874a3bc193",
       "title": "Concert de Kiw",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/06/kiw-agenda.jpg",
@@ -1613,6 +1632,25 @@
         {
           "date": "2026-12-18",
           "time": "20:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-5f7f13b64fcc",
+      "title": "Premis Jordi Pujiula: treballs i projectes guanyadors",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Premis-Jordi-Pujiula-2026_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Espai Cràter",
+      "category": null,
+      "description": "Presentació dels treballs guanyadors dels Premis Jordi Pujiula 2026. Els guanyadors dels premis dels diferents àmbits de treballs de recerca de batxillerat i de projectes finals de cicles formatius exposaran els seus treballs. -Treballs de recerca de batxillerat: Ciències de la Salut, Ciències Naturals, Tecnologia, i Comarcal. -Projectes finals de cicles formatius: Ciències de la Salut i dels Aliments, Disseny Tècnic i Edificació, i Ciències Aplicades i Tecnologia. Ho organitza: Espai Cràter",
+      "url": "https://www.olotcultura.cat/agenda/acte/premis-jordi-pujiula-treballs-i-projectes-guanyadors/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-18",
+      "date_end": "2026-12-18",
+      "sessions": [
+        {
+          "date": "2026-12-18",
+          "time": "19:00"
         }
       ]
     },
@@ -2185,6 +2223,25 @@
           "time": "19:00"
         }
       ]
+    },
+    {
+      "id": "Olot Cultura-6822dd141699",
+      "title": "“Viure a l’aire, amb el cor dividit entre el cel i la terra”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/ester-foment_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Sala Oberta 2 del Museu de la Garrotxa",
+      "category": null,
+      "description": "HORARI D'OBERTURA: Feiners: de 10 a 13 i de 17 a 20 h / Dissabtes, diumenges i festius: d'11 a 14 h / Dilluns tancat",
+      "url": "https://www.olotcultura.cat/agenda/acte/viure-a-laire-amb-el-cor-dividit-entre-el-cel-i-la-terra/",
+      "source": "Olot Cultura",
+      "date_start": "2027-08-08",
+      "date_end": "2027-08-08",
+      "sessions": [
+        {
+          "date": "2027-08-08",
+          "time": "20:00"
+        }
+      ]
     }
   ],
   "validation": [
@@ -2202,13 +2259,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 102,
-      "events_published": 102,
+      "events_found": 105,
+      "events_published": 105,
       "rejected_no_valid_image": 0,
-      "with_image": 102,
-      "with_sessions": 102,
-      "with_venue": 102,
-      "with_municipality": 102
+      "with_image": 105,
+      "with_sessions": 105,
+      "with_venue": 105,
+      "with_municipality": 105
     },
     {
       "connector": "connectors.celra",
