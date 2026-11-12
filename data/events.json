@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-11T12:00:51.198247+00:00",
+  "generated_at": "2026-11-12T12:52:57.261252+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-f5c91cd5fadc",
-      "title": "Cohabitatge sènior",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/COHABITATGE-SENIOR.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "El col·lectiu de persones grans tenim un interès especial per les qüestions relacionades amb l’envelliment actiu, la vida autònoma, el suport mutu i les alternatives d’habitatge més comunitàries, que permeten fer front a l’aïllament i la solitud involuntària. Saber més sobre els models d’habitatge cooperatiu sènior ens pot ajudar a prendre decisions en un futur proper. A càrrec d’Antoni Molins i M. Alba Brucart , membres del grup Solterra, un dels projectes sèniors vinculats a Sostre Cívic. Organitza: Aules de Difusió Cultural de la Garrotxa. ACUGA",
-      "url": "https://www.olotcultura.cat/agenda/acte/cohabitatge-senior/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-11",
-      "date_end": "2026-11-11",
-      "sessions": [
-        {
-          "date": "2026-11-11",
-          "time": "17:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-28a4820ff221",
       "title": "Presentació de la novel·la il·lustrada “Roi”",
@@ -859,7 +840,7 @@
     {
       "id": "Olot Cultura-4c9994274321",
       "title": "Presentació de llibre: “L’Eixample Malagrida d’Olot: ciutat jardí, ciutat radial o geometria natural?”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/eixample-malagrida.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/eixample-malagrida-ajornat.jpg",
       "municipality": "Olot",
       "venue": "Arxiu Comarcal de la Garrotxa",
       "category": null,
@@ -967,6 +948,25 @@
         {
           "date": "2026-11-28",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-84bd19bf1ab6",
+      "title": "Taller creatiu de vitralls de colors",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/taller-turisme_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Oficina de Turisme d’Olot",
+      "category": null,
+      "description": "Crearàs un vitrall amb composicions úniques. Només caldrà que el posis a prop d’una finestra i la llum farà la màgia. Organitza: Ajuntament d’Olot, Oficina de Turisme d’Olot i EducArt",
+      "url": "https://www.olotcultura.cat/agenda/acte/taller-creatiu-de-vitralls-de-colors/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "12:00"
         }
       ]
     },
@@ -1237,6 +1237,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-18a36f844b50",
+      "title": "Tocs de flabiol: quarta trobada de flabiolaires d’Olot i la Garrotxa",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Flabiolaires-2025_agenda-web.jpeg",
+      "municipality": "Olot",
+      "venue": "Església de Sant Esteve",
+      "category": null,
+      "description": "Com ja és tradició, els i les flabiolaires d’Olot i la Garrotxa es tornen a trobar per interpretar plegats nadales tradicionals pels racons de la Fira de Nadal. Més enllà de tocar, la trobada serveix també per a compartir vivències i informacions relacionades amb l’instrument i la música popular i tradicional en general. L’acte es clourà amb un dinar de germanor dels músics. Organitza: Flabiolaires d’Olot i la Garrotxa",
+      "url": "https://www.olotcultura.cat/agenda/acte/tocs-de-flabiol-quarta-trobada-de-flabiolaires-dolot-i-la-garrotxa/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-05",
+      "date_end": "2026-12-05",
+      "sessions": [
+        {
+          "date": "2026-12-05",
+          "time": "12:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-bd93dd464adb",
       "title": "Vermut musical: Andrés Redondo",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Andres-redondo.jpg",
@@ -1471,7 +1490,7 @@
       "municipality": "Olot",
       "venue": "Oficina de Turisme d’Olot",
       "category": null,
-      "description": "Taller de Nadal al voltant de la temàtica del tió. Una activitat emmarcada dins el cicle de tallers creatius. Organitza: Oficina de Turisme d’Olot",
+      "description": "Taller de Nadal al voltant de la temàtica del tió. Una activitat emmarcada dins el cicle de tallers creatius, adreçats a infants de 3 a 8 anys, inspirats en l’artesania, la natura, la cultura popular i l’imaginari d’Olot i la Garrotxa. Organitza: Oficina de Turisme d’Olot",
       "url": "https://www.olotcultura.cat/agenda/acte/taller-de-nadal-els-tions-que-volen-convertir-se-en-desitjos/",
       "source": "Olot Cultura",
       "date_start": "2026-12-12",
@@ -2259,13 +2278,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 105,
-      "events_published": 105,
+      "events_found": 106,
+      "events_published": 106,
       "rejected_no_valid_image": 0,
-      "with_image": 105,
-      "with_sessions": 105,
-      "with_venue": 105,
-      "with_municipality": 105
+      "with_image": 106,
+      "with_sessions": 106,
+      "with_venue": 106,
+      "with_municipality": 106
     },
     {
       "connector": "connectors.celra",
