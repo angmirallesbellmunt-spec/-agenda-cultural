@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-12T12:52:57.261252+00:00",
+  "generated_at": "2026-11-13T12:23:08.755447+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-28a4820ff221",
-      "title": "Presentació de la novel·la il·lustrada “Roi”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/ROI.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "La il·lustradora Gisela Bombilà presentarà Roi , el seu primer còmic editat. La història se situa a la Vall de Cardós, al Pallars Sobirà. A través de la ficció i la fantasia, posa en valor els oficis perduts, la vida tranquil·la i les llegendes pròpies del territori que s’han explicat oralment al llarg dels temps. En acabar la presentació, l’autora mostrarà en directe com treballa en la creació de les diferents pàgines il·lustrades . Els assistents podran veure el procés d’addició del color als dibuixos, amb un exemple pràctic en una de les làmines del seu segon còmic, que actualment es troba en procés de creació. Del 9 al 20 de novembre, Gisela Bombilà (Mollet del Vallès) farà una estada a la residència Faberllull Olot per treballar en un àlbum il·lustrat per a nens, amb l’editorial brasilera Aletria. Organitza: Àrea de Cultura i Educació de l’Ajuntament d’Olot i Residència Faberllull.",
-      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-la-novella-illustrada-roi/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-12",
-      "date_end": "2026-11-12",
-      "sessions": [
-        {
-          "date": "2026-11-12",
-          "time": "19:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-42e590caafb5",
       "title": "Recital poètic: Una xica-mica, el parlar de la Garrotxa",
@@ -287,13 +268,13 @@
       ]
     },
     {
-      "id": "Olot Cultura-75e7864ce402",
-      "title": "Meditació amb bany de gong col·lectiva de tardor",
+      "id": "Olot Cultura-1d9c2512e65f",
+      "title": "Meditació en format acústic interior",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-04-meditacio-sismograf.jpg",
       "municipality": "Olot",
-      "venue": "Parc Nou",
+      "venue": "Teatre Principal d’Olot",
       "category": null,
-      "description": "Un viatge sensorial que combina el moviment conscient, la meditació i un bany de gong immersiu Proposem una entrada a la tardor amb les percussions de Núria Andorrà i el guiatge de Mònica Arús. Elles acompanyen el públic a preparar-se abans de veure una òpera al Liceu, però en aquesta ocasió els hem demanat que ens facin moure a l’aire lliure per passar aquest equinocci de tardor i entrar-hi ben enèrgics. La proposta començarà amb una pràctica de moviment i atenció plena per connectar amb el cos, la respiració i l’entorn, i continuarà amb una experiència d’escolta profunda a través del so dels gongs i d’altres instruments harmònics. Les vibracions i els paisatges sonors creats en directe conviden a la relaxació, a la contemplació i a una escolta corporal i sensorial que facilita l’entrada en estats profunds de meditació. Una oportunitat per aturar-nos i transitar l’equinocci de tardor des de la calma, la consciència i la vitalitat que emergeix del contacte amb nosaltres mateixos i amb la natura. Aquesta proposta arriba després de la celebració, a la primavera, d’una meditació amb Humanhood en el marc del festival Sismògraf. En cas de mal temps, es farà al Teatre Principal d’Olot amb aforament limitat.",
+      "description": "Un viatge sensorial que combina el moviment conscient i la meditació Proposem una entrada a la tardor amb el so en acústic de Núria Andorrà i el guiatge de Mònica Arús. Elles acompanyen el públic a preparar-se abans de veure una òpera al Liceu, però en aquesta ocasió els hem demanat que ens facin moure a l’aire lliure per passar aquest equinocci de tardor i entrar-hi ben enèrgics. La proposta començarà amb una pràctica de moviment i atenció plena per connectar amb el cos, la respiració i l’entorn, i continuarà amb una experiència d’escolta profunda a del so en acústic. La meditació amb bany de gong col·lectiu queda posposada fins a l’inici de la primavera.",
       "url": "https://www.olotcultura.cat/agenda/acte/meditacio-amb-bany-de-gong-collectiva-de-tardor/",
       "source": "Olot Cultura",
       "date_start": "2026-11-15",
@@ -301,7 +282,7 @@
       "sessions": [
         {
           "date": "2026-11-15",
-          "time": "12:00"
+          "time": "13:00"
         }
       ]
     },
@@ -2278,13 +2259,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 106,
-      "events_published": 106,
+      "events_found": 105,
+      "events_published": 105,
       "rejected_no_valid_image": 0,
-      "with_image": 106,
-      "with_sessions": 106,
-      "with_venue": 106,
-      "with_municipality": 106
+      "with_image": 105,
+      "with_sessions": 105,
+      "with_venue": 105,
+      "with_municipality": 105
     },
     {
       "connector": "connectors.celra",
