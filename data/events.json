@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-11-13T12:23:08.755447+00:00",
+  "generated_at": "2026-11-14T11:38:42.726123+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-42e590caafb5",
-      "title": "Recital poètic: Una xica-mica, el parlar de la Garrotxa",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/una-xica-mica-1.jpg",
-      "municipality": "Olot",
-      "venue": "Casal Marià",
-      "category": null,
-      "description": "Una xica-mica de “El parlar de la Garrotxa”. 95è recital poètic dels Amics de les Lletres Garrotxines. Amb les intervencions de Joaquim Monturiol i Eloi Domínguez, amenitzat per Aram. Organitza: Amics de les Lletres Garrotxines.",
-      "url": "https://www.olotcultura.cat/agenda/acte/recital-poetic-una-xica-mica-el-parlar-de-la-garrotxa/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-13",
-      "date_end": "2026-11-13",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-2bc62a93cdd8",
-      "title": "“Els museus de París durant la Segona Guerra Mundial. De la protecció de les col·leccions a l’enriquiment dels museus: la circulació de les obres sota l’ocupació”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/Neguine-Mathieux.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Néguine Mathieux, cap del Departament de Recursos Històrics i Recerca del Museu Carnavalet de París des del 2024, i anteriorment del Museu del Louvre, ens contextualitzarà els fets ocorreguts amb el patrimoni artístic durant la Guerra Civil Espanyola amb altres casos i altres països, com Itàlia o Alemanya, i reflexionarà sobre el paper dels museus en casos d’art espoliat. Aquesta xerrada forma part del cicle de conferències En peu de guerra! Entre runes i memòria: salvar l’art en temps de conflicte. Organtizen: PEHOC i Museus d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/els-museus-de-paris-durant-la-segona-guerra-mundial-de-la-proteccio-de-les-colleccions-a-lenriquiment-dels-museus-la-circulacio-de-les-obres-sota-locupacio/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-13",
-      "date_end": "2026-11-13",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-9ef0a3beaaa4",
-      "title": "“La hija pequeña”, d’Hafsia Herzi",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/08/La-hija-pequena-2.jpg",
-      "municipality": "Olot",
-      "venue": "Cines Olot",
-      "category": null,
-      "description": "Fatima té 17 anys, és la petita de tres germanes i viu amb la seva família francoalgeriana. Quan comença a estudiar filosofia a París, descobreix un món nou i inicia un procés d’emancipació que la porta a qüestionar-se la seva identitat i a explorar la seva atracció per les dones. Hafsia Herzi adapta la novel·la de Fatima Daas en un relat de descoberta personal que aborda les tensions entre el desig, la fe, la família i la identitat. Organitza: Cine Club Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/la-hija-pequena/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-13",
-      "date_end": "2026-11-13",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "21:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-435b67f6759e",
-      "title": "“Mukhbe”, de Jordi Riberygua",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Mukhre.jpg",
-      "municipality": "Olot",
-      "venue": "Centre Excursionista Olot",
-      "category": null,
-      "description": "Mukhbe segueix la història d’un grup d’esquiadors andorrans que emprèn un viatge a Geòrgia per explorar les seves muntanyes i la seva cultura. El film captura l’essència de l’aventura, combinant esport i descoberta cultural, enmig d’uns paisatges de neu espectaculars. El documental retrata la tradició pirinenca, la cultura de muntanya i la pràctica de l’esquí com a estil de vida. En acabar la projecció, el públic podrà conversar amb el seu director , Jordi Riberaygua. Del 9 al 16 de novembre, Jordi Riberaygua farà una estada a la residència Faberllull Olot per escriure el preàmbul d’una futura peça audiovisual. Organitza: Residència Faberllull Olot i Centre Excursionista d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/mukhbe-de-jordi-riberygua/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-13",
-      "date_end": "2026-11-13",
-      "sessions": [
-        {
-          "date": "2026-11-13",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-4e18e1dcf6d4",
-      "title": "Alter, Cia. Nyash (Bèlgica)",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-14-alter.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Alter és un diàleg sonor i sensorial entre un ballarí i un percussionista sense bateria. Junts exploren tots els estats de l’argila i transformen l’escenari en paisatges micro i macroscòpics. Dels seus intercanvis, emergeixen llocs imaginaris, ciutats, sòls i relleus. Sempre en l’experiència present, tracen camins intuïtius en una relació directa, crua i sense adornar amb el material. Creació: Caroline Cornélis, Miko Shimura i Tom Malmendier Interpretació: Miko Shimura i Tom Malmendier o Margherita Dello Sbarba i Colin Jolet Disseny de so: Claire Goldfarb i Tom Malmendier Disseny d’il·luminació: Frédéric Vannes Direcció artística: Marielle Morales Amb la col·laboració de la ceramista Ashida Junko Una producció de Nyash Company Amb el suport de la Federació Valònia-Brussel·les, Departament de Dansa Amb el suport del Centre Henri Pousseur, La Montagne Magique, La Roseraie, Centre Cultural Andenne, BAMP i el Festival Sauterelles ACTIVITAT COMPLEMENTÀRIA TALLER PER A FAMÍLIES Divendres 13 de novembre, 17.30 h, Teatre Principal d’Olot Durada: 45 minuts Preu: espectacle + taller 9 euros (no es pot fer el taller sense anar a l’espectacle) Un taller adreçat a les famílies que vinguin a veure l’espectacle dissabte per descobrir junts els diferents estats de la matèria que s’hi utilitzen. Terracota, argila seca, argila tova, argila líquida… Argila que ressona o deixa rastre… En un format de taller obert, els nens i les nenes exploraran aquests materials, els tocaran i revisitaran les formes i els paisatges de la representació. Una trobada amb els diversos elements que van inspirar l’espectacle, oferint sensacions tangibles per connectar amb les sensacions experimentades pels intèrprets.",
-      "url": "https://www.olotcultura.cat/agenda/acte/alter/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "12:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-e4d2c9610800",
       "title": "Carlos Sarduy Quartet",
@@ -135,25 +40,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-0fb25243bce3",
-      "title": "Joana Cera i Bernad. Quan les coses apareixen",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Joana-Cera-i-Bernad.jpg",
-      "municipality": "Olot",
-      "venue": "Vayreda Fundació",
-      "category": null,
-      "description": "Xerrada amb Joana Cera i Bernad en el marc de l’ exposició que li dedica dins del cicle Verònica. Dones visionàries . L’activitat complementa la mostra, comissariada per Natàlia Chocarro, que explora les relacions entre allò visible i allò intangible, la matèria i la idea, la presència i l’absència. Organitza: Vayreda Fundació",
-      "url": "https://www.olotcultura.cat/agenda/acte/joana-cera-i-bernad-quan-les-coses-apareixen/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "12:00"
-        }
-      ]
-    },
-    {
       "id": "Olot Cultura-1c9ce5e2d1af",
       "title": "Matèria Reservada",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Materia-reservada.jpg",
@@ -188,44 +74,6 @@
         {
           "date": "2026-11-14",
           "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-5b0f434b4289",
-      "title": "Visita a la teixeda de la Cot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/feixeda.jpg",
-      "municipality": "Olot",
-      "venue": "Parc Nou",
-      "category": null,
-      "description": "Sortida matinal amb itinerari fàcil per visitar una de les teixedes destacades del Parc Natural de la Zona Volcànica de la Garrotxa. Es comentaran diferents aspectes de projectes de conservació per aquests boscos tan emblemàtics. Cal portar bon calçat i aigua. El punt de trobada per a la sortida seran a a les 9.30 h a l’aparcament del parc Nou o a les 9.50 h a Can Xel. Organitza: Delegació de la Garrotxa i el Ripollès i a Diputació de Girona",
-      "url": "https://www.olotcultura.cat/agenda/acte/visita-a-la-teixeda-de-la-cot/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "09:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-6694c8418dba",
-      "title": "Visita guiada a l’exposició “De la casa a la plaça: nous paisatges de l’arquitectura garrotxina”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/visita-guiada-de-la-casa-a-la-placa_agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Sala Oberta del Museu de la Garrotxa",
-      "category": null,
-      "description": null,
-      "url": "https://www.olotcultura.cat/agenda/acte/visita-guiada-a-lexposicio-de-la-casa-a-la-placa-nous-paisatges-de-larquitectura-garrotxina-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "12:00"
         }
       ]
     },
@@ -1270,7 +1118,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "09:30"
+          "time": "17:00"
         }
       ]
     },
@@ -2259,13 +2107,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 105,
-      "events_published": 105,
+      "events_found": 97,
+      "events_published": 97,
       "rejected_no_valid_image": 0,
-      "with_image": 105,
-      "with_sessions": 105,
-      "with_venue": 105,
-      "with_municipality": 105
+      "with_image": 97,
+      "with_sessions": 97,
+      "with_venue": 97,
+      "with_municipality": 97
     },
     {
       "connector": "connectors.celra",
