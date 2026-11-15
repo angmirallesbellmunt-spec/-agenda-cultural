@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-11-14T11:38:42.726123+00:00",
+  "generated_at": "2026-11-15T12:04:30.336526+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-e4d2c9610800",
-      "title": "Carlos Sarduy Quartet",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-14-CARLOS-SARDUY-1-agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "Jazz afrocubà amb una força i sensibilitat úniques Carlos Sarduy és, sens dubte, un dels músics més actius i polièdrics de la seva generació. A més de ser un espectacular trompetista i percussionista, també és pianista i compositor. Elogiat pel seu so, la seva gran musicalitat i la seva extraordinària versatilitat, ha col·laborat amb grans artistes com Chucho Valdés, Bebo Valdés, Richard Bona, Steve Coleman, David Murray, Esperanza Spalding, Buika, Mariza i Ojos de Brujo, entre molts altres. La seva discografia com a líder inclou Charly en la Habana (2005), enregistrat amb només 19 anys i amb la participació de figures com Chucho Valdés, un treball que ja apuntava el talent excepcional del músic cubà. El 2019 va publicar Luz , el seu segon àlbum, amb el qual va consolidar un llenguatge propi entre el jazz contemporani i les arrels afrocubanes. Actualment, es troba preparant el seu tercer treball discogràfic, previst per a la primavera del 2027. En els seus concerts ofereix un màgic i vibrant viatge musical a través d’un discurs melòdic i sensible, característic d’un llenguatge personal on es reflecteix el seu gran coneixement de la música afrocubana i el seu mestratge per desenvolupar-se en el jazz d’una manera innovadora. Actualment gira amb el seu quartet i amb El Comité, del qual és membre fundador. Carlos Sarduy: trompeta i congues Rolando Luna o Harold Lopez Nussa: piano El Negrón: contrabaix Rodney Barreto: bateria",
-      "url": "https://www.olotcultura.cat/agenda/acte/carlos-sarduy-quartet/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Celrà Cultura-f7470606ab5d",
-      "title": "De ser nosaltres",
-      "image": "https://www.celracultura.cat/img/image/fotos/1943.jpeg?w=1200&aoe=1&q=80&h=800&zc=1",
-      "municipality": "Celrà",
-      "venue": "Teatre L'Ateneu",
-      "category": "Teatre",
-      "description": "Combinant la dansa, la música en directe, la manipulació i la performance, aquesta proposta modela la matèria i dialoga amb la relació i comunicació entre dos cossos Pep Aymerich construeix amb fusta la rèplica a mida natural del seu cos i el de la seva filla en forma de titelles articulats. Combinant la dansa, la música en directe, la manipulació i la performance, aquesta nova proposta modela la matèria i dialoga amb la relació i comunicació entre dos cossos. És una experiència que posa en relleu la qualitat gregària de l’espècie humana. El projecte neix de la voluntat de trobada artística entre pare i filla: un com a escultor i performer i l’altra com a ballarina de dansa contemporània. El contingut a explorar són els vincles que s’expressen estant l'un davant de l’altra. L’espectacle compta amb la música en directe de Marc Alomar, que puja a l’escenari amb tres instruments: un violoncel barroc, una viola de gamba robusta i una violepa, una mena de viola de gamba construïda per Pep Aymerich i que ve a reproduir –aquí sota les condicions d’un instrument– el cos de la seva filla.",
-      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/690-de-ser-nosaltres.html",
-      "source": "Celrà Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-1c9ce5e2d1af",
-      "title": "Matèria Reservada",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Materia-reservada.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Tot el que succeeix a Matèria Reservada són fets reals que van tenir lloc a Londres els anys 1960 i 1961. La pregunta que planteja l’obra és, sens dubte: quin paper podem representar els anomenats “ciutadans normals i corrents”, els que només viuen i subsisteixen en aquesta societat que han construït i en la que el més important és el poder? Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té per què resignar-se a la realitat en la qual vivim. Direcció: Jaime Blanch Ajudant de direcció: Tat Soler Repartiment: Fina Carré, Joan Carré, Andreu Planella, Anna Martí, Abril Solé, Sandra Vilarassa, Miquel Bosch. Llums i so: putxy, Blai Llagostera i Lluc Peracaula. Cartell: Ramon Almeda Organitza: Orfeó Popular Olotí",
-      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-72667b5d756f",
-      "title": "Taller familiar: Minerals que fan història",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Minerals-que-fan-historia.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Des de la prehistòria, els minerals i les seves propietats han despertat la curiositat de les persones i han tingut un paper fonamental en el desenvolupament de les societats. En aquest taller descobrirem quins minerals s’amaguen en els objectes quotidians i coneixerem els impactes ambientals i socials de la seva extracció. Finalment, ens posarem en la pell d’enginyers i enginyeres per dissenyar un nou invent a partir de roques i minerals. Edat recomanada: Famílies amb infants amb edats entre 8 i 12 anys. Organitza: Espai Cràter",
-      "url": "https://www.olotcultura.cat/agenda/acte/minerals-que-fan-historia-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-14",
-      "date_end": "2026-11-14",
-      "sessions": [
-        {
-          "date": "2026-11-14",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-efff7f8ccb55",
-      "title": "El qui no parla…, Cia. Animal Religion",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-15-animal-religion.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Un espai per escoltar els infants. Per posar els infants al centre i donar veu a qui, per definició, no parla En un terra ple de micròfons, els nadons juguen, exploren i es mouen lliurement. El gest, el crit, el silenci i el moviment esdevenen música. Allò petit, allò imperceptible, s’amplifica per construir paisatges sonors vius i irrepetibles, on tot s’escolta i on tot compta. El qui no parla ofereix un espai on l’infant té el seu temps i una escolta real, on el joc lliure és llenguatge i on l’infant no és espectador, sinó origen. Els nadons, però, no arriben sols: venen acompanyats de la comunitat familiar, que també forma part del que passa a escena. A través de textos que apareixen a l’espai, els adults reben una lectura que nodreix el seu imaginari i, alhora, assumeixen rols de moviment que els converteixen en intèrprets de la peça. El seu cos i la seva lectura es fan visibles dins d’una experiència que s’acosta al ritual. Una proposta immersiva que convida pares, mares i fills a construir l’escena junts. Un lloc de presència on el so neix del vincle i on escoltar és el centre de tot. Autoria i direcció: Quim Girón i Moon Ribas Text: Moon Ribas Música: Pol Jubany Disseny de llum i enginyer electrònic: Carlos Ferrer Producció: Animal Religion",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-qui-no-parla/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-15",
-      "date_end": "2026-11-15",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "12:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-daf055ebaa39",
       "title": "Matèria Reservada",
@@ -112,25 +17,6 @@
         {
           "date": "2026-11-15",
           "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-1d9c2512e65f",
-      "title": "Meditació en format acústic interior",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/10-04-meditacio-sismograf.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Un viatge sensorial que combina el moviment conscient i la meditació Proposem una entrada a la tardor amb el so en acústic de Núria Andorrà i el guiatge de Mònica Arús. Elles acompanyen el públic a preparar-se abans de veure una òpera al Liceu, però en aquesta ocasió els hem demanat que ens facin moure a l’aire lliure per passar aquest equinocci de tardor i entrar-hi ben enèrgics. La proposta començarà amb una pràctica de moviment i atenció plena per connectar amb el cos, la respiració i l’entorn, i continuarà amb una experiència d’escolta profunda a del so en acústic. La meditació amb bany de gong col·lectiu queda posposada fins a l’inici de la primavera.",
-      "url": "https://www.olotcultura.cat/agenda/acte/meditacio-amb-bany-de-gong-collectiva-de-tardor/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-15",
-      "date_end": "2026-11-15",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "13:00"
         }
       ]
     },
@@ -1118,7 +1004,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "17:00"
+          "time": "10:00"
         }
       ]
     },
@@ -2107,24 +1993,24 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 97,
-      "events_published": 97,
+      "events_found": 92,
+      "events_published": 92,
       "rejected_no_valid_image": 0,
-      "with_image": 97,
-      "with_sessions": 97,
-      "with_venue": 97,
-      "with_municipality": 97
+      "with_image": 92,
+      "with_sessions": 92,
+      "with_venue": 92,
+      "with_municipality": 92
     },
     {
       "connector": "connectors.celra",
       "ok": true,
-      "events_found": 4,
-      "events_published": 4,
+      "events_found": 3,
+      "events_published": 3,
       "rejected_no_valid_image": 0,
-      "with_image": 4,
-      "with_sessions": 4,
-      "with_venue": 4,
-      "with_municipality": 4
+      "with_image": 3,
+      "with_sessions": 3,
+      "with_venue": 3,
+      "with_municipality": 3
     }
   ]
 }
