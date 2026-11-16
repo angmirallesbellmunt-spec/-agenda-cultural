@@ -1,63 +1,6 @@
 {
-  "generated_at": "2026-11-15T12:04:30.336526+00:00",
+  "generated_at": "2026-11-16T12:54:59.344713+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-daf055ebaa39",
-      "title": "Matèria Reservada",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Materia-reservada.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Tot el que succeeix a Matèria Reservada són fets reals que van tenir lloc a Londres els anys 1960 i 1961. La pregunta que planteja l’obra és, sens dubte: quin paper podem representar els anomenats “ciutadans normals i corrents”, els que només viuen i subsisteixen en aquesta societat que han construït i en la que el més important és el poder? Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té per què resignar-se a la realitat en la qual vivim. Direcció: Jaime Blanch Ajudant de direcció: Tat Soler Repartiment: Fina Carré, Joan Carré, Andreu Planella, Anna Martí, Abril Solé, Sandra Vilarassa, Miquel Bosch. Llums i so: putxy, Blai Llagostera i Lluc Peracaula. Cartell: Ramon Almeda Organitza: Orfeó Popular Olotí",
-      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-15",
-      "date_end": "2026-11-15",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-95597d19af2b",
-      "title": "Rafael Riqueni",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9724.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "Rafael Riqueni és possiblement el millor compositor que ha sorgit mai del flamenc i, sens dubte, un dels millors guitarristes de la seva història. Aclamat per la crítica, s’ha consolidat com un dels grans pilars de la música espanyola contemporània. Nerja és el nou disc de Rafael Riqueni, en el qual crea una fantasia descriptiva des de la proximitat amb la música clàssica que ha definit bona part de la seva trajectòria. Nerja es desenvolupa en forma de conte i narra la història del grup de joves que va descobrir la monumental cova l’any 1959 després d’un incident fortuït. Riqueni interpreta els fets d’aquella nit a partir d’un fascinant concepte harmònic que, en conjunció directa amb elements propis del flamenc, expandeix els corrents de l’impressionisme musical. Organitza: Festival FlamenGI En conveni amb: Ajuntament de Banyoles",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34157-rafael-riqueni.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-15",
-      "date_end": "2026-11-15",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-863a7c62cd78",
-      "title": "‘Les bones intencions’, de Marc Artigau",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/Les-bones-intencions-bo.jpeg",
-      "municipality": "Olot",
-      "venue": "Els Catòlics",
-      "category": null,
-      "description": "Amb humor, ironia i una mirada tendra sobre els perdedors quotidians, l’obra ens farà passar una estona divertida i alhora reflexionar sobre el desig de reinventar-se, la precarietat, l’emprenedoria, les segones oportunitats i la dificultat de fer el que és correcte quan les circumstàncies juguen en contra. La peça combina situacions còmiques amb moments de gran humanitat, convidant l’espectador tant a riure com a qüestionar-se fins a quin punt les bones intencions són suficients per canviar una vida. Les bones intencions, de Marc Artigau, és una comèdia agredolça protagonitzada per la Paula i en Pere, dues persones que acumulen fracassos personals i econòmics i que busquen desesperadament una oportunitat per redreçar les seves vides. Convençuts que encara poden canviar el seu destí, decideixen crear una empresa d’organització de festes temàtiques i personalitzades. La nit en què han de demostrar el seu potencial davant d’un client molt influent, tot sembla preparat perquè el projecte els obri les portes a una nova vida. Tanmateix, un fet inesperat amenaça d’ensorrar els seus plans i els obliga a enfrontar-se a les conseqüències de les seves decisions i a la distància que sovint hi ha entre les bones intencions i els actes. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/les-bones-intencions-de-marc-artigau-1/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-15",
-      "date_end": "2026-11-15",
-      "sessions": [
-        {
-          "date": "2026-11-15",
-          "time": "18:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-51d0c9278831",
       "title": "Hora del conte per a nadons: La festa d’aniversari",
@@ -78,25 +21,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-102e8f0a303b",
-      "title": "Una parada més",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-16-La-Cremallera_146.jpg",
-      "municipality": "Olot",
-      "venue": "Firal",
-      "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
-      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-16",
-      "date_end": "2026-11-16",
-      "sessions": [
-        {
-          "date": "2026-11-16",
-          "time": "13:00"
-        }
-      ]
-    },
-    {
       "id": "Olot Cultura-67de138104e7",
       "title": "Lorca, alma ausente",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-19-LORCA-01.jpg",
@@ -112,6 +36,25 @@
         {
           "date": "2026-11-19",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-2d3d0316b6b7",
+      "title": "Matèria Reservada",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/STA-CECI-2026.jpg",
+      "municipality": "Olot",
+      "venue": "Orfeó Popular Olotí",
+      "category": null,
+      "description": "Tot el que succeeix a Matèria Reservada són fets reals que van tenir lloc a Londres els anys 1960 i 1961. La pregunta que planteja l’obra és, sens dubte: quin paper podem representar els anomenats “ciutadans normals i corrents”, els que només viuen i subsisteixen en aquesta societat que han construït i en la que el més important és el poder? Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té perquè resignar-se a la realitat en la que vivim. Direcció: Jaime Blanch Organitza: Orfeó Popular Olotí",
+      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada-5/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-19",
+      "date_end": "2026-11-19",
+      "sessions": [
+        {
+          "date": "2026-11-19",
+          "time": "20:00"
         }
       ]
     },
@@ -211,6 +154,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-96196c477fd6",
+      "title": "The Rusties Blues Band",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/STA-CECI-2026.jpg",
+      "municipality": "Olot",
+      "venue": "Orfeó Popular Olotí",
+      "category": null,
+      "description": "Quartet de blues garrotxí nascut el 2013, que ens acosta a la història del Blues mitjançant la música en directe desgranant cronològicament diferents moments clau i anècdotes dels grans músics del gènere. Un viatge pels fets històrics del segle XIX i XX, que sorprenentment van influenciar directament en l’evolució del Blues. Des dels cants espirituals i blues rural del sud-est d’Estats Units, arribant al Blues contemporani actual, passant per les imprescindibles ciutats de Chicago i Sant Francisco. Miquel Grifell: guitarra, resonadora, cigarbox, harmònica i veu Manel Gaspar: piano i hammond Miquel Pascal: contrabaix i baix elèctric Organitza: Orfeó Popular Olotí",
+      "url": "https://www.olotcultura.cat/agenda/acte/the-rusties-blues-band-2/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-20",
+      "date_end": "2026-11-20",
+      "sessions": [
+        {
+          "date": "2026-11-20",
+          "time": "20:30"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-8cfedb2f6821",
       "title": "Trajectòries: Isabel Banal conversa amb Margarida Casacuberta",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/ISABEL-BANAL-Del-29-dagost-al-10-de-gener-del-2027.jpg",
@@ -264,6 +226,25 @@
         {
           "date": "2026-11-21",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-7d50b9fc8c8c",
+      "title": "Els músics de Brémen",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/STA-CECI-2026.jpg",
+      "municipality": "Olot",
+      "venue": "Orfeó Popular Olotí",
+      "category": null,
+      "description": "Al burro li diuen que ja és vell i que no serveix per res, però ell no hi està d’acord, ell encara té un somni i decideix emprendre el camí fins la ciutat de Bremen per poder ser músic de la banda de la ciutat. De seguida fa uns bons amics que l’acompanyen en la seva petita aventura. Un conte dels germans Grimm fet amb ombres i música, ágil, divertit i ple de detalls. Vet aquí un gos, vet aquí un gat, vet aquí un burro i un gall esgargamellat! Organitza: Orfeó Popular Olotí",
+      "url": "https://www.olotcultura.cat/agenda/acte/els-musics-de-bremen/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-21",
+      "date_end": "2026-11-21",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "17:00"
         }
       ]
     },
@@ -1218,25 +1199,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-a9874a3bc193",
-      "title": "Concert de Kiw",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/06/kiw-agenda.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Dins el cicle Jazz de Prop , KIW presenta una proposta que fusiona jazz, funk, hip-hop i electrònica amb un llenguatge sonor propi. El trio, format per Pau Jorba (saxo i seqüències), Ferran Rico (baix) i Artur Ponsà (bateria), combina improvisació i tecnologia en un directe que explora nous camins del jazz contemporani. Per a la reserva d’entrades, cal enviar un correu electrònic a bustia@musicsassociats.net . Organitza: Músics Associats",
-      "url": "https://www.olotcultura.cat/agenda/acte/concert-de-kiw/",
-      "source": "Olot Cultura",
-      "date_start": "2026-12-13",
-      "date_end": "2026-12-13",
-      "sessions": [
-        {
-          "date": "2026-12-13",
-          "time": "18:30"
-        }
-      ]
-    },
-    {
       "id": "Cultura Banyoles-ea4ad4d8fa00",
       "title": "Pleguem cuques",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9884.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
@@ -1560,8 +1522,8 @@
       ]
     },
     {
-      "id": "Olot Cultura-dc7a5500200a",
-      "title": "Els Pastorest d’Olot",
+      "id": "Olot Cultura-5b2f984f7d1b",
+      "title": "Els Pastorets d’Olot",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
@@ -1574,25 +1536,6 @@
       "sessions": [
         {
           "date": "2026-12-26",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-e7c5806ca889",
-      "title": "Els Pastorest d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Les companyies teatrals de l’Orfeó Popular Olotí tornen a portar a escena Els Pastorets d’Olot , una de les representacions tradicionals de les festes de Nadal. Sota la direcció de Marta Puig i Alba Soler. Organitza: Orfeó Popular Olotí",
-      "url": "https://www.olotcultura.cat/agenda/acte/els-pastorest-dolot-2/",
-      "source": "Olot Cultura",
-      "date_start": "2026-12-27",
-      "date_end": "2026-12-27",
-      "sessions": [
-        {
-          "date": "2026-12-27",
           "time": "19:00"
         }
       ]
@@ -1613,6 +1556,25 @@
         {
           "date": "2026-12-27",
           "time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c559a8950caf",
+      "title": "Els Pastorets d’Olot",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
+      "municipality": "Olot",
+      "venue": "Orfeó Popular Olotí",
+      "category": null,
+      "description": "Les companyies teatrals de l’Orfeó Popular Olotí tornen a portar a escena Els Pastorets d’Olot , una de les representacions tradicionals de les festes de Nadal. Sota la direcció de Marta Puig i Alba Soler. Organitza: Orfeó Popular Olotí",
+      "url": "https://www.olotcultura.cat/agenda/acte/els-pastorest-dolot-2/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-27",
+      "date_end": "2026-12-27",
+      "sessions": [
+        {
+          "date": "2026-12-27",
+          "time": "19:00"
         }
       ]
     },
@@ -1655,8 +1617,8 @@
       ]
     },
     {
-      "id": "Olot Cultura-cf67f59ce6b4",
-      "title": "Els Pastorest d’Olot",
+      "id": "Olot Cultura-41422645e97e",
+      "title": "Els Pastorets d’Olot",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
@@ -1674,8 +1636,8 @@
       ]
     },
     {
-      "id": "Olot Cultura-81401afc8771",
-      "title": "Els Pastorest d’Olot",
+      "id": "Olot Cultura-f1a6a095840b",
+      "title": "Els Pastorets d’Olot",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
@@ -1822,6 +1784,25 @@
         {
           "date": "2027-02-26",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-a9874a3bc193",
+      "title": "Concert de Kiw",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/06/kiw-agenda.jpg",
+      "municipality": "Olot",
+      "venue": "Orfeó Popular Olotí",
+      "category": null,
+      "description": "Dins el cicle Jazz de Prop , KIW presenta una proposta que fusiona jazz, funk, hip-hop i electrònica amb un llenguatge sonor propi. El trio, format per Pau Jorba (saxo i seqüències), Ferran Rico (baix) i Artur Ponsà (bateria), combina improvisació i tecnologia en un directe que explora nous camins del jazz contemporani. Per a la reserva d’entrades, cal enviar un correu electrònic a bustia@musicsassociats.net . Organitza: Músics Associats",
+      "url": "https://www.olotcultura.cat/agenda/acte/concert-de-kiw/",
+      "source": "Olot Cultura",
+      "date_start": "2027-02-28",
+      "date_end": "2027-02-28",
+      "sessions": [
+        {
+          "date": "2027-02-28",
+          "time": "18:30"
         }
       ]
     },
@@ -1982,13 +1963,13 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 9,
-      "events_published": 9,
+      "events_found": 8,
+      "events_published": 8,
       "rejected_no_valid_image": 0,
-      "with_image": 9,
-      "with_sessions": 9,
+      "with_image": 8,
+      "with_sessions": 8,
       "with_venue": 0,
-      "with_municipality": 9
+      "with_municipality": 8
     },
     {
       "connector": "connectors.olot",
