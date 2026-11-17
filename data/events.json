@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-16T12:54:59.344713+00:00",
+  "generated_at": "2026-11-17T13:36:47.440487+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-51d0c9278831",
-      "title": "Hora del conte per a nadons: La festa d’aniversari",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/2-7.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "Al bosc s’està organitzant una festa! La papallona celebra la seva sortida de la crisàlide i vol celebrar-ho amb totes les seves amigues i amics: els animals del bosc. A través d’una història senzilla i amb diversos materials, veurem imatges, tocarem textures i escoltarem sons d’instruments per despertar els sentits dels més petits. Al final del conte posarem a disposició del infants els materials utilitzats a l’espectacle perquè hi puguin experimentar.",
-      "url": "https://www.olotcultura.cat/agenda/acte/hora-del-conte-per-a-nadons-la-festa-daniversari/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-16",
-      "date_end": "2026-11-16",
-      "sessions": [
-        {
-          "date": "2026-11-16",
-          "time": "17:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-67de138104e7",
       "title": "Lorca, alma ausente",
@@ -1047,6 +1028,25 @@
       ]
     },
     {
+      "id": "Cultura Banyoles-7ec1d75b4412",
+      "title": "Postal de Nadal Manga",
+      "image": "https://cultura.banyoles.cat/img/image/fotos/10339.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
+      "municipality": "Banyoles",
+      "venue": null,
+      "category": "Biblioteca",
+      "description": "Crea la teva postal de Nadal d’estil Manga i gaudeix d’una estona creativa mentre practiques aquesta estètica tan característica. Una proposta original per felicitar les festes nadalenques.",
+      "url": "https://cultura.banyoles.cat/ca/programacio/c/34231-postal-de-nadal-manga.html",
+      "source": "Cultura Banyoles",
+      "date_start": "2026-12-10",
+      "date_end": "2026-12-10",
+      "sessions": [
+        {
+          "date": "2026-12-10",
+          "time": "17:30"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-8f3a42bfa298",
       "title": "Taula rodona amb arquitectes representants de la nova arquitectura garrotxina",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/visita-guiada-de-la-casa-a-la-placa_agenda-web.jpg",
@@ -1963,24 +1963,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 8,
-      "events_published": 8,
+      "events_found": 9,
+      "events_published": 9,
       "rejected_no_valid_image": 0,
-      "with_image": 8,
-      "with_sessions": 8,
+      "with_image": 9,
+      "with_sessions": 9,
       "with_venue": 0,
-      "with_municipality": 8
+      "with_municipality": 9
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 92,
-      "events_published": 92,
+      "events_found": 91,
+      "events_published": 91,
       "rejected_no_valid_image": 0,
-      "with_image": 92,
-      "with_sessions": 92,
-      "with_venue": 92,
-      "with_municipality": 92
+      "with_image": 91,
+      "with_sessions": 91,
+      "with_venue": 91,
+      "with_municipality": 91
     },
     {
       "connector": "connectors.celra",
