@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:36:47.440487+00:00",
+  "generated_at": "2026-11-18T13:15:59.277817+00:00",
   "events": [
     {
       "id": "Olot Cultura-67de138104e7",
@@ -492,6 +492,25 @@
         {
           "date": "2026-11-26",
           "time": "20:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-caa80b3d63d9",
+      "title": "“El dol migratori, una nova mirada a la multiculturalitat”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/DolMigratori_26112026_H.jpg",
+      "municipality": "Olot",
+      "venue": "Hospital d’Olot i comarcal de la Garrotxa",
+      "category": null,
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/el-dol-migratori-una-nova-mirada-a-la-multiculturalitat/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-26",
+      "date_end": "2026-11-26",
+      "sessions": [
+        {
+          "date": "2026-11-26",
+          "time": "18:30"
         }
       ]
     },
@@ -1033,7 +1052,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/10339.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Biblioteca",
+      "category": "Teatre i dansa",
       "description": "Crea la teva postal de Nadal d’estil Manga i gaudeix d’una estona creativa mentre practiques aquesta estètica tan característica. Una proposta original per felicitar les festes nadalenques.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34231-postal-de-nadal-manga.html",
       "source": "Cultura Banyoles",
@@ -1313,6 +1332,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-70d2a93e6f7b",
+      "title": "Concert de Cantabile cor de cambra",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/cantabile_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Casino Olotí",
+      "category": null,
+      "description": "Un concert de cant coral que estarà dividit en un primer bloc format per obres musicals que s’han escrit a partir de poemes de diferents autors (Maragall, Desclot, Marià Manent, Lorca, Koskenniemi). Al segon bloc s’interpretaran nadales de diversos països i tradicionals catalanes. Acompanyats al piano per Guillem Martí. Tots dirigits per Laia Santanach. Organitza: Casino Olotí",
+      "url": "https://www.olotcultura.cat/agenda/acte/concert-de-cantabile-cor-de-cambra/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-18",
+      "date_end": "2026-12-18",
+      "sessions": [
+        {
+          "date": "2026-12-18",
+          "time": "20:00"
+        }
+      ]
+    },
+    {
       "id": "Cultura Banyoles-561e6cf93052",
       "title": "Mar Loi & Vic Moliner",
       "image": "https://cultura.banyoles.cat/img/image/fotos/9752.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -1340,6 +1378,25 @@
       "category": null,
       "description": "Presentació dels treballs guanyadors dels Premis Jordi Pujiula 2026. Els guanyadors dels premis dels diferents àmbits de treballs de recerca de batxillerat i de projectes finals de cicles formatius exposaran els seus treballs. -Treballs de recerca de batxillerat: Ciències de la Salut, Ciències Naturals, Tecnologia, i Comarcal. -Projectes finals de cicles formatius: Ciències de la Salut i dels Aliments, Disseny Tècnic i Edificació, i Ciències Aplicades i Tecnologia. Ho organitza: Espai Cràter",
       "url": "https://www.olotcultura.cat/agenda/acte/premis-jordi-pujiula-treballs-i-projectes-guanyadors/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-18",
+      "date_end": "2026-12-18",
+      "sessions": [
+        {
+          "date": "2026-12-18",
+          "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-91b4c8c973a7",
+      "title": "Presentació i recital poètic: “Aquesta llum, escampada per l’escenari. Tatatatatata”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/pressentacio-i-recital-de-poesia.jpg",
+      "municipality": "Olot",
+      "venue": "Llibreria Isop",
+      "category": null,
+      "description": "Conversa amb lis autoris de Palpentes (Cap de Brot), Martell Maleta Metralleta (Galerada) i Martina (LaBreu), tres poemaris que es van conèixer al certamen Salvador Iborra i que s’han publicat recentment. Les tres joves poetes, que han guanyat recentment els premis Amadeu Oller, Salvador Iborra i Francesc Garriga, s’aplegaran per parlar del que s’ha imprès i donar-li veu en un recital experimental que barrejarà les tres propostes fins que no es distingiran entre elles. Organitza: Llibreria Isop",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-i-recital-poetic-aquesta-llum-escampada-per-lescenari-tatatatatata/",
       "source": "Olot Cultura",
       "date_start": "2026-12-18",
       "date_end": "2026-12-18",
@@ -1712,6 +1769,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-77d8cbba3f63",
+      "title": "“Converses paral·leles”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/converses-paralleles.jpg",
+      "municipality": "Olot",
+      "venue": "Teatre Pere Serrat dels Catòlics d’Olot",
+      "category": null,
+      "description": "Us heu parat mai a pensar en tot allò que ens passa pel cap i que no diem? En totes les converses paral·leles que el nostre cervell té durant el dia? Us agradaria saber què passa per aquests caps i sentir aquestes converses paral·leles? Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/converses-paralleles/",
+      "source": "Olot Cultura",
+      "date_start": "2027-01-24",
+      "date_end": "2027-01-24",
+      "sessions": [
+        {
+          "date": "2027-01-24",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-f4949c1d46dd",
       "title": "“La recerca del foc”, de Jean-Jaques Annau",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/la-recerca-del-foc_agenda-web.jpg",
@@ -1727,6 +1803,25 @@
         {
           "date": "2027-01-29",
           "time": "19:00"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b5c239c0278c",
+      "title": "“El meu poble”, d’Albert Capel",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/el-meu-poble_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Teatre Pere Serrat dels Catòlics d’Olot",
+      "category": null,
+      "description": "Us agraïm tot el vostre esforç i recolzament per evitar el tancament del nostre BAR més emblemàtic: “El meu poble”. Moltes sorpreses tindran lloc en aquest acte, on res és el que sembla i tot sembla el no-res. Entreu dins el món de la cubanada, una cubanada gracienca que tan sols pot fer Vada Retro Teatre, amb 48 personatges i 11 actors i actrius amb ganes de fer-vos riure. Un sol propòsit: passar-ho bé. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-meu-poble-dalbert-capel/",
+      "source": "Olot Cultura",
+      "date_start": "2027-02-07",
+      "date_end": "2027-02-07",
+      "sessions": [
+        {
+          "date": "2027-02-07",
+          "time": "18:00"
         }
       ]
     },
@@ -1769,6 +1864,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-ec7af2c09d8b",
+      "title": "“La deixa Vilagran”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/la-deixa-vilagran_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Teatre Pere Serrat dels Catòlics d’Olot",
+      "category": null,
+      "description": "Un patrimoni de milions que busca propietari. Després de la mort del Sr. Vilagran la família es reuneix a la Notaria. Però… i si el que ha de ser un acte solemne i rigorós es converteix en una altra cosa? En un poble tot se sap. Podran arreglar els papers amb tranquil·litat? I el que és més important, qui es quedarà amb la deixa Vilagran? Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/la-deixa-vilagran/",
+      "source": "Olot Cultura",
+      "date_start": "2027-02-21",
+      "date_end": "2027-02-21",
+      "sessions": [
+        {
+          "date": "2027-02-21",
+          "time": "18:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-0fe266836a38",
       "title": "“La carta final”, de David Hugh Jones",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/La-carta-final_agenda-web.jpg",
@@ -1803,6 +1917,25 @@
         {
           "date": "2027-02-28",
           "time": "18:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-c8575f9f3d34",
+      "title": "“1 Home, 1 Dona”",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/1-home-1-dona_agenda-web.jpg",
+      "municipality": "Olot",
+      "venue": "Teatre Pere Serrat dels Catòlics d’Olot",
+      "category": null,
+      "description": "1 Home, 1 Dona explora la part fosca de la naturalesa humana. És una història de manipulació, maltractament i dependència emocional. La protagonista és una dona perduda i dependent del seu marit, un home controlador i manipulador. Tot i el caràcter tràgic de la història, també hi apareixen tocs d’humor i ironia. La posada en escena mostra el contrast entre la por i la ingenuïtat d’ella, i la intel·ligència i capacitat de manipulació d’ell. Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
+      "url": "https://www.olotcultura.cat/agenda/acte/1-home-1-dona/",
+      "source": "Olot Cultura",
+      "date_start": "2027-03-07",
+      "date_end": "2027-03-07",
+      "sessions": [
+        {
+          "date": "2027-03-07",
+          "time": "18:00"
         }
       ]
     },
@@ -1974,13 +2107,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 91,
-      "events_published": 91,
+      "events_found": 98,
+      "events_published": 98,
       "rejected_no_valid_image": 0,
-      "with_image": 91,
-      "with_sessions": 91,
-      "with_venue": 91,
-      "with_municipality": 91
+      "with_image": 98,
+      "with_sessions": 98,
+      "with_venue": 98,
+      "with_municipality": 98
     },
     {
       "connector": "connectors.celra",
