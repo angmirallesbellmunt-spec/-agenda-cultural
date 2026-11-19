@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:15:59.277817+00:00",
+  "generated_at": "2026-11-19T13:23:47.959122+00:00",
   "events": [
     {
       "id": "Olot Cultura-67de138104e7",
@@ -137,7 +137,7 @@
     {
       "id": "Olot Cultura-96196c477fd6",
       "title": "The Rusties Blues Band",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/STA-CECI-2026.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/rusties-orfeo.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
       "category": null,
@@ -192,6 +192,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-1cc95cd515a3",
+      "title": "Concurs de dibuix infantil",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/concurs-dibuix-orfeo.jpg",
+      "municipality": "Olot",
+      "venue": "Orfeó Popular Olotí PREU: Gratuït Amb motiu de Santa Cecília. Organitza: Orfeó Popular Olotí PREU: Gratuït",
+      "category": null,
+      "description": null,
+      "url": "https://www.olotcultura.cat/agenda/acte/concurs-de-dibuix-infantil/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-21",
+      "date_end": "2026-11-21",
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-ddd1958f0cc0",
       "title": "El retrat de Dorian Gray",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
@@ -213,7 +232,7 @@
     {
       "id": "Olot Cultura-7d50b9fc8c8c",
       "title": "Els músics de Brémen",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/STA-CECI-2026.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/bremen-orfeo.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
       "category": null,
@@ -1028,25 +1047,6 @@
       ]
     },
     {
-      "id": "Olot Cultura-55dc6c93f041",
-      "title": "Dieta i salut cerebral",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/09/DIETA-I-SALUT-CEREBRAL.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Quina és la dieta que ens pot ajudar a mantenir una bona salut i a prevenir el deteriorament cognitiu? Quins son els conceptes més importants i actuals sobre el tema? Ens en parlarà la Silvia Viñas Gironella , diplomada en Nutrició Humana i Dietètica, llicenciada en Ciència i Tecnologia dels aliments , des de fa 12 anys, exerceix com a Dietista- Nutriconista a l’Hospital d’Olot. Organitza: Aules de Difusió Cultural de la Garrotxa. ACUGA",
-      "url": "https://www.olotcultura.cat/agenda/acte/dieta-i-salut-cerebral/",
-      "source": "Olot Cultura",
-      "date_start": "2026-12-09",
-      "date_end": "2026-12-09",
-      "sessions": [
-        {
-          "date": "2026-12-09",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
       "id": "Cultura Banyoles-7ec1d75b4412",
       "title": "Postal de Nadal Manga",
       "image": "https://cultura.banyoles.cat/img/image/fotos/10339.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
@@ -1142,8 +1142,8 @@
       ]
     },
     {
-      "id": "Olot Cultura-4cd6b56a880d",
-      "title": "“Èxode i exili del patrimoni artístic durant la Guerra Civil Espanyola (1936-1939)”, a càrrec d’Arturo Colorado, i “A l’altra banda de la frontera: el retorn de les obres exiliades a Ginebra. El cas d’Olot”",
+      "id": "Olot Cultura-920bf41aca33",
+      "title": "“Èxode i exili del patrimoni artístic durant la Guerra Civil Espanyola (1936-1939)” i “A l’altra banda de la frontera: el retorn de les obres exiliades a Ginebra. El cas d’Olot”",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/Maria-de-Lluc-Serra-i-Arturo-Colorado.jpg",
       "municipality": "Olot",
       "venue": "Espai Cràter",
@@ -1176,6 +1176,25 @@
         {
           "date": "2026-12-12",
           "time": "18:30"
+        }
+      ]
+    },
+    {
+      "id": "Cultura Banyoles-5cee8f01dfed",
+      "title": "Escriptura medieval",
+      "image": "https://cultura.banyoles.cat/img/image/fotos/9655.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
+      "municipality": "Banyoles",
+      "venue": null,
+      "category": "Teatre i dansa",
+      "description": "A l'època medieval, l'escriptura no estava a l'abast de tothom... qui escrivia? per què? què hi deien els documents... tot això en un món amb una estructura social molt marcada. A través dels documents ho descobrirem i nosaltres serem els escrivents de l'època.",
+      "url": "https://cultura.banyoles.cat/ca/programacio/c/34100-escriptura-medieval.html",
+      "source": "Cultura Banyoles",
+      "date_start": "2026-12-12",
+      "date_end": "2026-12-12",
+      "sessions": [
+        {
+          "date": "2026-12-12",
+          "time": "11:30"
         }
       ]
     },
@@ -2096,13 +2115,13 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 9,
-      "events_published": 9,
+      "events_found": 10,
+      "events_published": 10,
       "rejected_no_valid_image": 0,
-      "with_image": 9,
-      "with_sessions": 9,
+      "with_image": 10,
+      "with_sessions": 10,
       "with_venue": 0,
-      "with_municipality": 9
+      "with_municipality": 10
     },
     {
       "connector": "connectors.olot",
