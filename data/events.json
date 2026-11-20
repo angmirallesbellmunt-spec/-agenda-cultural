@@ -1,82 +1,6 @@
 {
-  "generated_at": "2026-11-19T13:23:47.959122+00:00",
+  "generated_at": "2026-11-20T13:07:14.173068+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-67de138104e7",
-      "title": "Lorca, alma ausente",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-19-LORCA-01.jpg",
-      "municipality": "Olot",
-      "venue": "Biblioteca Marià Vayreda",
-      "category": null,
-      "description": "Lectura dramatitzada de textos del poeta granadí amb motiu de l’Any Lorca La matinada del 18 d’agost del 1936 (fa 90 anys) va ser assassinat Federico García Lorca, que tenia 38 anys i era massa modern per a l’Espanya del moment. Considerat dels poetes i dramaturgs més importants del segle XX espanyol, tothom coincideixen en la magnitud inimitable i inigualable de la seva obra, la qual ens arriba als nostres dies amb la força afegida de la justícia i reivindicació. Aquesta lectura ens apropa a l’autor a través d’un recorregut per Poema del cante jondo , Bodas de sangre , Yerma , Romancero gitano , Poeta en Nueva York o Sonetos del amor oscuro .",
-      "url": "https://www.olotcultura.cat/agenda/acte/lorca-alma-ausente/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-19",
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-2d3d0316b6b7",
-      "title": "Matèria Reservada",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/STA-CECI-2026.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Tot el que succeeix a Matèria Reservada són fets reals que van tenir lloc a Londres els anys 1960 i 1961. La pregunta que planteja l’obra és, sens dubte: quin paper podem representar els anomenats “ciutadans normals i corrents”, els que només viuen i subsisteixen en aquesta societat que han construït i en la que el més important és el poder? Només es pot pensar que per l’ésser humà no hi hauria d’haver res impossible i no té perquè resignar-se a la realitat en la que vivim. Direcció: Jaime Blanch Organitza: Orfeó Popular Olotí",
-      "url": "https://www.olotcultura.cat/agenda/acte/materia-reservada-5/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-19",
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "time": "20:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-30d65df2d686",
-      "title": "Presentació de llibre: “El crim de can Patorra”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/Portada_Francesc-Cruanyes_RGB_agenda.jpg",
-      "municipality": "Olot",
-      "venue": "Espai Cràter",
-      "category": null,
-      "description": "Presentació del llibre El crim de can Patorra , de Francesc Cruanyes, una obra que parteix d’un crim que va trasbalsar Maià de Montcal i que segueix dues trames: la de la investigació i la de la pèrdua de la família. De retruc, la història retrata la Catalunya rural de principis del segle XX. Sobre la novel·la El 25 d’agost de 1905, a Maià de Montcal, un poble de pagès de la Garrotxa, una noia de quinze anys apareix degollada a can Patorra. Era migdia, estava sola a casa preparant el dinar i la mare i el germà treballaven al camp. Quan tornen, només troben el gos ferit, la porta oberta i un toll de sang a la sala. Mentre les campanes toquen a sometent, tot el poble s’hi arreplega i els rumors comencen a córrer. El crim de can Patorra, del periodista Francesc Cruanyes, novel·la la investigació, l’enterrament –que coincideix amb l’eclipsi total de sol del 30 d’agost d’aquell any– i el judici que, dos anys després, s’obre a l’Audiència de Girona amb dues penes de mort a garrot sobre la taula. Hi ha dos sospitosos empresonats, un masover foragitat de Santa Llúcia i el seu presumpte còmplice, i una Guàrdia Civil que no parla català. Hi ha, també, un secretari municipal que prefereix que res no es remogui, un fiscal jove que es juga la carrera i uns advocats de ciutat que hi veuen una oportunitat. Al mig d’aquest engranatge, en Perot, el germà de la víctima, no sap llegir ni escriure i no té cap advocat, i s’ha d’enfrontar sol a un tribunal. Basada en fets reals i escrita per un net del protagonista, la novel·la no és només la història d’una mort, sinó també la dels qui la van viure de molt a la vora: una mare que ho ha perdut tot, un germà que carrega amb la culpa i un poble dividit entre el silenci i la sospita. A l’acte hi participarà l’autor, que estarà acompanyat per la periodista Tura Soler, l’historiador local Josep Vilar i el director d’Editorial Gavarres, Àngel Madrià. Organitza: Editorial Gavarres",
-      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-de-llibre-el-crim-de-can-patorra/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-19",
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-2109b9aee5f3",
-      "title": "“Mirades que pesen, cossos que importen”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/mirades-que-pesen_agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Sala El Torín",
-      "category": null,
-      "description": "Com ens afecta la pressió estètica? Com condiciona la manera de mirar-nos i relacionar-nos amb el propi cos? I quin impacte té en la salut mental, especialment en les persones joves? El cicle El pes de la mirada arriba al final amb una taula rodona per reflexionar i conversar sobre pressió estètica, diversitat corporal i salut mental. La conversa comptarà amb tres veus complementàries: Elena Crespi Asensio , psicòloga i autora de Alimentar la bèstia. Pressió estètica i ordre patriarcal ; Valentina Berr , escriptora, divulgadora i activista pels drets i les realitats LGTBIQ+; i Nayeli Martínez , jove testimoni supervivent d’un TCA, estudiant de Comunicació i cocreadora del projecte artístic La prima cena . Organitza: Àrea d’Educació i Joventut del Consell Comarcal de la Garrotxa, a través de Garrotxa Jove, amb el suport de la Diputació de Girona.",
-      "url": "https://www.olotcultura.cat/agenda/acte/mirades-que-pesen-cossos-que-importen/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-19",
-      "date_end": "2026-11-19",
-      "sessions": [
-        {
-          "date": "2026-11-19",
-          "time": "18:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-fdbb888825af",
       "title": "Durruti, t’estimo",
@@ -330,7 +254,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9723.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Teatre i dansa",
+      "category": "Música",
       "description": "El programa de curtmetratges Astres immòbils ens obre una porta a descobrir nous mons des de l’assertivitat, l’escolta i el respecte mutu a través de les històries que li donen vida. Les tres narracions ens proposen un viatge que ens transporta a universos visuals únics partint del simbolisme dels colors i les formes. Ens parlen de convivència, de la possibilitat d’esbrinar d’on prové cadascú i de la transcendència de fer aquests viatges emocionals. A Astres immòbils coneixem la Chenghua, una nena de nou anys a qui li toca assumir la responsabilitat de fer de traductora per als seus pares, d’origen xinès, i busca evadir-se amb la seva afició per l’espai. A Luce i la roca descobrim l’amistat entre dos personatges que, tot i semblar no tenir res en comú, s’enfronten junts a la seva por al desconegut. A la faula El naixement dels oasis una serp de sang freda i un camell de sang massa calenta es fan amics fins al final dels seus dies. Astres immòbils tanca la sèrie de tres programes de curtmetratges format per La barca del vent i L’illa dels ocells . Cada un d’ells compta amb un migmetratge protagonitzat per una nena d’edat preadolescent, conformant així una trilogia d’històries iniciàtiques d’heroïnes contemporànies.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34158-astres-immobils.html",
       "source": "Cultura Banyoles",
@@ -644,6 +568,25 @@
         {
           "date": "2026-11-27",
           "time": "21:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-b377db94dab3",
+      "title": "EL CERCLE: cultura de club i música electrònica",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/EL-CERCLE_Premsa_Sessio03.jpg",
+      "municipality": "Olot",
+      "venue": "Club Stromboli",
+      "category": null,
+      "description": "El Cercle arriba a la tercera sessió de la temporada amb una nova tarda de música electrònica al Club Stromboli, amb el pd garrotxí Aldix, un apassionat de l’electro i el techno en constant recerca de sons nous, i B-Frank a la cabina que, amb més de vint anys de trajectòria, es manté fidel al techno més contundent i l’ underground . Després del seu pas pel Cercle durant la primera temporada, torna amb una sessió més hipnòtica, profunda i progressiva, sense perdre la força que caracteritza el seu so. Organitza: EL CERCLE",
+      "url": "https://www.olotcultura.cat/agenda/acte/el-cercle-cultura-de-club-i-musica-electronica-4/",
+      "source": "Olot Cultura",
+      "date_start": "2026-11-28",
+      "date_end": "2026-11-28",
+      "sessions": [
+        {
+          "date": "2026-11-28",
+          "time": "20:00"
         }
       ]
     },
@@ -1127,7 +1070,7 @@
       "title": "Recital poètic: “Aires”, Philippe Jaccottet",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/philippe-jaccottet-recital.jpg",
       "municipality": "Olot",
-      "venue": "Centre Catòlic d’Olot",
+      "venue": "Els Catòlics",
       "category": null,
       "description": "És possible que el poeta desaparegui dels seus versos? Aquest és un exercici difícil que Jaccottet aconsegueix després de passar per un procés turmentós de l’ànima que el mena a una transformació, una transmutació. Inspirat en l’esperit de la poesia oriental i els paisatges alpins suïssos, sublima la ingravidesa de l’existència en pau amb un mateix a través d’objectes i éssers quotidians que troba en les seves caminades diàries. Fils de llum en la foscor dels nostres viaranys. Intèrprets: Rapsòdia veus literàries: veus poètiques Jordi Ballesteros: música Arantxa Villafranca: imatge Organitza: Rapsòdia veus literàries",
       "url": "https://www.olotcultura.cat/agenda/acte/recital-poetic-aires-philippe-jaccottet/",
@@ -1575,6 +1518,25 @@
         {
           "date": "2026-12-23",
           "time": "16:30"
+        }
+      ]
+    },
+    {
+      "id": "Olot Cultura-35275cce1117",
+      "title": "Calendari d’advent de la sala infantil de la Biblioteca",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/calendari-advent_agenda-web-1.jpg",
+      "municipality": "Olot",
+      "venue": "Biblioteca Marià Vayreda",
+      "category": null,
+      "description": "Durant el mes de desembre, a la sala infantil de la Biblioteca Marià Vayreda hi podreu trobar un calendari d’advent ben peculiar: cada dia portarà lots de llibres sorpresa, adaptats a les diferents edats de les criatures. Us animeu a venir i agafar-los en préstec? Organitza: Biblioteca Marià Vayreda",
+      "url": "https://www.olotcultura.cat/agenda/acte/calendari-dadvent-de-la-sala-infantil-de-la-biblioteca-2/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-24",
+      "date_end": "2026-12-24",
+      "sessions": [
+        {
+          "date": "2026-12-24",
+          "time": "17:30"
         }
       ]
     },
@@ -2126,13 +2088,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 98,
-      "events_published": 98,
+      "events_found": 96,
+      "events_published": 96,
       "rejected_no_valid_image": 0,
-      "with_image": 98,
-      "with_sessions": 98,
-      "with_venue": 98,
-      "with_municipality": 98
+      "with_image": 96,
+      "with_sessions": 96,
+      "with_venue": 96,
+      "with_municipality": 96
     },
     {
       "connector": "connectors.celra",
