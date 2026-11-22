@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-11-21T12:49:13.278046+00:00",
+  "generated_at": "2026-11-22T12:44:17.219034+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-ddd1958f0cc0",
-      "title": "El retrat de Dorian Gray",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-21-retrat-dorian-gray.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Àngels Gonyalons encarna Oscar Wilde per interpel·lar un món encara obsessionat amb la joventut i la imatge Àngels Gonyalons es posa en la pell d’Oscar Wilde per defensar El retrat de Dorian Gray dels atacs de la crítica del seu temps, i és a través de la seva veu que veiem tots els personatges de la controvertida novel·la. Ella és Dorian, el jove que sent enveja de la bellesa del seu propi retrat i que fa un pacte amb el diable per conservar eternament la joventut. Ella és Basyl Hayward, el pintor del controvertit retrat. Ella és Sybil Vane, la jove actriu de qui Dorian s’enamora. Però, sobretot, ella és Lord Henry, el dandi depravat que acompanya Dorian en la seva baixada als inferns mentre el seu retrat es va transformant monstruosament. El culte a la joventut i a l’individualisme narcisista, que són al cor de la peça, ressonen avui dia, en un món com el nostre, regit per l’estètica i obsessionat per la darrera novetat. Direcció d’escena i dramatúrgia: Marc Rosich Direcció musical i composició: Jordi Cornudella Intèrprets: Àngel Gonyalons, Jordi Vidal, Pau Oliver, Pol Blancafort i Leos Quintet (Ernest Martínez / Laura Urteaga – Primer violí i direcció musical; Sara Balasch / Laura Marin – Segon violí, Arabela Fernández / Oriol Tort – Viola; Eduard Raventós / Nico Cobo – Cello; Alejandro Frankel / Iu Boixader – Contrabaix) Moviment: Montserrat Colomé Escenografia: Sebastià Brosa Vestuari: Joana Martí Il·luminació: Bernat Jansà Espai sonor: Jordi Ballbé Caracterització: Toni Santos",
-      "url": "https://www.olotcultura.cat/agenda/acte/el-retrat-de-dorian-gray/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-21",
-      "date_end": "2026-11-21",
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-7d50b9fc8c8c",
-      "title": "Els músics de Brémen",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/bremen-orfeo.jpg",
-      "municipality": "Olot",
-      "venue": "Orfeó Popular Olotí",
-      "category": null,
-      "description": "Al burro li diuen que ja és vell i que no serveix per res, però ell no hi està d’acord, ell encara té un somni i decideix emprendre el camí fins la ciutat de Bremen per poder ser músic de la banda de la ciutat. De seguida fa uns bons amics que l’acompanyen en la seva petita aventura. Un conte dels germans Grimm fet amb ombres i música, ágil, divertit i ple de detalls. Vet aquí un gos, vet aquí un gat, vet aquí un burro i un gall esgargamellat! Organitza: Orfeó Popular Olotí",
-      "url": "https://www.olotcultura.cat/agenda/acte/els-musics-de-bremen/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-21",
-      "date_end": "2026-11-21",
-      "sessions": [
-        {
-          "date": "2026-11-21",
-          "time": "17:00"
-        }
-      ]
-    },
     {
       "id": "Cultura Banyoles-3a4fea346c91",
       "title": "Astres immòbils",
@@ -59,63 +21,6 @@
       ]
     },
     {
-      "id": "Celrà Cultura-268cbfedb709",
-      "title": "FESTA DE TARDOR 2026",
-      "image": "https://www.celracultura.cat/img/image/fotos/curiositats-tardor-2021.jpg?w=1200&aoe=1&q=80&h=800&zc=1",
-      "municipality": "Celrà",
-      "venue": "Plaça de l'Església",
-      "category": "Fires",
-      "description": "Vine a esmorzar botifarra de bolets. Botifarra de bolets, pa amb tomata i beguda: 6 €. A càrrec del Casal Independentista Guillem Agulló i Salvador de Celrà. • De 8 a 10 h, a la plaça de l’Església.",
-      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/704-festa-de-tardor.html",
-      "source": "Celrà Cultura",
-      "date_start": "2026-11-22",
-      "date_end": "2026-11-22",
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "time": "09:00"
-        }
-      ]
-    },
-    {
-      "id": "Cultura Banyoles-d1bed9ebe6a2",
-      "title": "Pleguem flors",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9885.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Teatre i dansa",
-      "description": "Taller de papiroflèxia per a la creació de flors fetes amb papiroflèxia. A càrrec de Vidalfont Paper. Organitza: Museu Darder de Banyoles, Ajuntament de Banyoles Amb el suport de: Diputació de Girona, Generalitat de Catalunya. Departament de Cultura",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34168-pleguem-flors.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-22",
-      "date_end": "2026-11-22",
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "time": "11:00"
-        }
-      ]
-    },
-    {
-      "id": "Celrà Cultura-2e8fde8028ab",
-      "title": "RESTART PARTY 2026",
-      "image": "https://www.celracultura.cat/img/image/fotos/se-recomienda-reparar-un-electrodomestico-pequeno_img87850t1.jpg?w=1200&aoe=1&q=80&h=800&zc=1",
-      "municipality": "Celrà",
-      "venue": "Plaça de l'Església",
-      "category": "Fires",
-      "description": "Vine a la Restart Party a Celrà a reparar i aprendre com reparar els aparells electrònics.",
-      "url": "https://www.celracultura.cat/ca/agenda-entrades/c/591-restart-party.html",
-      "source": "Celrà Cultura",
-      "date_start": "2026-11-22",
-      "date_end": "2026-11-22",
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "time": "10:00"
-        }
-      ]
-    },
-    {
       "id": "Olot Cultura-5d7ba4dfcab6",
       "title": "Un sopar incòmode",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/sopar.jpg",
@@ -131,25 +36,6 @@
         {
           "date": "2026-11-22",
           "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-90ab19775cf1",
-      "title": "Visita comentada a l’exposició “L’univers d’en Garrell, 10 anys i més enllà” i projecció de la pel·lícula “Sobre la marxa”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/olot-arquitectura.jpg",
-      "municipality": "Olot",
-      "venue": "Argelaguer",
-      "category": null,
-      "description": "Es farà una visita comentada a l’exposició “L’univers d’en Garrell, 10 anys i més enllà” que repassa la vida, la figura i el llegat artístic i arquitectònic d’en Garrell, considerat un referent de l’art brut i el paisatgisme visionari. A continuació es visionarà “Sobre la marxa”, de Jordi Morató: un llargmetratge que narra la història d’un home que va crear una selva al costat de l’autopista: alçava construccions belles i inversemblants al bosc. Després les destruïa i les convertia en cendres per tornar-les a construir una altra vegada. I així durant dècades. Se’l coneix amb el nom de “Garrell”, o bé com el “Tarzan d’Argelaguer”. No es guia amb cap propòsit aparent, tret del seu lema: anar fent “sobre la marxa”.",
-      "url": "https://www.olotcultura.cat/agenda/acte/visita-comentada-a-lexposicio-lunivers-den-garrell-10-anys-i-mes-enlla-i-projeccio-de-la-pellicula-sobre-la-marxa/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-22",
-      "date_end": "2026-11-22",
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "time": "11:00"
         }
       ]
     },
@@ -757,7 +643,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "11:00"
+          "time": "10:30"
         }
       ]
     },
@@ -805,7 +691,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/10339.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Teatre i dansa",
+      "category": "Música",
       "description": "Crea la teva postal de Nadal d’estil Manga i gaudeix d’una estona creativa mentre practiques aquesta estètica tan característica. Una proposta original per felicitar les festes nadalenques.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34231-postal-de-nadal-manga.html",
       "source": "Cultura Banyoles",
@@ -995,7 +881,7 @@
       "image": "https://cultura.banyoles.cat/img/image/fotos/9884.png?w=1500&aoe=1&q=80&h=1000&zc=1&f=png",
       "municipality": "Banyoles",
       "venue": null,
-      "category": "Biblioteca",
+      "category": "Teatre i dansa",
       "description": "Taller de papiroflèxia per a la creació i decoració d’insectes i altres invertebrats fets amb papiroflèxia. A càrrec de Vidalfont Paper. Organitza: Museu Darder de Banyoles, Ajuntament de Banyoles. Amb el suport de: Diputació de Girona, Generalitat de Catalunya. Departament de Cultura.",
       "url": "https://cultura.banyoles.cat/ca/programacio/c/34169-pleguem-cuques.html",
       "source": "Cultura Banyoles",
@@ -1906,35 +1792,35 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 9,
-      "events_published": 9,
+      "events_found": 8,
+      "events_published": 8,
       "rejected_no_valid_image": 0,
-      "with_image": 9,
-      "with_sessions": 9,
+      "with_image": 8,
+      "with_sessions": 8,
       "with_venue": 0,
-      "with_municipality": 9
+      "with_municipality": 8
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 88,
-      "events_published": 88,
+      "events_found": 85,
+      "events_published": 85,
       "rejected_no_valid_image": 0,
-      "with_image": 88,
-      "with_sessions": 88,
-      "with_venue": 88,
-      "with_municipality": 88
+      "with_image": 85,
+      "with_sessions": 85,
+      "with_venue": 85,
+      "with_municipality": 85
     },
     {
       "connector": "connectors.celra",
       "ok": true,
-      "events_found": 3,
-      "events_published": 3,
+      "events_found": 1,
+      "events_published": 1,
       "rejected_no_valid_image": 0,
-      "with_image": 3,
-      "with_sessions": 3,
-      "with_venue": 3,
-      "with_municipality": 3
+      "with_image": 1,
+      "with_sessions": 1,
+      "with_venue": 1,
+      "with_municipality": 1
     }
   ]
 }
