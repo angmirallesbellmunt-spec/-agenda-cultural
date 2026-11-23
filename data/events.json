@@ -1,63 +1,6 @@
 {
-  "generated_at": "2026-11-22T12:44:17.219034+00:00",
+  "generated_at": "2026-11-23T14:50:02.561493+00:00",
   "events": [
-    {
-      "id": "Cultura Banyoles-3a4fea346c91",
-      "title": "Astres immòbils",
-      "image": "https://cultura.banyoles.cat/img/image/fotos/9723.jpeg?w=1500&aoe=1&q=80&h=1000&zc=1",
-      "municipality": "Banyoles",
-      "venue": null,
-      "category": "Música",
-      "description": "El programa de curtmetratges Astres immòbils ens obre una porta a descobrir nous mons des de l’assertivitat, l’escolta i el respecte mutu a través de les històries que li donen vida. Les tres narracions ens proposen un viatge que ens transporta a universos visuals únics partint del simbolisme dels colors i les formes. Ens parlen de convivència, de la possibilitat d’esbrinar d’on prové cadascú i de la transcendència de fer aquests viatges emocionals. A Astres immòbils coneixem la Chenghua, una nena de nou anys a qui li toca assumir la responsabilitat de fer de traductora per als seus pares, d’origen xinès, i busca evadir-se amb la seva afició per l’espai. A Luce i la roca descobrim l’amistat entre dos personatges que, tot i semblar no tenir res en comú, s’enfronten junts a la seva por al desconegut. A la faula El naixement dels oasis una serp de sang freda i un camell de sang massa calenta es fan amics fins al final dels seus dies. Astres immòbils tanca la sèrie de tres programes de curtmetratges format per La barca del vent i L’illa dels ocells . Cada un d’ells compta amb un migmetratge protagonitzat per una nena d’edat preadolescent, conformant així una trilogia d’històries iniciàtiques d’heroïnes contemporànies.",
-      "url": "https://cultura.banyoles.cat/ca/programacio/c/34158-astres-immobils.html",
-      "source": "Cultura Banyoles",
-      "date_start": "2026-11-22",
-      "date_end": "2026-11-22",
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "time": "17:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-5d7ba4dfcab6",
-      "title": "Un sopar incòmode",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/sopar.jpg",
-      "municipality": "Olot",
-      "venue": "Els Catòlics",
-      "category": null,
-      "description": "Pot un sopar de veïns, que promet cordialitat, convertir-se en un sopar incòmode? Arriba un moment que els conflictes s’acaben posant sobre la taula i, entre plats, copes i brindis, afloren els estereotips, les vergonyes, els prejudicis… on cada paraula pot destapar més del que es voldria. I tu… què diries si sabessis que no es pot canviar de tema? Organitza: Secció Dramàtica del Centre Catòlic d’Olot",
-      "url": "https://www.olotcultura.cat/agenda/acte/un-sopar-incomode/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-22",
-      "date_end": "2026-11-22",
-      "sessions": [
-        {
-          "date": "2026-11-22",
-          "time": "18:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-dbf7582ce649",
-      "title": "Una parada més",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-16-La-Cremallera_146.jpg",
-      "municipality": "Olot",
-      "venue": "Firal",
-      "category": null,
-      "description": "Un espectacle per veure els dilluns de novembre mentre aneu al mercat Som Casa·Teatre. Un artefacte escènic sobre rodes en construcció: un teatre-casa on el públic serà convidat a formar part d’històries fantàstiques i íntimes contades a través de la narració oral i el teatre visual (teatre d’objectes, titelles i autòmats). Però a més d’espai d’exhibició, Casa·Teatre volem ser un lloc de trobada i un arxiu d’històries recol·lectades. Per aquesta ocasió presentem Una parada més , i és que convertim el nostre vagó en una parada més del mercat d’Olot. Us recomanarem deixant fora el soroll per entrar en el silenci de les coses i trobar, en els detalls més petits, històries latents. I us convidem a fer-ho tots els dilluns de novembre, mentre aneu a mercat al Firal: entrar i veure un petit espectacle (com qui es para a comprar taronges o a xerrar amb el de la parada de verdures una estona). Aquesta també serà casa vostra. Direcció artística i escènica: Andrea Díaz Reboredo Direcció artística i tècnica: Marc Selles Argos Intèrprets: Marc Sellés i Andrea Díaz Mediació artística: Paula Pascual de la Torre i Calatea Teatro Producció artística: Casa·Teatre Projecte creat amb el suport del Programa Crea en Xarxa – Arts de Carrer. Amb el suport i acompanyament de: Fundació Andruxai, Procrea – Plataforma de suport, Això al poble no li agradarà, Beca de creació Pasatje Insolit i Froschemie.",
-      "url": "https://www.olotcultura.cat/agenda/acte/una-parada-mes-duplicate-4/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-23",
-      "date_end": "2026-11-23",
-      "sessions": [
-        {
-          "date": "2026-11-23",
-          "time": "13:00"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-985e852e992d",
       "title": "Visita guiada a l’exposició “Nomás”",
@@ -971,6 +914,25 @@
       ]
     },
     {
+      "id": "Olot Cultura-96ba54fe67db",
+      "title": "Presentació del llibre ‘Narcís Molins i Fàbrega, el periodista compromès’",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/aquarela-vlady_llibre-barnadas.jpg",
+      "municipality": "Olot",
+      "venue": "Arxiu Comarcal de la Garrotxa",
+      "category": null,
+      "description": "Presentació del llibre Narcís Molins i Fàbrega, el periodista compromès (Olot, 2026), de la col·lecció “Nova Biblioteca Olotina”, de l’escriptor Joan Barnadas i Puigferrer. A l’acte intervindran el mateix autor del llibre i el filòleg Luis Delgado Alfonso. Els presentadors parlaran de la importància que té el coneixement de la figura de Narcís Molins, garrotxí que va desenvolupar la seva activitat política i periodística a Barcelona, des de l’epicentre dels esdeveniments històrics dels convulsos anys trenta del segle XX.",
+      "url": "https://www.olotcultura.cat/agenda/acte/presentacio-del-llibre-narcis-molins-i-fabrega-el-periodista-compromes/",
+      "source": "Olot Cultura",
+      "date_start": "2026-12-16",
+      "date_end": "2026-12-16",
+      "sessions": [
+        {
+          "date": "2026-12-16",
+          "time": "19:30"
+        }
+      ]
+    },
+    {
       "id": "Olot Cultura-1b031ab030a8",
       "title": "Taula rodona: “Veus que travessen fronteres. Nosaltres en lletres.”",
       "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/veus-que-travessen-fronteres_agenda-web.jpg",
@@ -1277,7 +1239,7 @@
     {
       "id": "Olot Cultura-5b2f984f7d1b",
       "title": "Els Pastorets d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/pastorets-orfeo_guilla_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
       "category": null,
@@ -1315,7 +1277,7 @@
     {
       "id": "Olot Cultura-c559a8950caf",
       "title": "Els Pastorets d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/pastorets-orfeo_guilla_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
       "category": null,
@@ -1372,7 +1334,7 @@
     {
       "id": "Olot Cultura-41422645e97e",
       "title": "Els Pastorets d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/pastorets-orfeo_guilla_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
       "category": null,
@@ -1391,7 +1353,7 @@
     {
       "id": "Olot Cultura-f1a6a095840b",
       "title": "Els Pastorets d’Olot",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/Els-pastorests-orfeo-2026-1.jpg",
+      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/pastorets-orfeo_guilla_agenda-web.jpg",
       "municipality": "Olot",
       "venue": "Orfeó Popular Olotí",
       "category": null,
@@ -1792,24 +1754,24 @@
     {
       "connector": "connectors.banyoles",
       "ok": true,
-      "events_found": 8,
-      "events_published": 8,
+      "events_found": 7,
+      "events_published": 7,
       "rejected_no_valid_image": 0,
-      "with_image": 8,
-      "with_sessions": 8,
+      "with_image": 7,
+      "with_sessions": 7,
       "with_venue": 0,
-      "with_municipality": 8
+      "with_municipality": 7
     },
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 85,
-      "events_published": 85,
+      "events_found": 84,
+      "events_published": 84,
       "rejected_no_valid_image": 0,
-      "with_image": 85,
-      "with_sessions": 85,
-      "with_venue": 85,
-      "with_municipality": 85
+      "with_image": 84,
+      "with_sessions": 84,
+      "with_venue": 84,
+      "with_municipality": 84
     },
     {
       "connector": "connectors.celra",
