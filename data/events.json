@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-25T14:34:26.242601+00:00",
+  "generated_at": "2026-11-26T14:02:33.766030+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-985e852e992d",
-      "title": "Visita guiada a l’exposició “Nomás”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/10/nomas-exposicio.jpg",
-      "municipality": "Olot",
-      "venue": "Hospital d’Olot i comarcal de la Garrotxa",
-      "category": null,
-      "description": "Coincidint amb el Dia Internacional de l’Eliminació de la Violència contra les Dones, es farà una visita guiada a l’exposició “Nomás” a càrrec de l’autora. El vestíbul de l’Hospital d’Olot serà el punt de trobada. Organitza: Fundació Hospital d’Olot i Comarcal de la Garrotxa.",
-      "url": "https://www.olotcultura.cat/agenda/acte/visita-guiada-a-lexposicio-nomas/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-25",
-      "date_end": "2026-11-25",
-      "sessions": [
-        {
-          "date": "2026-11-25",
-          "time": null
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-a4d2055beff0",
       "title": "Recreativos Federico",
@@ -939,7 +920,7 @@
       "municipality": "Olot",
       "venue": "Sala El Torín",
       "category": null,
-      "description": "Taula rodona amb escriptors i escriptores que han nascut fora de Catalunya i escriuen en català: Gangandeep Singh, Xènia Dyakonova, Agnès Agboton i Youssef el Maimouni. Faciliten la taula: Eloi Domínguez i Joaquim Monturiol, autors del llibre El parlar de la Garrotxa . La trobada acabarà amb un petit refrigeri. Organitza: CASG i CEPAIM",
+      "description": "Taula rodona amb escriptors i escriptores que han nascut fora de Catalunya i escriuen en català: Gagandeep Singh, Xènia Dyakonova, Agnès Agboton i Youssef el Maimouni. Faciliten la taula: Eloi Domínguez i Joaquim Monturiol, autors del llibre El parlar de la Garrotxa . La trobada acabarà amb un petit refrigeri. Organitza: CASG i CEPAIM",
       "url": "https://www.olotcultura.cat/agenda/acte/taula-rodona-veus-que-travessen-fronteres-nosaltres-en-lletres/",
       "source": "Olot Cultura",
       "date_start": "2026-12-16",
@@ -1765,13 +1746,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 84,
-      "events_published": 84,
+      "events_found": 83,
+      "events_published": 83,
       "rejected_no_valid_image": 0,
-      "with_image": 84,
-      "with_sessions": 84,
-      "with_venue": 84,
-      "with_municipality": 84
+      "with_image": 83,
+      "with_sessions": 83,
+      "with_venue": 83,
+      "with_municipality": 83
     },
     {
       "connector": "connectors.celra",
