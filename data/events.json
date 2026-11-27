@@ -1,82 +1,6 @@
 {
-  "generated_at": "2026-11-26T14:02:33.766030+00:00",
+  "generated_at": "2026-11-27T14:00:40.785897+00:00",
   "events": [
-    {
-      "id": "Olot Cultura-a4d2055beff0",
-      "title": "Recreativos Federico",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-26-i-27-recreativos-federico.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
-      "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-26",
-      "date_end": "2026-11-26",
-      "sessions": [
-        {
-          "date": "2026-11-26",
-          "time": "19:00"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-fbb890949e57",
-      "title": "Recreativos Federico",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/07/11-26-i-27-recreativos-federico.jpg",
-      "municipality": "Olot",
-      "venue": "Teatre Principal d’Olot",
-      "category": null,
-      "description": "Un saló recreatiu format per set màquines expenedores i de joc basades en l’obra i el context de Federico García Lorca Recreativos Federico és una instal·lació exodramàtica que desplega un imaginari surrealista entorn de la figura i el context del poeta. Una proposta artística interactiva i immersiva, amb gran presència plàstica i sonora, que reflexiona sobre l’apropiació popular de les icones artístiques, polítiques i socials del llegat historicoartístic d’una comunitat. L’espectador-usuari podrà fer una visita guiada pel Saló de Màquines i jugar una partideta a Amor de Don Perlimplín con Belisa en su futbolín , aconseguir el ventall de Bernarda Alba signat per les protagonistes de la tragèdia a La grua de Bernarda Alba o extreure de la màquina de preservatius Yerma, La nuit , l’exclusiu condó del personatge principal del famós drama de Lorca. Bolas de sangre , Las Sinsombrero , Cadaqués Invaders i la màquina de canvi Así que pasen cinco euros conformen la resta de propostes de la instal·lació. Idea, desenvolupament i direcció: Àlex Peña Disseny i desenvolupament sonor: Pablo Peña i Darío del Moral Música i veus: The Gardener, Fiera i Rocío Activitat complementària Taller per a docents, a càrrec d’Àlex Peña Dimecres 25 de novembre, 18 h, Teatre Principal d’Olot Més informació i inscripcions a educatiusescenics@olot.cat",
-      "url": "https://www.olotcultura.cat/agenda/acte/recreativos-federico-1/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-26",
-      "date_end": "2026-11-26",
-      "sessions": [
-        {
-          "date": "2026-11-26",
-          "time": "20:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-caa80b3d63d9",
-      "title": "“El dol migratori, una nova mirada a la multiculturalitat”",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/DolMigratori_26112026_H.jpg",
-      "municipality": "Olot",
-      "venue": "Hospital d’Olot i comarcal de la Garrotxa",
-      "category": null,
-      "description": null,
-      "url": "https://www.olotcultura.cat/agenda/acte/el-dol-migratori-una-nova-mirada-a-la-multiculturalitat/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-26",
-      "date_end": "2026-11-26",
-      "sessions": [
-        {
-          "date": "2026-11-26",
-          "time": "18:30"
-        }
-      ]
-    },
-    {
-      "id": "Olot Cultura-dcd247d12542",
-      "title": "Il·lustrut. Jornades professionals d’il·lustració gironina",
-      "image": "https://www.olotcultura.cat/wp-content/uploads/2026/11/illustrut_agenda-web.jpg",
-      "municipality": "Olot",
-      "venue": "Escola d’Art d’Olot",
-      "category": null,
-      "description": "Arriba ‘Il·lustrut’, les jornades professionals d’il·lustració gironina, organitzades per Associació Professional d’Il·lustradors de Catalunya (APIC). Històries que inspiren. Descobreix diferents camins per dedicar-te professionalment a la il·lustració. Oportunitats que val la pena conèixer. Beques, ajuts i recursos per impulsar els teus projectes. Debats que ens afecten. Parlem del present i el futur de la il·lustració davant la intel·ligència artificial. Persones i projectes per descobrir. Una oportunitat per trobar-nos, compartir experiències i fer créixer la xarxa d’il·lustradors i il·lustradores de les comarques gironines. I tot això amb professionals, creadors i agents del sector que tenen molt per compartir! Un matí per descobrir eines, recursos i oportunitats per iniciar i desenvolupar una trajectòria professional en el món de la il·lustració. 10.30 – 11.30 h | Màster class Fins a la il·lustració: un camí personal (i ple de corbes) Ponent: Dani Torrent. Il·lustrador, pintor i escriptor Una sessió per descobrir, a través de l’experiència personal i professional de Dani Torrent, els camins que poden portar a dedicar-se a la il·lustració. Un recorregut per les decisions, els aprenentatges, els reptes i les oportunitats que apareixen al llarg d’una trajectòria creativa. 11.30 – 12.00 h | Pausa 12.00 – 13.00 h | Xerrada Com començar i professionalitzar-se en el sector de la il·lustració Ponent: Anna Miracle Fandos, cap de projectes DAQ Studio Una sessió especialment adreçada a estudiants d’escoles d’art, professionals emergents i persones que volen iniciar la seva trajectòria en el sector de la il·lustració. ​Més informació: https://apic.cat/actualitat/illustrut-jornades-professionals-dillustracio- gironina/ Organitza: Associació Professional d’Il·lustradors de Catalunya (APIC) Amb la col·laboració de: La Mercè Centre Cultural, l’Escola d’Art d’Olot, el Consell Nacional de la Cultura i de les Arts, la Diputació de Girona i el departament de Cultura de la Generalitat de Catalunya.",
-      "url": "https://www.olotcultura.cat/agenda/acte/illustrut-jornades-professionals-dillustracio-gironina/",
-      "source": "Olot Cultura",
-      "date_start": "2026-11-27",
-      "date_end": "2026-11-27",
-      "sessions": [
-        {
-          "date": "2026-11-27",
-          "time": "10:30"
-        }
-      ]
-    },
     {
       "id": "Olot Cultura-1fd3bd260347",
       "title": "Lucia Fumero",
@@ -567,7 +491,7 @@
       "sessions": [
         {
           "date": "2026-12-06",
-          "time": "10:30"
+          "time": "12:00"
         }
       ]
     },
@@ -730,7 +654,7 @@
       "municipality": "Olot",
       "venue": "Teatre Principal d’Olot",
       "category": null,
-      "description": "Diverses artistes i disciplines de circ s’uneixen a l’escenari El Col·lectiu de Professionals de Circ de Girona presenta amb molta il·lusió la 2a edició de Combinat de circ del CPCG, una proposta escènica que sorgeix d’un procés intens de creació col·lectiva. Un territori fèrtil on artistes de diverses disciplines comparteixen, barregen i reinventen els seus universos per donar forma a una peça única. En pocs dies de trobada i treball, les artistes experimenten, hibriden i transformen els seus materials físics i artístics. El resultat és un espectacle vibrant i ple de contrastos on cada disciplina s’entrellaça per construir un fil dramatúrgic sorprenent i emocionant al voltant d’un tema triat per la direcció artística. https://www.circgirona.cat/",
+      "description": "Diverses artistes i disciplines de circ s’uneixen a l’escenari El Col·lectiu de Professionals de Circ de Girona presenta amb molta il·lusió la 2a edició de Combinat de circ del CPCG, una proposta escènica que sorgeix d’un procés intens de creació col·lectiva. Un territori fèrtil on artistes de diverses disciplines comparteixen, barregen i reinventen els seus universos per donar forma a una peça única. En pocs dies de trobada i treball, les artistes experimenten, hibriden i transformen els seus materials físics i artístics. El resultat és un espectacle vibrant i ple de contrastos on cada disciplina s’entrellaça per construir un fil dramatúrgic sorprenent i emocionant al voltant d’un tema triat per la direcció artística. Un espai on diferents artistes de circ es troben per compartir, barrejar i transformar els seus universos. Durant aquest procés intens i breu de creació col·lectiva, les artistes experimenten, hibriden, desmunten i reinventen els seus materials físics i artístics sota la mirada d’una direcció escènica que guia i dona coherència. El resultat? Un espectacle únic, cada edició és un univers, on diverses disciplines del circ es teixeixen en un fil dramatúrgic que emociona i sorprèn. Un circ fresc, humà i fet a Girona. Guillem Gerones (cia.Ortiga) i Diana Pla – Direcció artística Gabi Fernandez – acrobàcia aèria, mans a mans i cant Pau Moniato – pallasso, acrobàcia i manipulació d’objectes Dorin Julivert – pallasso, acrobàcia i mans a mans Laura Marsal – acro-dansa i moviment Michaël Lecuyer – Música original Sergi Salvador – Creació de llums Rigging i producció – CPCG https://www.circgirona.cat/",
       "url": "https://www.olotcultura.cat/agenda/acte/combinat-de-circ/",
       "source": "Olot Cultura",
       "date_start": "2026-12-12",
@@ -1746,13 +1670,13 @@
     {
       "connector": "connectors.olot",
       "ok": true,
-      "events_found": 83,
-      "events_published": 83,
+      "events_found": 79,
+      "events_published": 79,
       "rejected_no_valid_image": 0,
-      "with_image": 83,
-      "with_sessions": 83,
-      "with_venue": 83,
-      "with_municipality": 83
+      "with_image": 79,
+      "with_sessions": 79,
+      "with_venue": 79,
+      "with_municipality": 79
     },
     {
       "connector": "connectors.celra",
